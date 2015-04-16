@@ -2,10 +2,21 @@
 
 A curated list of good stuff related to the development of games. This list contains *only* [free software][1] for code, sellers who aren't evil for physical resources, and [free cultural works][2] for assets.
 
+I have also provided a list of resources which are *not* free, and the reasons why, in the associated Wall of Shame file.
+
 This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
+
+Assorted Assets
+===============
+
+This contains collections of miscellaneous assets of different kinds.
+
+* [OpenGameArt.org][7] - A large collection of art intended for game development. Various licenses, including free ones.
+* [Wikimedia Commons][97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
 
 Audio
 =====
+
 
 ## Editors ##
 
@@ -15,6 +26,9 @@ Audio
 
 ## Music ##
 
+* [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
+* [Creative Commons on SoundCloud][98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen][31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
 
 ## Sound Effects ##
@@ -27,16 +41,24 @@ Engines
 
 These are full-blown game engines.
 
+## Android ##
+
+* [AndEngine][70] - Implemented in Java. [Apache2.0][71].
+
 ## General ##
 
 * [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
+* [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
+* [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
 * [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23]).
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
-* [Grit][50] - Implemented in C++. Has Lua scripting. [Expat][11].
+* [Helm][83] - Implemented in Haskell. [Expat][11].
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
+* [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
+* [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
 * [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
 * [Torque2D][63] - Implemented in C++. Has its own scripting language. [Expat][11].
@@ -44,7 +66,8 @@ These are full-blown game engines.
 
 ## HTML5 ##
 
-* [Crafty.js][68] - Implemented in ECMAScript. [Expat][11] and [GNU GPLv3][23]. 
+* [Crafty.js][68] - Implemented in ECMAScript. [Expat][11] and [GNU GPLv3][23].
+* [melonJS][93] - Implemented in ECMAScript. [Expat][11].
 * [Phaser][64] - Implemented in ECMAScript. [Expat][11].
 * [PlayCanvas][65] - Implemented in ECMAScript. [Expat][11].
 
@@ -52,6 +75,7 @@ These are full-blown game engines.
 
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
+* [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 
 Graphics
 ========
@@ -69,7 +93,6 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [Free stuff by 7Soul1][3] - A collection of various game-related assets. Available in PNG. Public domain.
 * [openclipart][6] - A collection of various clip art. Available in PNG. Public domain.
-* [OpenGameArt.org][7] - A large collection of art intended for game development. Various licenses, including free ones.
 * [Vecteezy][12] - A collection of vector art. Various Creative Commons licenses.
 
 ## Icons ##
@@ -96,10 +119,10 @@ Graphics Tools
 * [Inkscape][24] - A vector image editing program. [GNU GPLv2][14].
 * [Krita][25] - A digital painting and illustration program. [GNU GPLv2][14].
 * [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
+* [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14].
 * [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3][38].
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
-* [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 * [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] and [FreeBSD][17].
 
 ## Spritesheet Tools ##
@@ -107,17 +130,35 @@ Graphics Tools
 * [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14].
 * [Piskel][15] - Online pixel art and animated sprite creator. 'Do whatever you want' license.
 
+## Texture Tools ##
+
+* [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
+
 ## Voxel Editors ##
 
 * [Sproxel][28] - A 3D interface for quickly editing and creating voxel-based 3D models. [3-clause BSD][29].
 
-Programming Frameworks
-======================
+Programming Frameworks and Libraries
+===================================
 
 These are programming libraries or low-level code-based tools which are designed to support game programming, but do not provide as much structure or support as an engine would.
 
+* [ActionKid][82] - A simple video game framework. Implemented in Haskell. [3-clause BSD][29].
 * [Allegro 5][36] - A cross-platform library for low-level tasks, like creating windows, accepting user input and so forth. Implemented in C and C++. [3-clause BSD][29].
+* [Bacon2D][72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat][11].
+* [Chipmunk2D][] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
+* [ChipmunkSharp][73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat][11].
+* [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat][11].
+* [EndGate][78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat][11].
+* [HaxeFlixel][79] - A cross-platform development framework, supporting many targets. Implemented in Haxe. [Expat][11].
+* [Kivy][80] - Rapid-development library for multi-touch and visual apps on many platforms. Implemented in Python. [Expat][11].
+* [libGDX][86] - Cross-platform game development framework. Implemented in Java. [Apache 2.0][71].
+* [LimeJS][87] - A framework for building fast HTML5 games. Implemented in ECMAScript. [Apache 2.0][71].
+* [LoomSDK][88] - A very large and powerful framework for cross-platform 2D game development. Implemented in C++. [Apache 2.0][71].
+* [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
+* [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in C++. [3-clause BSD][29].
+* [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat][11].
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib][45].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in ECMAScript. [Expat][11].
 * [voxel.js][67] - A multi-component framework for bulding voxel games for modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
@@ -127,6 +168,7 @@ Utilities
 
 This is a catch-all category for things that don't fit anywhere else.
 
+* [Monkey][94] - A next-generation games programming language. Implemented in C++. [zlib][45].
 * [ScummVM][53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2][14].
 
 
@@ -199,3 +241,32 @@ This is a catch-all category for things that don't fit anywhere else.
 [67]: http://voxeljs.com/
 [68]: http://craftyjs.com/
 [69]: http://threejs.org/
+[70]: http://www.andengine.org/
+[71]: https://directory.fsf.org/wiki/License:Apache2.0
+[72]: http://bacon2d.com/
+[73]: https://github.com/netonjm/ChipmunkSharp
+[74]: https://chipmunk-physics.net/
+[75]: http://python.cocos2d.org/
+[76]: http://cutjs.org/
+[77]: http://duality.adamslair.net/
+[78]: http://endgate.net/
+[79]: http://haxeflixel.com/
+[80]: http://kivy.org/#home
+[81]: http://mypaint.intilinux.com/
+[82]: https://github.com/egonSchiele/actionkid
+[83]: http://helm-engine.org/
+[84]: https://github.com/LambdaHack/LambdaHack
+[85]: https://bandcamp.com/tag/creative-commons
+[86]: http://libgdx.badlogicgames.com/
+[87]: http://www.limejs.com/
+[88]: http://loomsdk.com/
+[89]: http://lycheejs.org/index.html
+[90]: https://love2d.org/
+[91]: http://brm.io/matter-js/
+[92]: http://libminx.org/
+[93]: http://melonjs.org/
+[94]: http://www.monkey-x.com/
+[95]: http://www.pydark.com/
+[96]: https://libre.fm/
+[97]: https://commons.wikimedia.org/wiki/Main_Page
+[98]: https://soundcloud.com/groups/creative-commons
