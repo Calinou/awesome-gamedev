@@ -17,7 +17,6 @@ This contains collections of miscellaneous assets of different kinds.
 Audio
 =====
 
-
 ## Editors ##
 
 * [Audacity][33] - Free software for recording and editing sounds. [GNU GPLv2][14].
@@ -48,6 +47,7 @@ These are full-blown game engines.
 ## General ##
 
 * [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
+* [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
@@ -60,6 +60,8 @@ These are full-blown game engines.
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
+* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11].
+* [RPGBOSS][108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3][27].
 * [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
 * [Torque2D][63] - Implemented in C++. Has its own scripting language. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
@@ -121,9 +123,15 @@ Graphics Tools
 * [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
 * [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14].
 * [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3][38].
+* [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14].
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
+* [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14].
 * [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] and [FreeBSD][17].
+
+## Mesh Tools ##
+
+* [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14].
 
 ## Spritesheet Tools ##
 
@@ -158,8 +166,11 @@ These are programming libraries or low-level code-based tools which are designed
 * [LoomSDK][88] - A very large and powerful framework for cross-platform 2D game development. Implemented in C++. [Apache 2.0][71].
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in C++. [3-clause BSD][29].
+* [p2.js][110] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat][11].
+* [PyGame][106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2][102].
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib][45].
+* [SFML][109] - Simple and Fast Multimedia Library; a multi-platform, multi-language, multimedia interface to various computer hardware. Implemented in C++. Has a [range of bindings][110]. [3-clause BSD][29].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in ECMAScript. [Expat][11].
 * [voxel.js][67] - A multi-component framework for bulding voxel games for modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
 
@@ -168,7 +179,10 @@ Utilities
 
 This is a catch-all category for things that don't fit anywhere else.
 
+* [Assimp][100] - Open Asset Import Library; a portable way to import various well-known 3D model formats in a uniform manner. Implemented in C++, with a range of bindings. [3-clause BSD][29].
+* [libnoise][101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2][102].
 * [Monkey][94] - A next-generation games programming language. Implemented in C++. [zlib][45].
+* [PhysicsFS][99] - A library to provide abstract access to various archives. [zlib][45].
 * [ScummVM][53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2][14].
 
 
@@ -270,3 +284,17 @@ This is a catch-all category for things that don't fit anywhere else.
 [96]: https://libre.fm/
 [97]: https://commons.wikimedia.org/wiki/Main_Page
 [98]: https://soundcloud.com/groups/creative-commons
+[99]: https://icculus.org/physfs/
+[100]: http://assimp.sourceforge.net/
+[101]: http://libnoise.sourceforge.net/
+[102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+[103]: http://meshlab.sourceforge.net/
+[104]: http://www.synfig.org/cms/
+[105]: http://ngplant.org/
+[106]: http://pygame.org/wiki/about
+[107]: http://www.renpy.org/
+[108]: http://rpgboss.com/
+[109]: http://www.sfml-dev.org/index.php
+[110]: http://www.sfml-dev.org/download/bindings.php
+[111]: https://schteppe.github.io/p2.js/
+[112]: http://azul3d.org/

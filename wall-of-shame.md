@@ -15,6 +15,7 @@ Pretends to be free, but isn't
 * Flixel - relies on a proprietary language.
 * Grit - depends on libCG.
 * MonoGame - patent issues.
+* Starling - relies on a proprietary language.
 
 Unclear
 =======
