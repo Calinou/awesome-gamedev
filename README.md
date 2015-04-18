@@ -49,6 +49,7 @@ These are full-blown game engines.
 * [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
+* [Dash][114] - Implemented in D. [Expat][11].
 * [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
@@ -56,15 +57,19 @@ These are full-blown game engines.
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Helm][83] - Implemented in Haskell. [Expat][11].
+* [Horde3D][115] - Implemented in C++. [EPLv1][116].
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
+* [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
 * [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11].
 * [RPGBOSS][108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3][27].
 * [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
+* [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14].
 * [Torque2D][63] - Implemented in C++. Has its own scripting language. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
+* [Urho3D][122] - Implemented in C++. Has its own scripting language. [Expat][11].
 
 ## HTML5 ##
 
@@ -78,6 +83,7 @@ These are full-blown game engines.
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
+* [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate rigid body dynamics. [Original BSD][118].
 
 Graphics
 ========
@@ -156,6 +162,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [Bacon2D][72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat][11].
 * [Chipmunk2D][] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
 * [ChipmunkSharp][73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat][11].
+* [Cinder][113] - A community-developed library for creative coding. Implemented in C++. [FreeBSD][17].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat][11].
@@ -167,6 +174,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in C++. [3-clause BSD][29].
 * [p2.js][110] - 2D physics library. Implemented in ECMAScript. [Expat][11].
+* [Polycode][120] - Framework for games and interactive applications. Implemented in C++. Has Lua bindings. [Expat][11].
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat][11].
 * [PyGame][106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2][102].
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib][45].
@@ -298,3 +306,13 @@ This is a catch-all category for things that don't fit anywhere else.
 [110]: http://www.sfml-dev.org/download/bindings.php
 [111]: https://schteppe.github.io/p2.js/
 [112]: http://azul3d.org/
+[113]: http://libcinder.org/
+[114]: http://dash.circularstudios.com/
+[115]: http://www.horde3d.org/
+[116]: https://directory.fsf.org/wiki/License:EPLv1.0
+[117]: http://www.ode.org/
+[118]: https://directory.fsf.org/wiki/License:BSD_4Clause
+[119]: https://www.panda3d.org/
+[120]: http://polycode.org/
+[121]: https://springrts.com/
+[122]: https://urho3d.github.io/
