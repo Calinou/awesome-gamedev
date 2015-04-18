@@ -40,10 +40,6 @@ Engines
 
 These are full-blown game engines.
 
-## Android ##
-
-* [AndEngine][70] - Implemented in Java. [Apache2.0][71].
-
 ## General ##
 
 * [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
