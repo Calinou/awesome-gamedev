@@ -161,7 +161,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [ActionKid][82] - A simple video game framework. Implemented in Haskell. [3-clause BSD][29].
 * [Allegro 5][36] - A cross-platform library for low-level tasks, like creating windows, accepting user input and so forth. Implemented in C and C++. [3-clause BSD][29].
 * [Bacon2D][72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat][11].
-* [Chipmunk2D][] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
+* [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
 * [ChipmunkSharp][73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat][11].
 * [Cinder][113] - A community-developed library for creative coding. Implemented in C++. [FreeBSD][17].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
