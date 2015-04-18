@@ -57,6 +57,7 @@ These are full-blown game engines.
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Helm][83] - Implemented in Haskell. [Expat][11].
+* [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23].
 * [Horde3D][115] - Implemented in C++. [EPLv1][116].
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
@@ -316,3 +317,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [120]: http://polycode.org/
 [121]: https://springrts.com/
 [122]: https://urho3d.github.io/
+[123]: https://notabug.org/SylvieLorxu/HERITAGE
