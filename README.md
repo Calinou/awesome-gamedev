@@ -149,6 +149,29 @@ Graphics Tools
 
 * [Sproxel][28] - A 3D interface for quickly editing and creating voxel-based 3D models. [3-clause BSD][29].
 
+Learning Resources
+==================
+
+These are all collections of information to help you learn about things that might be necessary for developing games.
+
+## Music ##
+
+* [LibreMusicProduction][124] - A community-driven online resource for promoting musical creation and composition using free tools. [CC-BY-SA-4.0][125].
+
+## Programming ##
+
+Intermediate
+------------
+
+* [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
+
+Reference
+---------
+
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. Permissive license, exact terms to come.
+* [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11].
+
+
 Programming Frameworks and Libraries
 ===================================
 
@@ -314,3 +337,9 @@ This is a catch-all category for things that don't fit anywhere else.
 [121]: https://springrts.com/
 [122]: https://urho3d.github.io/
 [123]: https://notabug.org/SylvieLorxu/HERITAGE
+[124]: http://libremusicproduction.com/
+[125]: https://creativecommons.org/licenses/by-sa/4.0/
+[126]: https://en.wikibooks.org/wiki/Lua_Programming
+[127]: https://creativecommons.org/licenses/by-sa/3.0/
+[128]: https://wiki.haskell.org/Haskell
+[129]: https://joeyh.name/blog/about/
