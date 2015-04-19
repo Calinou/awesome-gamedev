@@ -19,7 +19,9 @@ Audio
 
 ## Editors ##
 
-* [Audacity][33] - Free software for recording and editing sounds. [GNU GPLv2][14].
+* [Ardour][130] - The digital audio workstation. [GNU GPLv2][14].
+* [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14].
+* [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38].
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23]
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 
@@ -46,6 +48,7 @@ These are full-blown game engines.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Dash][114] - Implemented in D. [Expat][11].
+* [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
 * [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
@@ -154,6 +157,8 @@ Learning Resources
 
 These are all collections of information to help you learn about things that might be necessary for developing games.
 
+We aim for *complete* and *current* resources here whenever possible.
+
 ## Music ##
 
 * [LibreMusicProduction][124] - A community-driven online resource for promoting musical creation and composition using free tools. [CC-BY-SA-4.0][125].
@@ -183,6 +188,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
 * [ChipmunkSharp][73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat][11].
 * [Cinder][113] - A community-developed library for creative coding. Implemented in C++. [FreeBSD][17].
+* [ClanLib][131] - A cross-platform toolkit with a primary focus on game creation. Implemented in C++. [ClanLib license][132].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat][11].
@@ -212,6 +218,7 @@ This is a catch-all category for things that don't fit anywhere else.
 * [Monkey][94] - A next-generation games programming language. Implemented in C++. [zlib][45].
 * [PhysicsFS][99] - A library to provide abstract access to various archives. [zlib][45].
 * [ScummVM][53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2][14].
+* [WorldForge][135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3][23] (or a compatible license).
 
 
 [1]: https://www.fsf.org/about/what-is-free-software
@@ -343,3 +350,9 @@ This is a catch-all category for things that don't fit anywhere else.
 [127]: https://creativecommons.org/licenses/by-sa/3.0/
 [128]: https://wiki.haskell.org/Haskell
 [129]: https://joeyh.name/blog/about/
+[130]: https://ardour.org/
+[131]: http://www.clanlib.org/index.html
+[132]: http://www.clanlib.org/license.html
+[133]: https://testbit.eu/wiki/Beast_Home
+[134]: http://www.dengine.net/engine
+[135]: http://www.worldforge.org/
