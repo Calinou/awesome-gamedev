@@ -173,7 +173,7 @@ Intermediate
 Reference
 ---------
 
-* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. Permissive license, exact terms to come.
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136]
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11].
 
 
@@ -356,3 +356,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [133]: https://testbit.eu/wiki/Beast_Home
 [134]: http://www.dengine.net/engine
 [135]: http://www.worldforge.org/
+[136]: https://creativecommons.org/licenses/by/4.0/
