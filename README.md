@@ -215,6 +215,7 @@ Utilities
 This is a catch-all category for things that don't fit anywhere else.
 
 * [Assimp][100] - Open Asset Import Library; a portable way to import various well-known 3D model formats in a uniform manner. Implemented in C++, with a range of bindings. [3-clause BSD][29].
+* [gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine and post-processor. [GNU GPLv2][14].
 * [libnoise][101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2][102].
 * [Monkey][94] - A next-generation games programming language. Implemented in C++. [zlib][45].
 * [PhysicsFS][99] - A library to provide abstract access to various archives. [zlib][45].
@@ -359,3 +360,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [135]: http://www.worldforge.org/
 [136]: https://creativecommons.org/licenses/by/4.0/
 [137]: http://www.pawfal.org/fluxus/
+[138]: http://geuz.org/gmsh/
