@@ -200,7 +200,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [LoomSDK][88] - A very large and powerful framework for cross-platform 2D game development. Implemented in C++. [Apache 2.0][71].
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in C++. [3-clause BSD][29].
-* [p2.js][110] - 2D physics library. Implemented in ECMAScript. [Expat][11].
+* [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [Polycode][120] - Framework for games and interactive applications. Implemented in C++. Has Lua bindings. [Expat][11].
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat][11].
 * [PyGame][106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2][102].
