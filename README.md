@@ -52,6 +52,7 @@ These are full-blown game engines.
 * [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
+* [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14].
 * [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23]).
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
@@ -357,3 +358,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [134]: http://www.dengine.net/engine
 [135]: http://www.worldforge.org/
 [136]: https://creativecommons.org/licenses/by/4.0/
+[137]: http://www.pawfal.org/fluxus/
