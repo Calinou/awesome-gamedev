@@ -125,6 +125,7 @@ Graphics Tools
 * [AwesomeBump][41] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3][38].
 * [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14].
 * [GIMP][22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3][23].
+* [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14].
 * [Inkscape][24] - A vector image editing program. [GNU GPLv2][14].
 * [Krita][25] - A digital painting and illustration program. [GNU GPLv2][14].
 * [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
@@ -361,3 +362,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [136]: https://creativecommons.org/licenses/by/4.0/
 [137]: http://www.pawfal.org/fluxus/
 [138]: http://geuz.org/gmsh/
+[139]: http://hme.sourceforge.net/
