@@ -60,6 +60,7 @@ These are full-blown game engines.
 * [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23].
 * [Horde3D][115] - Implemented in C++. [EPLv1][116].
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
+* [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
@@ -363,3 +364,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [137]: http://www.pawfal.org/fluxus/
 [138]: http://geuz.org/gmsh/
 [139]: http://hme.sourceforge.net/
+[140]: http://jmonkeyengine.org/
