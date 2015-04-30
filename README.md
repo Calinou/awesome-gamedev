@@ -22,6 +22,7 @@ Audio
 * [Ardour][130] - The digital audio workstation. [GNU GPLv2][14].
 * [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14].
 * [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38].
+* [LMMS][142] - A digital audio workstation. [GNU GPLv2][14].
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23]
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 
@@ -115,6 +116,10 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 Graphics Tools
 ==============
+
+## Animation ##
+
+* [Synfig][141] - A 2D animation tool. [GNU GPLv2][14].
 
 ## Bitmap Compression ##
 
@@ -365,3 +370,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [138]: http://geuz.org/gmsh/
 [139]: http://hme.sourceforge.net/
 [140]: http://jmonkeyengine.org/
+[141]: www.synfig.org/cms/
+[142]: https://lmms.io/
