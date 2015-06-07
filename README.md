@@ -80,6 +80,7 @@ These are full-blown game engines.
 * [melonJS][93] - Implemented in ECMAScript. [Expat][11].
 * [Phaser][64] - Implemented in ECMAScript. [Expat][11].
 * [PlayCanvas][65] - Implemented in ECMAScript. [Expat][11].
+* [Coffee2D][] - Implemented in CoffeeScript. [Expat][11].
 
 ## Physics ##
 
@@ -372,3 +373,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [140]: http://jmonkeyengine.org/
 [141]: www.synfig.org/cms/
 [142]: https://lmms.io/
+[143]: https://github.com/LanJian/coffee2d
