@@ -177,6 +177,7 @@ We aim for *complete* and *current* resources here whenever possible.
 Intermediate
 ------------
 
+* [Mostly adequate guide to functional programming (in JavaScript)][144] - A book on the fundamentals of functional programming in ECMAScript. [CC-BY-SA-4.0][145].
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 
 Reference
@@ -374,3 +375,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [141]: www.synfig.org/cms/
 [142]: https://lmms.io/
 [143]: https://github.com/LanJian/coffee2d
+[144]: https://github.com/DrBoolean/mostly-adequate-guide
+[145]: https://creativecommons.org/licenses/by-sa/4.0/
