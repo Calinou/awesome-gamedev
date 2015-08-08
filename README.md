@@ -89,6 +89,21 @@ These are full-blown game engines.
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate rigid body dynamics. [Original BSD][118].
 
+Games
+=====
+
+These are meant to serve as examples for your own work, or foundations to built upon.
+
+* [Ball and Wall][148] - An Arkanoid-style game. Implemented in ECMAScript. [Expat][11].
+* [Clumsy Bird][149] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11].
+* [Crappy Bird][152] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11].
+* [Coil][150] - A version of Snake. Implemented in ECMAScript. [Expat][11].
+* [Color Quest][151] - An infinite runner game, which follows a black-and-white pixel's quest to become a colour pixel. Implemented in ECMAScript. [GNU GPLv2][14].
+* [Duck Hunt JS][153] - A version of Duck Hunt. Implemented in ECMAScript. [Expat][11].
+* [Emberwind][154] - A platforming game. Implemented in ECMAScript. [3-clause BSD][29].
+* [HTML5-Asteroids][147] - A version of Asteroids. Implemented in ECMAScript. [Expat][11].
+* [Lichess][146] - A chess game server. Implemented in Scala. [GNU GPLv2][14].
+
 Graphics
 ========
 
@@ -377,3 +392,12 @@ This is a catch-all category for things that don't fit anywhere else.
 [143]: https://github.com/LanJian/coffee2d
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
+[146]: https://github.com/ornicar/lila
+[147]: https://github.com/dmcinnes/HTML5-Asteroids
+[148]: https://github.com/budnix/ball-and-wall
+[149]: https://github.com/ellisonleao/clumsy-bird
+[150]: https://github.com/leereilly/Coil
+[151]: https://github.com/redbluegames/game-off-2013
+[152]: https://github.com/varunpant/CrappyBird
+[153]: https://github.com/MattSurabian/DuckHunt-JS
+[154]: https://github.com/operasoftware/Emberwind
