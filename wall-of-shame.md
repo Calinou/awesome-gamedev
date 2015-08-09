@@ -16,6 +16,7 @@ Pretends to be free, but isn't
 * FlashPunk - relies on a proprietary language.
 * Flixel - relies on a proprietary language.
 * Grit - depends on libCG.
+* Hotfix - dependson a proprietary engine.
 * MonoGame - patent issues.
 * Starling - relies on a proprietary language.
 

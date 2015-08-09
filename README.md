@@ -47,6 +47,8 @@ These are full-blown game engines.
 
 * [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
+* [Backbone][161] - Implemented in ECMAScript. [Expat][11].
+* [BananaBread][162] - A port of Sauerbrauten to ECMAScript and WebGL. [zlib][45].
 * [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Dash][114] - Implemented in D. [Expat][11].
 * [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
@@ -102,7 +104,15 @@ These are meant to serve as examples for your own work, or foundations to built 
 * [Duck Hunt JS][153] - A version of Duck Hunt. Implemented in ECMAScript. [Expat][11].
 * [Emberwind][154] - A platforming game. Implemented in ECMAScript. [3-clause BSD][29].
 * [HTML5-Asteroids][147] - A version of Asteroids. Implemented in ECMAScript. [Expat][11].
+* [Hyperspace Garbage Collection][155] - Implemented in ECMAScript. [Expat][11].
 * [Lichess][146] - A chess game server. Implemented in Scala. [GNU GPLv2][14].
+* [Raging Gardens][156] - Implemented in ECMAScript. [Expat][11].
+* [Roguish][163] - A roguelike. Implemented in ECMAScript. [3-clause BSD][29].
+* [Room for Change][164] - Implemented in ECMAScript. [Apache2.0][20].
+* [Snake][157] - A version of Snake. Implemented in ECMAScript. [Expat][11].
+* [Space Shooter][158] - Simple space shooting game. Implemented in ECMAScript. [Expat][11].
+* [Sorades 13k][159] - A scrolling shooter. Implemented in ECMAScript. [CC-BY-SA-3.0][127].
+* [Space Crusade][160] - Implemented in ECMAScript. [Expat][11].
 
 Graphics
 ========
@@ -401,3 +411,13 @@ This is a catch-all category for things that don't fit anywhere else.
 [152]: https://github.com/varunpant/CrappyBird
 [153]: https://github.com/MattSurabian/DuckHunt-JS
 [154]: https://github.com/operasoftware/Emberwind
+[155]: https://github.com/razh/game-off-2013
+[156]: https://github.com/petarov/game-off-2012
+[157]: https://github.com/jrgdiz/snake
+[158]: https://github.com/Couchfriends/Space-Shooter
+[159]: https://github.com/maettig/starship-sorades-13k
+[160]: https://github.com/Loopeex/space-crusade
+[161]: https://github.com/martindrapeau/backbone-game-engine
+[162]: https://github.com/kripken/BananaBread
+[163]: https://github.com/CamHenlin/Roguish
+[164]: https://github.com/antionio/game-off-2013
