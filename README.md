@@ -79,6 +79,7 @@ These are full-blown game engines.
 ## HTML5 ##
 
 * [Crafty.js][68] - Implemented in ECMAScript. [Expat][11] and [GNU GPLv3][23].
+* [Cube][168] - Implemented in ECMAScript. Designed for voxel games. [WTFPLv2][169].
 * [melonJS][93] - Implemented in ECMAScript. [Expat][11].
 * [Phaser][64] - Implemented in ECMAScript. [Expat][11].
 * [PlayCanvas][65] - Implemented in ECMAScript. [Expat][11].
@@ -96,23 +97,34 @@ Games
 
 These are meant to serve as examples for your own work, or foundations to built upon.
 
-* [Ball and Wall][148] - An Arkanoid-style game. Implemented in ECMAScript. [Expat][11].
-* [Clumsy Bird][149] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11].
-* [Crappy Bird][152] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11].
-* [Coil][150] - A version of Snake. Implemented in ECMAScript. [Expat][11].
-* [Color Quest][151] - An infinite runner game, which follows a black-and-white pixel's quest to become a colour pixel. Implemented in ECMAScript. [GNU GPLv2][14].
-* [Duck Hunt JS][153] - A version of Duck Hunt. Implemented in ECMAScript. [Expat][11].
-* [Emberwind][154] - A platforming game. Implemented in ECMAScript. [3-clause BSD][29].
-* [HTML5-Asteroids][147] - A version of Asteroids. Implemented in ECMAScript. [Expat][11].
-* [Hyperspace Garbage Collection][155] - Implemented in ECMAScript. [Expat][11].
-* [Lichess][146] - A chess game server. Implemented in Scala. [GNU GPLv2][14].
-* [Raging Gardens][156] - Implemented in ECMAScript. [Expat][11].
-* [Roguish][163] - A roguelike. Implemented in ECMAScript. [3-clause BSD][29].
-* [Room for Change][164] - Implemented in ECMAScript. [Apache2.0][20].
-* [Snake][157] - A version of Snake. Implemented in ECMAScript. [Expat][11].
-* [Space Shooter][158] - Simple space shooting game. Implemented in ECMAScript. [Expat][11].
-* [Sorades 13k][159] - A scrolling shooter. Implemented in ECMAScript. [CC-BY-SA-3.0][127].
-* [Space Crusade][160] - Implemented in ECMAScript. [Expat][11].
+I have endeavoured to provide both code and asset licenses here - if no asset license is listed, assume it to be non-free or questionably-free. These entries may be removed upon clarification.
+
+* [0h h1][171] - A logic game. Implemented in ECMAScript. [Expat][11] (code).
+* [0h n0][170] - Implemented in ECMAScript. [Expat][11] (code).
+* [2048][172] - Implemented in ECMAScript. [Expat][11] (code).
+* [A Dark Room][173] - A text adventure game. Implemented in ECMAScript. [MPLv2][166] (code).
+* [Ball and Wall][148] - An Arkanoid-style game. Implemented in ECMAScript. [Expat][11] (code).
+* [Beatrix][174] - A music game. Implemented in ECMAScript. [Expat][11] (code).
+* [BitBot][175] - Implemented in ECMAScript. [Expat][11] (code).
+* [blk-game][168] - A voxel world game. Implemented in ECMAScript. [Apache2.0][20] (code).
+* [BrowserQuest][165] - An MMORPG. Implemented in ECMAScript. [MPLv2][166] (code), [CC-BY-SA-3.0][127] (assets).
+* [Clumsy Bird][149] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11] (code).
+* [Crappy Bird][152] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11] (code).
+* [Coil][150] - A version of Snake. Implemented in ECMAScript. [Expat][11] (code).
+* [Color Quest][151] - An infinite runner game, which follows a black-and-white pixel's quest to become a colour pixel. Implemented in ECMAScript. [GNU GPLv2][14] (code).
+* [Duck Hunt JS][153] - A version of Duck Hunt. Implemented in ECMAScript. [Expat][11] (code).
+* [Emberwind][154] - A platforming game. Implemented in ECMAScript. [3-clause BSD][29] (code).
+* [Freeciv-web][167] - A port of Freeciv. Implemented in ECMAScript. [GNU GPLv3][23] and [GNU AGPLv3][27] (code).
+* [HTML5-Asteroids][147] - A version of Asteroids. Implemented in ECMAScript. [Expat][11] (code).
+* [Hyperspace Garbage Collection][155] - Implemented in ECMAScript. [Expat][11] (code).
+* [Lichess][146] - A chess game server. Implemented in Scala. [GNU GPLv2][14] (code).
+* [Raging Gardens][156] - Implemented in ECMAScript. [Expat][11] (code).
+* [Roguish][163] - A roguelike. Implemented in ECMAScript. [3-clause BSD][29] (code).
+* [Room for Change][164] - Implemented in ECMAScript. [Apache2.0][20] (code).
+* [Snake][157] - A version of Snake. Implemented in ECMAScript. [Expat][11] (code).
+* [Space Shooter][158] - Simple space shooting game. Implemented in ECMAScript. [Expat][11] (code).
+* [Sorades 13k][159] - A scrolling shooter. Implemented in ECMAScript. [CC-BY-SA-3.0][127] (code).
+* [Space Crusade][160] - Implemented in ECMAScript. [Expat][11] (code).
 
 Graphics
 ========
@@ -421,3 +433,14 @@ This is a catch-all category for things that don't fit anywhere else.
 [162]: https://github.com/kripken/BananaBread
 [163]: https://github.com/CamHenlin/Roguish
 [164]: https://github.com/antionio/game-off-2013
+[165]: https://github.com/mozilla/BrowserQuest
+[166]: https://directory.fsf.org/wiki/License:MPLv2.0
+[167]: https://github.com/freeciv/freeciv-web
+[168]: https://github.com/morozd/blk-game
+[169]: https://github.com/Nurgak/Cube-engine
+[170]: https://github.com/Q42/0hn0
+[171]: https://github.com/Q42/0hh1
+[172]: https://github.com/gabrielecirulli/2048
+[173]: https://github.com/doublespeakgames/adarkroom
+[174]: https://github.com/cxong/Beatrix
+[175]: https://github.com/sweetcarolinagames/BitBot
