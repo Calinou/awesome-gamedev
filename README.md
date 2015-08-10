@@ -105,26 +105,51 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [A Dark Room][173] - A text adventure game. Implemented in ECMAScript. [MPLv2][166] (code).
 * [Ball and Wall][148] - An Arkanoid-style game. Implemented in ECMAScript. [Expat][11] (code).
 * [Beatrix][174] - A music game. Implemented in ECMAScript. [Expat][11] (code).
+* [binb][188] - A music game. Implemented in ECMAScript. [Expat][11] (code).
 * [BitBot][175] - Implemented in ECMAScript. [Expat][11] (code).
 * [blk-game][168] - A voxel world game. Implemented in ECMAScript. [Apache2.0][20] (code).
+* [Blockrain.js][177] - A version of Tetris. Implemented in ECMAScript. [Expat][11] (code).
 * [BrowserQuest][165] - An MMORPG. Implemented in ECMAScript. [MPLv2][166] (code), [CC-BY-SA-3.0][127] (assets).
+* [Clonepoint][193] - Implemented in C++. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets). 
 * [Clumsy Bird][149] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11] (code).
-* [Crappy Bird][152] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11] (code).
+* [coffee-snake][176] - A version of Snake. Implemented in CoffeeScript. [GNU GPLv3][23] (code).
 * [Coil][150] - A version of Snake. Implemented in ECMAScript. [Expat][11] (code).
 * [Color Quest][151] - An infinite runner game, which follows a black-and-white pixel's quest to become a colour pixel. Implemented in ECMAScript. [GNU GPLv2][14] (code).
+* [Crappy Bird][152] - A version of Flappy Bird. Implemented in ECMAScript. [Expat][11] (code).
+* [Dental Defender: Saga of the Candy Horde][189] - A shooter/tower defence game. Implemented in ECMAScript. [Expat][11] (code).
+* [Drunken Viking][178] - A top-down puzzle game. [Expat][11] (code).
 * [Duck Hunt JS][153] - A version of Duck Hunt. Implemented in ECMAScript. [Expat][11] (code).
+* [DynaDungeons][194] - A version of Bomberman. Uses Godot engine. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
 * [Emberwind][154] - A platforming game. Implemented in ECMAScript. [3-clause BSD][29] (code).
+* [epic-inventor][195] - A side-scrolling action RPG. Implemented in Java. [GNU GPLv2][14] (code).
+* [FallingTime][196] - An arcade game. [GNU GPLv2][14] (code), various CC (no NC or ND) (assets).
 * [Freeciv-web][167] - A port of Freeciv. Implemented in ECMAScript. [GNU GPLv3][23] and [GNU AGPLv3][27] (code).
+* [Hauberk][190] - A roguelike. Implemented in Dart. [Expat][11] (code).
+* [Hextris][179] - A puzzle game inspired by Tetris. [GNU GPLv3][23] (code).
 * [HTML5-Asteroids][147] - A version of Asteroids. Implemented in ECMAScript. [Expat][11] (code).
 * [Hyperspace Garbage Collection][155] - Implemented in ECMAScript. [Expat][11] (code).
 * [Lichess][146] - A chess game server. Implemented in Scala. [GNU GPLv2][14] (code).
+* [ludum-dare-28][180] - Implemented in ECMAScript. [CC-BY-4.0][136] (code).
+* [Mystic Mine][197] - Implemented in Python. [Expat][11] (code and assets).
+* [Parity][181] - Implemented in ECMAScript. [Expat][11] (code).
+* [Particle Clicker][187] - A game to teach the history of high-energy particle physics. Implemented in ECMAScript. [Expat][11] (code).
+* [Pond][182] - Implemented in ECMAScript. [GNU GPLv2][23] (code).
+* [Pop, Pop, Win!][183] - A version of Minesweeper. Implemented in Dart. [3-clause BSD][29] (code).
+* [Prism][184] - A colour-matching game. Implemented in ECMAScript. [Expat][11] (code).
 * [Raging Gardens][156] - Implemented in ECMAScript. [Expat][11] (code).
 * [Roguish][163] - A roguelike. Implemented in ECMAScript. [3-clause BSD][29] (code).
 * [Room for Change][164] - Implemented in ECMAScript. [Apache2.0][20] (code).
+* [SavageWheels][198] - A car game. Implemented in C++. [Expat][11] (code and assets).
 * [Snake][157] - A version of Snake. Implemented in ECMAScript. [Expat][11] (code).
 * [Space Shooter][158] - Simple space shooting game. Implemented in ECMAScript. [Expat][11] (code).
 * [Sorades 13k][159] - A scrolling shooter. Implemented in ECMAScript. [CC-BY-SA-3.0][127] (code).
 * [Space Crusade][160] - Implemented in ECMAScript. [Expat][11] (code).
+* [Squirts][191] - Implemented in ECMAScript. [Expat][11] (code).
+* [Taisei][199] - Implemented in C. [Expat][11] (code).
+* [Teeworlds][200] - Implemented in C and C++. [3-clause BSD][29] (code), [CC-BY-SA-3.0][127] (assets).
+* [TransCube][185] - A 2D puzzle platformer. Implemented in ECMAScript. [GNU GPLv3][23] (code), [CC-BY-SA-4.0][125] (assets).
+* [Turkey Cooking Simulator][192] - Implemented in ECMAScript. [GNU GPLv3][23] (code).
+* [Zop][186] - Implemented in CoffeeScript. [Expat][11] (code).
 
 Graphics
 ========
@@ -444,3 +469,28 @@ This is a catch-all category for things that don't fit anywhere else.
 [173]: https://github.com/doublespeakgames/adarkroom
 [174]: https://github.com/cxong/Beatrix
 [175]: https://github.com/sweetcarolinagames/BitBot
+[176]: https://github.com/dommmel/coffee-snake
+[177]: https://github.com/Aerolab/blockrain.js
+[178]: https://github.com/cxong/DrunkenViking
+[179]: https://github.com/Hextris/hextris
+[180]: https://github.com/antila/ludum-dare-28
+[181]: https://github.com/abejfehr/parity
+[182]: https://github.com/Zolmeister/pond
+[183]: https://github.com/dart-lang/sample-pop_pop_win
+[184]: https://github.com/Zolmeister/prism
+[185]: https://github.com/jeroenverfallie/ggo13-transcube
+[186]: https://github.com/Zolmeister/zop
+[187]: https://github.com/particle-clicker/particle-clicker
+[188]: https://github.com/lpinca/binb
+[189]: https://github.com/cshepp/candyjam/
+[190]: https://github.com/munificent/hauberk
+[191]: https://github.com/KrofDrakula/squirts
+[192]: https://github.com/fernjager/game-off-2013
+[193]: https://github.com/rohit-n/Clonepoint
+[194]: https://github.com/akien-mga/dynadungeons
+[195]: https://github.com/BlkStormy/epic-inventor
+[196]: https://github.com/cxong/FallingTime
+[197]: https://github.com/koonsolo/MysticMine
+[198]: https://github.com/petarov/savagewheels
+[199]: https://github.com/laochailan/taisei
+[200]: https://github.com/teeworlds/teeworlds/

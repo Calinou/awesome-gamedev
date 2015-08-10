@@ -12,6 +12,7 @@ Pretends to be free, but isn't
 * Codename Lumberjack - relies on a proprietary language.
 * Ejecta - only works on a proprietary platform.
 * EKG Runner - depends on a nonfree library.
+* Ending - relies on a proprietary language.
 * Farseer - depends on nonfree build tools.
 * FlashPunk - relies on a proprietary language.
 * Flixel - relies on a proprietary language.
