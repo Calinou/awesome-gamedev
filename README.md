@@ -106,20 +106,29 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 * [2048-cli][216] - A CLI version of 2048. [Expat][11] (code), no significant assets.
 * [2048-in-terminal][217] - A CLI version of 2048. [Expat][11] (code), no significant assets.
+* [Craft][226] - A 3D voxel world game. [Expat][11] (code).
 * [edgar][214] - A 2D platform game with a persistent world. [GNU GPLv2][14] (code).
 * [FallingTime][196] - An arcade game. [GNU GPLv2][14] (code), various CC (no NC or ND) (assets).
 * [Taisei][199] - [Expat][11] (code).
 * [Turtle Arena][204] - Third-person action game. [GNU GPLv3][23] (code).
+* [Wizznic][219] - A puzzle game. [GNU GPLv3][23] (code and assets).
 
 ## C++ ##
 
+* [Blackvoxel][225] - A voxel game. [GNU GPLv3][23] (code).
 * [Clonepoint][193] - [GNU GPLv3][23] (code), various CC (no NC or ND) (assets). 
 * [Crystal Picnic][208] - An action RPG. [3-clause BSD][29] (code).
 * [Egooboo][210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3][23] (code).
+* [endless-sky][227] - 3D space exploration game. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
+* [Freeminer][228] - A 3D voxel world game. [GNU GPLv3][23] (code).
+* [Minetest][229] - A 3D voxel world game. [GNU GPLv2][14] (code).
 * [Monster 1][211] - A JRPG-style game. [3-clause BSD][29] (code).
 * [Monster 2][212] - A JRPG-style game. [zlib][45] (code and assets).
 * [SavageWheels][198] - A car game. [Expat][11] (code and assets).
+* [Stunt Rally][223] - A 3D racing game. [GNU GPLv3][23] (code).
 * [Supertux][215] - A platformer. [GNU GPLv3][23] (code).
+* [SuperTuxKart][224] - A 3D racing game. [GNU GPLv3][23] (code), various free licenses (assets).
+* [The Powder Toy][231] - A sandbox falling sand physics game. [GNU GPLv3][23] (code).
 
 ## CoffeeScript ##
 
@@ -175,6 +184,9 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 ## Java ##
 
 * [epic-inventor][195] - A side-scrolling action RPG. [GNU GPLv2][14] (code).
+* [Ned et les maki][221] - A 3D puzzle game. [Expat][11] (code), [FALv1.3][222] (assets).
+* [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various CC (no NC or ND) (assets).
+* [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code).
 
 ## Other/Multiple ##
 
@@ -555,4 +567,16 @@ This is a catch-all category for things that don't fit anywhere else.
 [216]: https://github.com/Tiehuis/2048-cli
 [217]: https://github.com/alewmoose/2048-in-terminal
 [218]: https://github.com/KOBUGE-Games/minilens
-
+[219]: https://github.com/DusteDdk/Wizznic
+[220]: https://github.com/devnewton/newton_adventure
+[221]: https://github.com/devnewton/nedetlesmaki
+[222]: https://directory.fsf.org/wiki/License:Free-Art-L-v1.3
+[223]: https://github.com/stuntrally/stuntrally
+[224]: https://github.com/supertuxkart/stk-code
+[225]: https://github.com/Blackvoxel/Blackvoxel
+[226]: https://github.com/fogleman/Craft
+[227]: https://github.com/endless-sky/endless-sky
+[228]: https://github.com/freeminer/freeminer
+[229]: https://github.com/minetest/minetest
+[230]: https://github.com/MovingBlocks/Terasology
+[231]: https://github.com/simtr/The-Powder-Toy
