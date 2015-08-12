@@ -86,7 +86,7 @@ These are full-blown game engines.
 * [melonJS][93] - Implemented in ECMAScript. [Expat][11].
 * [Phaser][64] - Implemented in ECMAScript. [Expat][11].
 * [PlayCanvas][65] - Implemented in ECMAScript. [Expat][11].
-* [Coffee2D][] - Implemented in CoffeeScript. [Expat][11].
+* [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
 
 ## Physics ##
 
@@ -107,6 +107,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [2048-cli][216] - A CLI version of 2048. [Expat][11] (code), no significant assets.
 * [2048-in-terminal][217] - A CLI version of 2048. [Expat][11] (code), no significant assets.
 * [Craft][226] - A 3D voxel world game. [Expat][11] (code).
+* [Curse of War][234] - A fast-paced strategy game. [GNU GPLv3][23] (code).
 * [edgar][214] - A 2D platform game with a persistent world. [GNU GPLv2][14] (code).
 * [FallingTime][196] - An arcade game. [GNU GPLv2][14] (code), various CC (no NC or ND) (assets).
 * [Taisei][199] - [Expat][11] (code).
@@ -115,8 +116,10 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## C++ ##
 
+* [Battle for Wesnoth][244] - A turn-based strategy game. [GNU GPLv2][14] (code and assets).
 * [Blackvoxel][225] - A voxel game. [GNU GPLv3][23] (code).
-* [Clonepoint][193] - [GNU GPLv3][23] (code), various CC (no NC or ND) (assets). 
+* [Clonepoint][193] - [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
+* [colobot][233] - A robot-based strategy game. [GNU GPLv3][23] (code and assets).
 * [Crystal Picnic][208] - An action RPG. [3-clause BSD][29] (code).
 * [Egooboo][210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3][23] (code).
 * [endless-sky][227] - 3D space exploration game. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
@@ -124,12 +127,21 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Minetest][229] - A 3D voxel world game. [GNU GPLv2][14] (code).
 * [Monster 1][211] - A JRPG-style game. [3-clause BSD][29] (code).
 * [Monster 2][212] - A JRPG-style game. [zlib][45] (code and assets).
+* [OpenDungeons][236] - A version of Dungeon Keeper. [GNU GPLv3][23] (code), various free culture licenses (assets).
+* [Race into Space][240] - A space exploration game. [GNU GPLv2][14] (code).
 * [SavageWheels][198] - A car game. [Expat][11] (code and assets).
+* [Seven Kingdoms: Ancient Adversaries][241] - A strategy game. [GNU GPLv2][14] (code and assets).
 * [Stunt Rally][223] - A 3D racing game. [GNU GPLv3][23] (code).
 * [Supertux][215] - A platformer. [GNU GPLv3][23] (code).
 * [SuperTuxKart][224] - A 3D racing game. [GNU GPLv3][23] (code), various free licenses (assets).
 * [The Powder Toy][231] - A sandbox falling sand physics game. [GNU GPLv3][23] (code).
 * [Unvanquished][232] - An FPS game with RTS elements. [GNU GPLv3][23] (code).
+* [Warzone 2100][248] - An RTS sci-fi game. [GNU GPLv2][14] (code), various free culture licenses (assets).
+
+## C# ##
+
+* [OpenRA][237] - A real-time strategy game (with engine). [GNU GPLv3][23] (code).
+* [voxeliq][246] - A voxel world game. [MsPL][247] (code).
 
 ## CoffeeScript ##
 
@@ -185,6 +197,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 ## Java ##
 
 * [epic-inventor][195] - A side-scrolling action RPG. [GNU GPLv2][14] (code).
+* [Micropolis][235] - A version of SimCity, based on the original code. [GNU GPLv3][23] (code).
 * [Ned et les maki][221] - A 3D puzzle game. [Expat][11] (code), [FALv1.3][222] (assets).
 * [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various CC (no NC or ND) (assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code).
@@ -196,12 +209,18 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Flare][211] - A dark fantasy 2D RPG. Uses Flare engine. [GNU GPLv3][23] (code), [CC-BY-SA-3.0][127] (assets).
 * [Minilens][217] - A puzzle platforming game. [GNU GPLv3][23] (code).
 * [OpenLieroX][201] - Implemented in C++ and Lua. [GNU LGPLv2][102] (code).
+* [Pax Britannica][238] - A ship-based strategy game. Implemented in C and Lua. [Expat][11] (code).
+* [Pioneer][239] - A space exploration game. Implemented in C++ and Lua. [GNU GPLv3][23] (code), [CC-BY-SA-3.0][127] (assets).
+* [Source of Tales][242] - An MMORPG. Scripted using Lua (implementation language unclear). [GNU GPLv3][23] (code), [CC-BY-SA-3.0][127] and [GNU GPLv3][23] (assets).
+* [Tanks of Freedom][243] - A turn-based strategy game. Uses Godot engine. [Expat][11] (code).
 * [Teeworlds][200] - Implemented in C and C++. [3-clause BSD][29] (code), [CC-BY-SA-3.0][127] (assets).
+* [Zero-K][249] - An RTS game. Uses Spring engine. [GNU GPLv2][14] (code).
 
 ## Python ##
 
 * [dmeternal][209] - A party-based fantasy adventure game. [GNU GPLv2][14] (code).
 * [Mystic Mine][197] - [Expat][11] (code and assets).
+* [Unknown Horizons][245] - A real-time strategy simulation game. [GNU GPLv2][14] (code).
 
 ## Scala ##
 
@@ -554,7 +573,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [202]: https://github.com/ioquake/ioq3
 [203]: https://github.com/zturtleman/spearmint
 [204]: https://github.com/Turtle-Arena/turtle-arena-code
-[205]: https://github.com/Unvanquished/Unvanquished
+[205]: https://github.com/LanJian/coffee2d
 [206]: https://github.com/Warsow/qfusion
 [207]: https://github.com/CleverRaven/Cataclysm-DDA
 [208]: https://github.com/Nooskewl/crystal-picnic
@@ -582,3 +601,20 @@ This is a catch-all category for things that don't fit anywhere else.
 [230]: https://github.com/MovingBlocks/Terasology
 [231]: https://github.com/simtr/The-Powder-Toy
 [232]: https://github.com/Unvanquished/Unvanquished
+[233]: https://github.com/colobot/colobot
+[234]: https://github.com/a-nikolaev/curseofwar
+[235]: https://github.com/SimHacker/micropolis
+[236]: https://github.com/OpenDungeons/OpenDungeons
+[237]: https://github.com/OpenRA/OpenRA
+[238]: https://github.com/henkboom/pax-britannica
+[239]: https://github.com/pioneerspacesim/pioneer
+[240]: https://github.com/raceintospace/raceintospace
+[241]: https://github.com/the3dfxdude/7kaa
+[242]: https://github.com/tales/sourceoftales
+[243]: https://github.com/w84death/Tanks-of-Freedom
+[244]: https://github.com/wesnoth/wesnoth
+[245]: https://github.com/unknown-horizons/unknown-horizons
+[246]: https://github.com/int6/voxeliq
+[247]: https://directory.fsf.org/wiki/License:MsPL
+[248]: https://github.com/Warzone2100/warzone2100
+[249]: https://github.com/ZeroK-RTS/Zero-K
