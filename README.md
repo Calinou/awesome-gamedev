@@ -268,7 +268,7 @@ Graphics Tools
 ## Spritesheet Tools ##
 
 * [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14].
-* [Piskel][15] - Online pixel art and animated sprite creator. 'Do whatever you want' license.
+* [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27].
 
 ## Texture Tools ##
 
