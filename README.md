@@ -205,7 +205,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## Scala ##
 
-* [Lichess][146] - A chess game server. [GNU GPLv2][14] (code).
+* [Lichess][146] - A chess game server. [Expat][11] (code).
 
 Graphics
 ========
