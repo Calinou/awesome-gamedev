@@ -129,6 +129,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Supertux][215] - A platformer. [GNU GPLv3][23] (code).
 * [SuperTuxKart][224] - A 3D racing game. [GNU GPLv3][23] (code), various free licenses (assets).
 * [The Powder Toy][231] - A sandbox falling sand physics game. [GNU GPLv3][23] (code).
+* [Unvanquished][232] - An FPS game with RTS elements. [GNU GPLv3][23] (code).
 
 ## CoffeeScript ##
 
@@ -580,3 +581,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [229]: https://github.com/minetest/minetest
 [230]: https://github.com/MovingBlocks/Terasology
 [231]: https://github.com/simtr/The-Powder-Toy
+[232]: https://github.com/Unvanquished/Unvanquished
