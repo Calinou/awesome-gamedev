@@ -49,21 +49,24 @@ These are full-blown game engines.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
+* [Chili Source][262] - Implemented in C++. [Expat][11].
 * [cocos2d][75] - Implemented in Python. [3-clause BSD][29].
-* [Dash][114] - Implemented in D. [Expat][11].
+* [cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
 * [Duality][77] - Implemented in C#. [Expat][11].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
 * [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14].
+* [GamePlay][266] - Implemented in C++. [Apache2.0][20].
 * [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23]).
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Helm][83] - Implemented in Haskell. [Expat][11].
 * [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23].
 * [Horde3D][115] - Implemented in C++. [EPLv1][116].
-* [ioquake3][202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2][14] (code).
+* [ioquake3][202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2][14].
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
+* [JiGS][268] - Implemented in PHP. Designed for MMORPGs. [GNU GPLv2][14].
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
@@ -75,25 +78,36 @@ These are full-blown game engines.
 * [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
 * [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23].
 * [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14].
+* [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
 * [Torque2D][63] - Implemented in C++. Has its own scripting language. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Urho3D][122] - Implemented in C++. Has its own scripting language. [Expat][11].
 
 ## HTML5 ##
 
-* [Crafty.js][68] - Implemented in ECMAScript. [Expat][11] and [GNU GPLv3][23].
-* [Cube][168] - Implemented in ECMAScript. Designed for voxel games. [WTFPLv2][169].
-* [melonJS][93] - Implemented in ECMAScript. [Expat][11].
-* [Phaser][64] - Implemented in ECMAScript. [Expat][11].
-* [PlayCanvas][65] - Implemented in ECMAScript. [Expat][11].
+Unless stated otherwise, these engines are implemented in ECMAScript.
+
+* [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11] and [GNU GPLv2][14].
+* [Babylon.js][260] - [Apache2.0][20].
+* [cocos2d-html5][264] - [Expat][11].
 * [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
+* [Crafty.js][68] - [Expat][11] and [GNU GPLv3][23].
+* [Cube][168] - Designed for voxel games. [WTFPLv2][169].
+* [kiwi.js][269] - [Expat][11].
+* [melonJS][93] - [Expat][11].
+* [panda.js][273] - [Expat][11].
+* [Phaser][64] - [Expat][11].
+* [PlayCanvas][65] - [Expat][11].
 
 ## Physics ##
 
+* [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate rigid body dynamics. [Original BSD][118].
+* [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
+* [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
 
 Games
 =====
@@ -124,6 +138,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Egooboo][210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3][23] (code).
 * [endless-sky][227] - 3D space exploration game. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
 * [Freeminer][228] - A 3D voxel world game. [GNU GPLv3][23] (code).
+* [Megaglest][250] - A 3D RTS game. [GNU GPLv3][23] (code).
 * [Minetest][229] - A 3D voxel world game. [GNU GPLv2][14] (code).
 * [Monster 1][211] - A JRPG-style game. [3-clause BSD][29] (code).
 * [Monster 2][212] - A JRPG-style game. [zlib][45] (code and assets).
@@ -174,11 +189,15 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Drunken Viking][178] - A top-down puzzle game. [Expat][11] (code).
 * [Duck Hunt JS][153] - A version of Duck Hunt. [Expat][11] (code).
 * [Emberwind][154] - A platforming game. [3-clause BSD][29] (code).
+* [Follow ME! A Simon Clone][254] - Exactly what it says on the tin. [Expat][11] (code).
 * [Freeciv-web][167] - A port of Freeciv. [GNU GPLv3][23] and [GNU AGPLv3][27] (code).
+* [Javascript Snake][253] - A version of Snake. [Expat][11] (code).
 * [Hextris][179] - A puzzle game inspired by Tetris. [GNU GPLv3][23] (code).
 * [HTML5-Asteroids][147] - A version of Asteroids. [Expat][11] (code).
 * [Hyperspace Garbage Collection][155] - [Expat][11] (code).
+* [Lost-Beneath-The-Surface][251] - A maze running game. [GNU GPLv3][23] (code).
 * [ludum-dare-28][180] - [CC-BY-4.0][136] (code).
+* [Masonry-JavaScript-Tetris-Clone][252] - Exactly what it says on the tin. [Expat][11] (code and assets).
 * [Parity][181] - [Expat][11] (code).
 * [Particle Clicker][187] - A game to teach the history of high-energy particle physics. [Expat][11] (code).
 * [Pond][182] - [GNU GPLv2][14] (code).
@@ -197,9 +216,12 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 ## Java ##
 
 * [epic-inventor][195] - A side-scrolling action RPG. [GNU GPLv2][14] (code).
+* [GidiGames][255] - Three board games. Uses Android port of Cocos2D engine. [Expat][11] (code).
 * [Micropolis][235] - A version of SimCity, based on the original code. [GNU GPLv3][23] (code).
 * [Ned et les maki][221] - A 3D puzzle game. [Expat][11] (code), [FALv1.3][222] (assets).
 * [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various CC (no NC or ND) (assets).
+* [Pixel Dungeon][256] - A roguelike. [GNU GPLv3][23] (code).
+* [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D engine. [Expat][11] (code).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code).
 
 ## Other/Multiple ##
@@ -320,6 +342,7 @@ Intermediate
 Reference
 ---------
 
+* [breakouts][278] - A collection of ECMAScript implementations of Breakout. [Expat][11].
 * [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136]
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11].
 
@@ -332,6 +355,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [ActionKid][82] - A simple video game framework. Implemented in Haskell. [3-clause BSD][29].
 * [Allegro 5][36] - A cross-platform library for low-level tasks, like creating windows, accepting user input and so forth. Implemented in C and C++. [3-clause BSD][29].
 * [Bacon2D][72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat][11].
+* [bgfx][261] - A 'build-your-own-engine' rendering library. [FreeBSD][17].
 * [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11].
 * [ChipmunkSharp][73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat][11].
 * [Cinder][113] - A community-developed library for creative coding. Implemented in C++. [FreeBSD][17].
@@ -339,17 +363,22 @@ These are programming libraries or low-level code-based tools which are designed
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat][11].
+* [Gladiator3D][267] - A raycasting engine. Implemented in ECMAScript. [Expat][11].
 * [HaxeFlixel][79] - A cross-platform development framework, supporting many targets. Implemented in Haxe. [Expat][11].
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many platforms. Implemented in Python. [Expat][11].
 * [libGDX][86] - Cross-platform game development framework. Implemented in Java. [Apache 2.0][71].
+* [libRocket][270] - An HTML/CSS-based UI library. Implemented in C++. [Expat][11].
+* [libSDL2pp][271] - A set of C++11 bindings for SDL2. Implemented in C++. [3-clause BSD][29].
 * [LimeJS][87] - A framework for building fast HTML5 games. Implemented in ECMAScript. [Apache 2.0][71].
 * [LoomSDK][88] - A very large and powerful framework for cross-platform 2D game development. Implemented in C++. [Apache 2.0][71].
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in C++. [3-clause BSD][29].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
+* [pixi.js][275] - A 2D rendering engine. Implemented in ECMAScript. [Expat][11].
 * [Polycode][120] - Framework for games and interactive applications. Implemented in C++. Has Lua bindings. [Expat][11].
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat][11].
 * [PyGame][106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2][102].
+* [Quasi-Engine][276] - A set of Qt-based tools for game development. Implemented in C++. [GNU GPLv3][23].
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib][45].
 * [SFML][109] - Simple and Fast Multimedia Library; a multi-platform, multi-language, multimedia interface to various computer hardware. Implemented in C++. Has a [range of bindings][110]. [3-clause BSD][29].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in ECMAScript. [Expat][11].
@@ -361,6 +390,7 @@ Utilities
 This is a catch-all category for things that don't fit anywhere else.
 
 * [Assimp][100] - Open Asset Import Library; a portable way to import various well-known 3D model formats in a uniform manner. Implemented in C++, with a range of bindings. [3-clause BSD][29].
+* [Easel.js][265] - Provides a range of tools to make working with the HTML5 Canvas API easier. Implemented in ECMAScript. [Expat][11].
 * [gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine and post-processor. [GNU GPLv2][14].
 * [libnoise][101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2][102].
 * [Monkey][94] - A next-generation games programming language. Implemented in C++. [zlib][45].
@@ -618,3 +648,32 @@ This is a catch-all category for things that don't fit anywhere else.
 [247]: https://directory.fsf.org/wiki/License:MsPL
 [248]: https://github.com/Warzone2100/warzone2100
 [249]: https://github.com/ZeroK-RTS/Zero-K
+[250]: https://github.com/MegaGlest/megaglest-source
+[251]: https://github.com/gamedolphin/Lost-Beneath-The-Surface
+[252]: https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone
+[253]: https://github.com/gamedolphin/javascript_snake
+[254]: https://github.com/gamedolphin/follow_me_javascript_simon_clone
+[255]: https://github.com/chuvidi2003/GidiGames
+[256]: https://github.com/watabou/pixel-dungeon
+[257]: https://github.com/chuvidi2003/PuzzleGame
+[258]: https://github.com/Akihabara/akihabara
+[259]: https://github.com/kripken/ammo.js
+[260]: https://github.com/BabylonJS/Babylon.js
+[261]: https://github.com/bkaradzic/bgfx
+[262]: https://github.com/ChilliWorks/ChilliSource
+[263]: https://github.com/ZhouWeikuan/cocos2d/tree/master/cocos2d-android
+[264]: https://github.com/cocos2d/cocos2d-html5
+[265]: https://github.com/CreateJS/EaselJS/
+[266]: https://github.com/gameplay3d/GamePlay
+[267]: https://github.com/krotik/gladiator_3d
+[268]: https://github.com/Techbot/JiGS-PHP-RPG-engine
+[269]: https://github.com/gamelab/kiwi.js
+[270]: https://github.com/librocket/librocket
+[271]: https://github.com/AMDmi3/libSDL2pp
+[272]: https://github.com/lo-th/Oimo.js
+[273]: https://github.com/ekelokorpi/panda.js-engine
+[274]: https://github.com/wellcaffeinated/PhysicsJS
+[275]: https://github.com/pixijs/pixi.js
+[276]: https://github.com/INdT/Quasi-Engine
+[277]: https://github.com/turbulenz/turbulenz_engine
+[278]: https://github.com/city41/breakouts

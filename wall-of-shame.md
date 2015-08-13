@@ -9,13 +9,17 @@ This is released under the GNU Free Documentation License - its text is provided
 Pretends to be free, but isn't
 ==============================
 
+* Bridges - only works on a proprietary platform.
+* Canabalt - only works on a proprietary platform.
 * Codename Lumberjack - relies on a proprietary language.
+* Dash - relies on a proprietary compiler.
 * Ejecta - only works on a proprietary platform.
 * EKG Runner - depends on a nonfree library.
 * Ending - relies on a proprietary language.
 * Farseer - depends on nonfree build tools.
 * FlashPunk - relies on a proprietary language.
 * Flixel - relies on a proprietary language.
+* GenesisEngine - relies on a proprietary build system and OS.
 * Grit - depends on libCG.
 * Hotfix - depends on a proprietary engine.
 * MonoGame - patent issues.
