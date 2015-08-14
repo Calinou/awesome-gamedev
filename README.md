@@ -120,12 +120,12 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 * [2048-cli][216] - A CLI version of 2048. [Expat][11] (code), no significant assets.
 * [2048-in-terminal][217] - A CLI version of 2048. [Expat][11] (code), no significant assets.
-* [Craft][226] - A 3D voxel world game. [Expat][11] (code).
-* [Curse of War][234] - A fast-paced strategy game. [GNU GPLv3][23] (code).
-* [edgar][214] - A 2D platform game with a persistent world. [GNU GPLv2][14] (code).
+* [Craft][226] - A 3D voxel world game. [Expat][11] (code and assets).
+* [Curse of War][234] - A fast-paced strategy game. [GNU GPLv3][23] (code and assets).
+* [edgar][214] - A 2D platform game with a persistent world. [GNU GPLv2][14] (code), various free culture licenses (assets).
 * [FallingTime][196] - An arcade game. [GNU GPLv2][14] (code), various CC (no NC or ND) (assets).
-* [Taisei][199] - [Expat][11] (code).
-* [Turtle Arena][204] - Third-person action game. [GNU GPLv3][23] (code).
+* [Taisei][199] - [Expat][11] (code and assets), [GNU GPLv2][14] for one font.
+* [Turtle Arena][204] - Third-person action game. [GNU GPLv3][23] (code), various free culture licenses (assets).
 * [Wizznic][219] - A puzzle game. [GNU GPLv3][23] (code and assets).
 
 ## C++ ##
@@ -363,6 +363,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat][11].
+* [GameJs][279] - A thin library on top of the Canvas API, including some helpful game development modules. [Expat][11].
 * [Gladiator3D][267] - A raycasting engine. Implemented in ECMAScript. [Expat][11].
 * [HaxeFlixel][79] - A cross-platform development framework, supporting many targets. Implemented in Haxe. [Expat][11].
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many platforms. Implemented in Python. [Expat][11].
@@ -677,3 +678,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [276]: https://github.com/INdT/Quasi-Engine
 [277]: https://github.com/turbulenz/turbulenz_engine
 [278]: https://github.com/city41/breakouts
+[279]: https://github.com/GameJs/gamejs
