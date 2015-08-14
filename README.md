@@ -134,23 +134,21 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Blackvoxel][225] - A voxel game. [GNU GPLv3][23] (code).
 * [Clonepoint][193] - [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
 * [colobot][233] - A robot-based strategy game. [GNU GPLv3][23] (code and assets).
-* [Crystal Picnic][208] - An action RPG. [3-clause BSD][29] (code).
-* [Egooboo][210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3][23] (code).
+* [Egooboo][210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3][23] (code and assets).
 * [endless-sky][227] - 3D space exploration game. [GNU GPLv3][23] (code), various CC (no NC or ND) (assets).
-* [Freeminer][228] - A 3D voxel world game. [GNU GPLv3][23] (code).
-* [Megaglest][250] - A 3D RTS game. [GNU GPLv3][23] (code).
+* [Freeminer][228] - A 3D voxel world game. [GNU GPLv3][23] (code), [CC-BY-SA-3.0][127] (assets).
+* [Megaglest][250] - A 3D RTS game. [GNU GPLv3][23] (code), [CC-BY-SA-3.0][127] (assets).
 * [Minetest][229] - A 3D voxel world game. [GNU GPLv2][14] (code).
-* [Monster 1][211] - A JRPG-style game. [3-clause BSD][29] (code).
-* [Monster 2][212] - A JRPG-style game. [zlib][45] (code and assets).
+* [Monster 1][212] - A JRPG-style game. [3-clause BSD][29] (code).
+* [Monster 2][213] - A JRPG-style game. [zlib][45] (code and assets).
 * [OpenDungeons][236] - A version of Dungeon Keeper. [GNU GPLv3][23] (code), various free culture licenses (assets).
 * [Race into Space][240] - A space exploration game. [GNU GPLv2][14] (code).
 * [SavageWheels][198] - A car game. [Expat][11] (code and assets).
 * [Seven Kingdoms: Ancient Adversaries][241] - A strategy game. [GNU GPLv2][14] (code and assets).
-* [Stunt Rally][223] - A 3D racing game. [GNU GPLv3][23] (code).
-* [Supertux][215] - A platformer. [GNU GPLv3][23] (code).
+* [Stunt Rally][223] - A 3D racing game. [GNU GPLv3][23] (code), various free culture licenses (assets).
+* [Supertux][215] - A platformer. [GNU GPLv3][23] (code), various free culture licenses (assets).
 * [SuperTuxKart][224] - A 3D racing game. [GNU GPLv3][23] (code), various free licenses (assets).
 * [The Powder Toy][231] - A sandbox falling sand physics game. [GNU GPLv3][23] (code).
-* [Unvanquished][232] - An FPS game with RTS elements. [GNU GPLv3][23] (code).
 * [Warzone 2100][248] - An RTS sci-fi game. [GNU GPLv2][14] (code), various free culture licenses (assets).
 
 ## C# ##
