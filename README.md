@@ -82,6 +82,7 @@ These are full-blown game engines.
 * [Torque2D][63] - Implemented in C++. Has its own scripting language. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Urho3D][122] - Implemented in C++. Has its own scripting language. [Expat][11].
+* [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MsPL][247] (code).
 
 ## HTML5 ##
 
@@ -149,19 +150,14 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [The Powder Toy][231] - A sandbox falling sand physics game. [GNU GPLv3][23] (code and assets).
 * [Warzone 2100][248] - An RTS sci-fi game. [GNU GPLv2][14] (code), various free culture licenses (assets).
 
-## C# ##
-
-* [OpenRA][237] - A real-time strategy game (with engine). [GNU GPLv3][23] (code).
-* [voxeliq][246] - A voxel world game. [MsPL][247] (code).
-
 ## CoffeeScript ##
 
-* [coffee-snake][176] - A version of Snake. [GNU GPLv3][23] (code).
-* [Zop][186] - [Expat][11] (code).
+* [coffee-snake][176] - A version of Snake. [GNU GPLv3][23] (code), no significant assets.
+* [Zop][186] - A 'connect the dots' game. [Expat][11] (code).
 
 ## Dart ##
 
-* [Hauberk][190] - A roguelike. [Expat][11] (code).
+* [Hauberk][190] - A roguelike. [Expat][11] (code), no significant assets.
 * [Pop, Pop, Win!][183] - A version of Minesweeper. [3-clause BSD][29] (code).
 
 ## ECMAScript ##
