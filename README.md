@@ -159,7 +159,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 ## Dart ##
 
 * [Hauberk] [190] - A roguelike. [Expat] [11] (code), no significant assets.
-* [Pop, Pop, Win!] [183] - A version of Minesweeper. [3-clause BSD] [29] (code).
+* [Pop, Pop, Win!] [183] - A version of Minesweeper. [3-clause BSD] [29] (code and assets).
 
 ## ECMAScript ##
 
@@ -208,11 +208,8 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## Java ##
 
-* [epic-inventor] [195] - A side-scrolling action RPG. [GNU GPLv2] [14] (code).
-* [GidiGames] [255] - Three board games. Uses Android port of Cocos2D engine. [Expat] [11] (code).
 * [Ned et les maki] [221] - A 3D puzzle game. [Expat] [11] (code), [FALv1.3] [222] (assets).
 * [Newton Adventure] [220] - A puzzle game. [3-clause BSD] [29] (code), various CC (no NC or ND) (assets).
-* [Pixel Dungeon] [256] - A roguelike. [GNU GPLv3] [23] (code).
 * [PuzzleGame] [257] - A slider puzzle game. Uses Android port of Cocos2D engine. [Expat] [11] (code and assets).
 * [Terasology] [230] - A 3D voxel world game. [Apache2.0] [20] (code and assets).
 
@@ -239,7 +236,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## Scala ##
 
-* [Lichess] [146] - A chess game server. [Expat] [11] (code).
+* [Lichess] [146] - A chess game server. [Expat] [11] (code and assets).
 
 Graphics
 ========
