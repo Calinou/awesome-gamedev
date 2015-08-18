@@ -317,25 +317,42 @@ These are all collections of information to help you learn about things that mig
 
 We aim for *complete* and *current* resources here whenever possible.
 
+## Graphics ##
+
+Beginner
+--------
+
+* [Blender 3D: Noob to Pro][286] - A Wikibook for learning how to make 3D graphics with Blender. [CC-BY-SA-3.0][127].
+
+
 ## Music ##
 
 * [LibreMusicProduction] [124] - A community-driven online resource for promoting musical creation and composition using free tools. [CC-BY-SA-4.0] [125] .
 
 ## Programming ##
 
+Beginner
+--------
+
+* [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
+* [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127] .
+* [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
+* [why's (poignant) Guide to Ruby][237] - An interesting introductory book for Ruby. [CC-BY-SA-3.0][127].
+
 Intermediate
 ------------
 
-* [Mostly adequate guide to functional programming (in JavaScript)] [144] - A book on the fundamentals of functional programming in ECMAScript. [CC-BY-SA-4.0] [145] .
-* [Lua Programming] [126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0] [127] .
+* [Dive Into Python][284] - A Python book for experienced programmers. [GNU FDL][281].
+* [Haskell][285] - A very thorough Wikibook on programming Haskell. [CC-BY-SA-3.0][127].
+* [Mostly adequate guide to functional programming (in JavaScript)][144] - A book on the fundamentals of functional programming in ECMAScript. [CC-BY-SA-4.0][145].
+* [Structure and Interpretation of Computer Programs][240] - A classic programming and teaching text. Designed for teaching Scheme, but can be useful to anyone writing in any language. [CC-BY-SA-4.0][125].
 
 Reference
 ---------
 
-* [breakouts] [278] - A collection of ECMAScript implementations of Breakout. [Expat] [11] .
-* [Joey Hess' blog] [129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0] [136] 
-* [Haskell Programming] [128] - A complete wiki of the Haskell programming language. [Expat] [11] .
-
+* [breakouts] [278] - A collection of ECMAScript implementations of Breakout. [Expat][11] .
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
+* [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11] .
 
 Programming Frameworks and Libraries
 ===================================
@@ -626,10 +643,10 @@ This is a catch-all category for things that don't fit anywhere else.
 [234]: https://github.com/a-nikolaev/curseofwar
 [235]: https://github.com/SimHacker/micropolis
 [236]: https://github.com/OpenDungeons/OpenDungeons
-
+[237]: http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html
 [238]: https://github.com/henkboom/pax-britannica
 [239]: https://github.com/pioneerspacesim/pioneer
-
+[240]: https://mitpress.mit.edu/sicp/full-text/book/book.html
 [241]: https://github.com/the3dfxdude/7kaa
 [242]: https://github.com/tales/sourceoftales
 [243]: https://github.com/w84death/Tanks-of-Freedom
@@ -669,3 +686,10 @@ This is a catch-all category for things that don't fit anywhere else.
 [277]: https://github.com/turbulenz/turbulenz_engine
 [278]: https://github.com/city41/breakouts
 [279]: https://github.com/GameJs/gamejs
+[280]: http://markburgess.org/CTutorial/GNU-ctut.pdf
+[281]: https://www.gnu.org/licenses/fdl.html
+[282]: http://www.network-theory.co.uk/docs/pytut/
+[283]: https://directory.fsf.org/wiki?title=License:Python2.0.1
+[284]: http://www.diveintopython.net/
+[285]: https://en.wikibooks.org/wiki/Haskell
+[286]: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro
