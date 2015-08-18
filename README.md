@@ -215,24 +215,18 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## Other/Multiple ##
 
-* [Cataclysm: Dark Days Ahead] [207] - A roguelike set in a post-apocalyptic world. [CC-BY-3.0] [5] (code).
+* [Cataclysm: Dark Days Ahead] [207] - A roguelike set in a post-apocalyptic world. [CC-BY-3.0] [5] (code), [CC-BY-SA-3.0][127] (assets).
 * [DynaDungeons] [194] - A version of Bomberman. Uses Godot engine. [GNU GPLv3] [23] (code), various CC (no NC or ND) (assets).
 * [Flare] [211] - A dark fantasy 2D RPG. Uses Flare engine. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Micropolis] [235] - A version of SimCity, based on the original code. Implemented in C++ and Python. [GNU GPLv3] [23] (code).
-* [Minilens] [217] - A puzzle platforming game. [GNU GPLv3] [23] (code).
-* [OpenLieroX] [201] - Implemented in C++ and Lua. [GNU LGPLv2] [102] (code).
-* [Pax Britannica] [238] - A ship-based strategy game. Implemented in C and Lua. [Expat] [11] (code).
 * [Pioneer] [239] - A space exploration game. Implemented in C++ and Lua. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Source of Tales] [242] - An MMORPG. Scripted using Lua (implementation language unclear). [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] and [GNU GPLv3] [23] (assets).
-* [Tanks of Freedom] [243] - A turn-based strategy game. Uses Godot engine. [Expat] [11] (code).
 * [Teeworlds] [200] - Implemented in C and C++. [3-clause BSD] [29] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Zero-K] [249] - An RTS game. Uses Spring engine. [GNU GPLv2] [14] (code).
+* [Zero-K] [249] - An RTS game. Uses Spring engine. [GNU GPLv2] [14] (code and assets).
 
 ## Python ##
 
-* [dmeternal] [209] - A party-based fantasy adventure game. [GNU GPLv2] [14] (code).
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
-* [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] (code).
+* [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] (code), [CC-BY-SA-3.0][127] (assets).
 
 ## Scala ##
 
