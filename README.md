@@ -166,17 +166,13 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [0h h1] [171] - A logic game. [Expat] [11] (code).
 * [0h n0] [170] - [Expat] [11] (code).
 * [2048][172] - [Expat] [11] (code).
-* [A Dark Room] [173] - A text adventure game. [MPLv2] [166] (code).
+* [A Dark Room] [173] - A text adventure game. [MPLv2] [166] (code), no significant assets.
 * [Ball and Wall] [148] - An Arkanoid-style game. [Expat] [11] (code).
 * [Beatrix] [174] - A music game. [Expat] [11] (code).
 * [binb] [188] - A music game. [Expat] [11] (code).
-* [BitBot] [175] - [Expat] [11] (code).
-* [blk-game] [168] - A voxel world game. [Apache2.0] [20] (code).
-* [Blockrain.js] [177] - A version of Tetris. [Expat] [11] (code).
+* [Blockrain.js] [177] - A version of Tetris. [Expat] [11] (code and assets).
 * [BrowserQuest] [165] - An MMORPG. [MPLv2] [166] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Clumsy Bird] [149] - A version of Flappy Bird. [Expat] [11] (code).
-* [Coil] [150] - A version of Snake. [Expat] [11] (code).
-* [Color Quest] [151] - An infinite runner game, which follows a black-and-white pixel's quest to become a colour pixel. [GNU GPLv2] [14] (code).
+* [Clumsy Bird] [149] - A version of Flappy Bird. [Expat] [11] (code and assets).
 * [Crappy Bird] [152] - A version of Flappy Bird. [Expat] [11] (code).
 * [Dental Defender: Saga of the Candy Horde] [189] - A shooter/tower defence game. [Expat] [11] (code).
 * [Drunken Viking] [178] - A top-down puzzle game. [Expat] [11] (code).
@@ -187,24 +183,21 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Javascript Snake] [253] - A version of Snake. [Expat] [11] (code).
 * [Hextris] [179] - A puzzle game inspired by Tetris. [GNU GPLv3] [23] (code).
 * [HTML5-Asteroids] [147] - A version of Asteroids. [Expat] [11] (code).
-* [Hyperspace Garbage Collection] [155] - [Expat] [11] (code).
 * [Lost-Beneath-The-Surface] [251] - A maze running game. [GNU GPLv3] [23] (code).
-* [ludum-dare-28] [180] - [CC-BY-4.0] [136] (code).
+* [ludum-dare-28] [180] - [CC-BY-4.0] [136] (code and assets).
 * [Masonry-JavaScript-Tetris-Clone] [252] - Exactly what it says on the tin. [Expat] [11] (code and assets).
-* [Parity] [181] - [Expat] [11] (code).
+* [Parity] [181] - [Expat] [11] (code), no significant assets.
 * [Particle Clicker] [187] - A game to teach the history of high-energy particle physics. [Expat] [11] (code).
 * [Pond] [182] - [GNU GPLv2] [14] (code).
-* [Prism] [184] - A colour-matching game. [Expat] [11] (code).
+* [Prism] [184] - A colour-matching game. [Expat] [11] (code), no significant assets.
 * [Raging Gardens] [156] - [Expat] [11] (code).
-* [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code).
-* [Room for Change] [164] - [Apache2.0] [20] (code).
-* [Snake] [157] - A version of Snake. [Expat] [11] (code).
+* [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code and assets).
+* [Snake] [157] - A version of Snake. [Expat] [11] (code), no significant assets.
 * [Space Shooter] [158] - Simple space shooting game. [Expat] [11] (code).
-* [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code).
+* [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code and assets).
 * [Space Crusade] [160] - [Expat] [11] (code).
 * [Squirts] [191] - [Expat] [11] (code).
 * [TransCube] [185] - A 2D puzzle platformer. [GNU GPLv3] [23] (code), [CC-BY-SA-4.0] [125] (assets).
-* [Turkey Cooking Simulator] [192] - [GNU GPLv3] [23] (code).
 
 ## Java ##
 
