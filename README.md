@@ -101,6 +101,7 @@ These are full-blown game engines.
 * [Azul3D] [112] - Implemented in Go. [3-clause BSD] [29] .
 * [Backbone] [161] - Implemented in ECMAScript. [Expat] [11] .
 * [BananaBread] [162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib] [45] .
+* [Castle Game Engine] [292] - Implemented in ObjectPascal. [GNU LGPLv2] [102] .
 * [Chili Source] [262] - Implemented in C++. [Expat] [11] .
 * [cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
 * [cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
@@ -721,3 +722,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [289]: https://creativecommons.org/publicdomain/zero/1.0/
 [290]: http://www.bfxr.net/
 [291]: https://github.com/google/material-design-icons
+[292]: http://castle-engine.sourceforge.net/
