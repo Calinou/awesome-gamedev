@@ -81,6 +81,7 @@ Audio
 
 * [Creative Commons on Bandcamp] [85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud] [98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [ccMixter] [304] - A site for collaborating with musicians. Various licenses, all CC.
 * [Incompetech] [288] - An artist providing royalty free music of all genres. [CC-BY-3.0] [5] .
 * [Jamendo] [287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM] [96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
@@ -746,3 +747,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [301]: http://openfontlibrary.org/
 [302]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1
 [303]: https://www.theleagueofmoveabletype.com/
+[304]: http://ccmixter.org/
