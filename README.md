@@ -224,6 +224,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Prism] [184] - A colour-matching game. [Expat] [11] (code), no significant assets.
 * [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code and assets).
 * [Snake] [157] - A version of Snake. [Expat] [11] (code), no significant assets.
+* [Space Crusade][160] - A space game. [Expat][11] (code), [CC0][49] (assets).
 * [Space Shooter] [158] - Simple space shooting game. [Expat] [11] (code).
 * [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code and assets).
 * [Squirts] [191] - [Expat] [11] (code and assets).
@@ -473,7 +474,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [46]: https://www.libsdl.org/
 [47]: https://www.gnu.org/software/freedink/
 [48]: http://box2d.org/about/
-
+[49]: https://creativecommons.org/publicdomain/zero/1.0/
 
 [51]: http://www.godotengine.org/
 [52]: https://en.wikipedia.org/wiki/Godot_%28game_engine%29#Scripting
