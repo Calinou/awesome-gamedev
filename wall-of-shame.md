@@ -33,6 +33,5 @@ Unclear
 =======
 
 * Cocos2d-X - claims to be free, no clear licensing terms found.
-* HGamer3D - no clear licensing terms found.
 * Jitter - claims to be free, no clear licensing terms found, built for .NET (which doesn't hold much hope).
 * KivEnt - no clear licensing terms found.
