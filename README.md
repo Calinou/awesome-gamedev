@@ -6,7 +6,7 @@ A curated list of good stuff related to the development of games. This list cont
 
 I have also provided a list of resources which are *not* free, and the reasons why, in the associated Wall of Shame file.
 
-This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
+This is released under the GNU Free Documentation License, without invariants or a cover - its text is provided in the LICENSE file.
 
 Table of Contents
 =================
