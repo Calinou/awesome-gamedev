@@ -373,7 +373,9 @@ Beginner
 --------
 
 * [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
+* [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127] .
+* [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
 * [why's (poignant) Guide to Ruby][237] - An interesting introductory book for Ruby. [CC-BY-SA-3.0][127].
 
@@ -494,7 +496,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [47]: https://www.gnu.org/software/freedink/
 [48]: http://box2d.org/about/
 [49]: https://creativecommons.org/publicdomain/zero/1.0/
-
+[50]: http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html
 [51]: http://www.godotengine.org/
 [52]: https://en.wikipedia.org/wiki/Godot_%28game_engine%29#Scripting
 [53]: http://scummvm.org/
@@ -510,7 +512,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [63]: https://www.garagegames.com/products/torque-2d
 [64]: http://phaser.io/
 [65]: https://playcanvas.com/
-
+[66]: https://golang.org/doc/effective_go.html
 [67]: http://voxeljs.com/
 [68]: http://craftyjs.com/
 [69]: http://threejs.org/
