@@ -272,6 +272,7 @@ Graphics
 
 This is a section for everything else that doesn't fit in some other graphics category.
 
+* [Blender 3D Model Repository] [296] - User-submitted 3D models made with Blender. Various licenses, including free ones.
 * [CanTree] [10] - Free online tree generator. Generates PNG files. [Expat] [11] .
 * [Yobi3D] [13] - A search engine for 3D models that aims to display license information when possible. Various licenses, including free ones.
 
@@ -729,3 +730,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [293]: https://github.com/gamekit-developers/gamekit
 [294]: http://incompetech.com/music/royalty-free/
 [295]: http://www.openmusicarchive.org/
+[296]: http://www.blender-models.com/
