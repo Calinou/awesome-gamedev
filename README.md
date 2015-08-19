@@ -80,6 +80,7 @@ Audio
 
 * [Creative Commons on Bandcamp] [85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud] [98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [Incompetech] [288] - An artist providing royalty free music of all genres. [CC-BY-3.0] [5] .
 * [Jamendo] [287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM] [96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen] [31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
@@ -725,3 +726,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [291]: https://github.com/google/material-design-icons
 [292]: http://castle-engine.sourceforge.net/
 [293]: https://github.com/gamekit-developers/gamekit
+[294]: http://incompetech.com/music/royalty-free/
