@@ -11,6 +11,7 @@ Pretends to be free, but isn't
 
 * Bridges - only works on a proprietary platform.
 * Canabalt - only works on a proprietary platform.
+* Citrus - relies on a proprietary language.
 * Codename Lumberjack - relies on a proprietary language.
 * Dash - relies on a proprietary compiler.
 * Ejecta - only works on a proprietary platform.
