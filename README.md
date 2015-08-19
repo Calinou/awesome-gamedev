@@ -59,6 +59,7 @@ Assorted Assets
 
 This contains collections of miscellaneous assets of different kinds.
 
+* [Openclipart] [288] - A giant collection of clip art. [CC-0-1.0] [289]
 * [OpenGameArt.org] [7] - A large collection of art intended for game development. Various licenses, including free ones.
 * [Wikimedia Commons] [97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
 
@@ -714,3 +715,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [285]: https://en.wikibooks.org/wiki/Haskell
 [286]: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro
 [287]: https://www.jamendo.com/
+[288]: https://openclipart.org/
+[289]: https://creativecommons.org/publicdomain/zero/1.0/
