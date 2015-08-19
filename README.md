@@ -132,7 +132,7 @@ These are full-blown game engines.
 * [Turbulenz] [277] - Implemented in ECMAScript. [Expat] [11] .
 * [Torque2D] [63] - Implemented in C++. Has its own scripting language. [Expat] [11] .
 * [Torque3D] [61] - Implemented in C++. Has [its own scripting language] [62] . [Expat] [11] .
-* [Urho3D] [122] - Implemented in C++. Has its own scripting language. [Expat] [11] .
+* [Urho3D] [122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat] [11] .
 * [voxeliq] [246] - Implemented in C#. Designed for voxel world games. [MsPL] [247] (code).
 
 ## HTML5 ##
