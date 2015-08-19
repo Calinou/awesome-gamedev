@@ -1,3 +1,5 @@
+
+
 # Awesome Gamedev #
 
 A curated list of good stuff related to the development of games. This list contains *only* [free software] [1] for code, sellers who aren't evil for physical resources, and [free cultural works] [2] for assets.
@@ -5,6 +7,52 @@ A curated list of good stuff related to the development of games. This list cont
 I have also provided a list of resources which are *not* free, and the reasons why, in the associated Wall of Shame file.
 
 This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
+
+**Table of Contents**
+
+- [Awesome Gamedev](#awesome-gamedev)
+- [Assorted Assets](#assorted-assets)
+- [Audio](#audio)
+  - [Editors](#editors)
+  - [Music](#music)
+  - [Sound Effects](#sound-effects)
+- [Engines](#engines)
+  - [General](#general)
+  - [HTML5](#html5)
+  - [Physics](#physics)
+- [Games](#games)
+  - [C](#c)
+  - [C++](#c)
+  - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
+  - [ECMAScript](#ecmascript)
+  - [Java](#java)
+  - [Other/Multiple](#othermultiple)
+  - [Python](#python)
+  - [Scala](#scala)
+- [Graphics](#graphics)
+  - [Assorted](#assorted)
+  - [Collections](#collections)
+  - [Icons](#icons)
+  - [Sprites](#sprites)
+- [Graphics Tools](#graphics-tools)
+  - [Animation](#animation)
+  - [Bitmap Compression](#bitmap-compression)
+  - [Editors](#editors-1)
+  - [Mesh Tools](#mesh-tools)
+  - [Spritesheet Tools](#spritesheet-tools)
+  - [Texture Tools](#texture-tools)
+  - [Voxel Editors](#voxel-editors)
+- [Learning Resources](#learning-resources)
+  - [Graphics](#graphics-1)
+  - [Beginner](#beginner)
+  - [Music](#music-1)
+  - [Programming](#programming)
+  - [Beginner](#beginner-1)
+  - [Intermediate](#intermediate)
+  - [Reference](#reference)
+- [Programming Frameworks and Libraries](#programming-frameworks-and-libraries)
+- [Utilities](#utilities)
 
 Assorted Assets
 ===============
