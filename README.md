@@ -11,7 +11,6 @@ This is released under the GNU Free Documentation License - its text is provided
 Table of Contents
 =================
 
-- [Awesome Gamedev](#awesome-gamedev)
 - [Assorted Assets](#assorted-assets)
 - [Audio](#audio)
   - [Editors](#editors)
