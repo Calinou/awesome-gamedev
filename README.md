@@ -85,6 +85,7 @@ Audio
 
 ## Sound Effects ##
 
+* [Bfxr] [290] - A tool to generate sounds. [Apache2.0] [20] .
 * [Freesound.org] [30] - A collection of CC-licensed sound effects. Various licenses, all CC.
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
@@ -717,3 +718,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [287]: https://www.jamendo.com/
 [288]: https://openclipart.org/
 [289]: https://creativecommons.org/publicdomain/zero/1.0/
+[290]: http://www.bfxr.net/
