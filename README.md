@@ -274,6 +274,7 @@ This is a section for everything else that doesn't fit in some other graphics ca
 
 * [Blender 3D Model Repository] [296] - User-submitted 3D models made with Blender. Various licenses, including free ones.
 * [CanTree] [10] - Free online tree generator. Generates PNG files. [Expat] [11] .
+* [Kator Legaz 3D Models] [297] - 3D Models by of various subjects. [CC-BY-3.0] [5] .
 * [Yobi3D] [13] - A search engine for 3D models that aims to display license information when possible. Various licenses, including free ones.
 
 ## Collections ##
@@ -731,3 +732,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [294]: http://incompetech.com/music/royalty-free/
 [295]: http://www.openmusicarchive.org/
 [296]: http://www.blender-models.com/
+[297]: http://www.katorlegaz.com/3d_models/index.php
