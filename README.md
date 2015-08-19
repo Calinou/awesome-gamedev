@@ -61,6 +61,7 @@ This contains collections of miscellaneous assets of different kinds.
 
 * [Openclipart] [288] - A giant collection of clip art. [CC-0-1.0] [289]
 * [OpenGameArt.org] [7] - A large collection of art intended for game development. Various licenses, including free ones.
+* [Material Design Icons] [291] - An official icon set from Google following specific guidelines. [CC-BY-4.0] [136] .
 * [Wikimedia Commons] [97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
 
 Audio
@@ -719,3 +720,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [288]: https://openclipart.org/
 [289]: https://creativecommons.org/publicdomain/zero/1.0/
 [290]: http://www.bfxr.net/
+[291]: https://github.com/google/material-design-icons
