@@ -110,6 +110,7 @@ These are full-blown game engines.
 * [Fife] [55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3] [38] .
 * [Flare] [54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3] [23] .
 * [Fluxus] [137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2] [14] .
+* [gamekit] [293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat] [11] .
 * [GamePlay] [266] - Implemented in C++. [Apache2.0] [20] .
 * [GDevelop] [60] - Implemented in C++. Targeted at non-programmers. [Expat] [11] (IDE is [GNU GPLv3] [23] ).
 * [GNU FreeDink] [47] - Implemented in C++. [GNU GPLv3] [23] .
@@ -723,3 +724,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [290]: http://www.bfxr.net/
 [291]: https://github.com/google/material-design-icons
 [292]: http://castle-engine.sourceforge.net/
+[293]: https://github.com/gamekit-developers/gamekit
