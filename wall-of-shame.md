@@ -25,6 +25,7 @@ Pretends to be free, but isn't
 * Hotfix - depends on a proprietary engine.
 * MonoGame - patent issues.
 * PuzzleDash - depends on a proprietary compiler.
+* Sandbox Maker - based on free software, says it's "open source", uses nonfree license.
 * Starling - relies on a proprietary language.
 * MightyEditor - says it's "open source", uses nonfree license.
 
