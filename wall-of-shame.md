@@ -25,6 +25,7 @@ Pretends to be free, but isn't
 * MonoGame - patent issues.
 * PuzzleDash - depends on a proprietary compiler.
 * Starling - relies on a proprietary language.
+* MightyEditor - says it's "open source", uses nonfree license.
 
 Unclear
 =======
