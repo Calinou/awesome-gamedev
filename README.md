@@ -290,6 +290,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 ## Fonts ##
 
 * [Open Font Library] [301] - A collection of freely licensed fonts. [OFL] [302] .
+* [The League of Moveable Type] [303] - A collection of fonts with high standards. [OFL] [302] .
 
 ## Icons ##
 
@@ -744,3 +745,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [300]: http://tango.freedesktop.org/
 [301]: http://openfontlibrary.org/
 [302]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1
+[303]: https://www.theleagueofmoveabletype.com/
