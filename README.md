@@ -8,7 +8,8 @@ I have also provided a list of resources which are *not* free, and the reasons w
 
 This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
 
-**Table of Contents**
+Table of Contents
+=================
 
 - [Awesome Gamedev](#awesome-gamedev)
 - [Assorted Assets](#assorted-assets)
