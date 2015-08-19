@@ -243,6 +243,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Flare] [211] - A dark fantasy 2D RPG. Uses Flare engine. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Pioneer] [239] - A space exploration game. Implemented in C++ and Lua. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Source of Tales] [242] - An MMORPG. Scripted using Lua (implementation language unclear). [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] and [GNU GPLv3] [23] (assets).
+* [Tanks of Freedom][243] - Pixed-based turn-based strategy. Uses Godot engine. [Expat][11] (code and assets).
 * [Teeworlds] [200] - Implemented in C and C++. [3-clause BSD] [29] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Zero-K] [249] - An RTS game. Uses Spring engine. [GNU GPLv2] [14] (code and assets).
 
