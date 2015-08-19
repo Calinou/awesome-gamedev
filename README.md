@@ -78,6 +78,7 @@ Audio
 
 * [Creative Commons on Bandcamp] [85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud] [98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [Jamendo] [287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM] [96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen] [31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
 
@@ -712,3 +713,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [284]: http://www.diveintopython.net/
 [285]: https://en.wikibooks.org/wiki/Haskell
 [286]: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro
+[287]: https://www.jamendo.com/
