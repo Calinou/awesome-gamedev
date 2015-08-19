@@ -289,6 +289,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 ## Icons ##
 
 * [Game-icons.net] [4] - A constantly-growing collection of black-and-white icons. Available in SVG or PNG. [CC-BY-3.0] [5] .
+* [Tango Icon Library] [300] - An icon set project with a goal to create a consistent user interface. Public domain.
 
 ## Sprites ##
 
@@ -735,3 +736,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [296]: http://www.blender-models.com/
 [297]: http://www.katorlegaz.com/3d_models/index.php
 [298]: http://mocapdata.com/
+[300]: http://tango.freedesktop.org/
