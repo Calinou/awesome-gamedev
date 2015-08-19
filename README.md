@@ -84,6 +84,7 @@ Audio
 * [Jamendo] [287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM] [96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen] [31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
+* [Open Music Archive] [295] - Digitized out-of-copyright sound recordings. Public domain in the UK.
 
 ## Sound Effects ##
 
@@ -727,3 +728,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [292]: http://castle-engine.sourceforge.net/
 [293]: https://github.com/gamekit-developers/gamekit
 [294]: http://incompetech.com/music/royalty-free/
+[295]: http://www.openmusicarchive.org/
