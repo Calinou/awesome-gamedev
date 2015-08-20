@@ -33,4 +33,3 @@ Unclear
 =======
 
 * Jitter - claims to be free, no clear licensing terms found, built for .NET (which doesn't hold much hope).
-* KivEnt - no clear licensing terms found.

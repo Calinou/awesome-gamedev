@@ -128,6 +128,7 @@ These are full-blown game engines.
 * [Irrlicht] [43] - Implemented in C++. Has a [range of bindings] [44] . [zlib] [45] .
 * [JiGS] [268] - Implemented in PHP. Designed for MMORPGs. [GNU GPLv2] [14] .
 * [JMonkey] [140] - Implemented in Java. [3-clause BSD] [29] .
+* [KivEnt] [307] - Implemented in Python. [Expat] [11] .
 * [LambdaHack] [84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD] [29] .
 * [lycheejs] [89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat] [11] .
 * [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
@@ -755,3 +756,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [304]: http://ccmixter.org/
 [305]: http://unlicense.org/
 [306]: http://www.cocos2d-x.org/
+[307]: http://www.kivent.org/
