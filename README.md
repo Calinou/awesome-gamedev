@@ -158,6 +158,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [Akihabara] [258] - Designed for 8-bit and 16-bit games. [Expat] [11] and [GNU GPLv2] [14] .
 * [Babylon.js] [260] - [Apache2.0] [20] .
+* [Blend4Web] [316] - Uses Blender to make web visualizations. [GNU GPLv3] [23] .
 * [Cocos2d-html5] [264] - [Expat] [11] .
 * [Coffee2D] [205] - Implemented in CoffeeScript. [Expat] [11] .
 * [Crafty.js] [68] - [Expat] [11] and [GNU GPLv3] [23] .
@@ -774,3 +775,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
+[316]: https://github.com/TriumphLLC/Blend4Web
