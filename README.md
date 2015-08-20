@@ -108,9 +108,9 @@ These are full-blown game engines.
 * [BananaBread] [162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib] [45] .
 * [Castle Game Engine] [292] - Implemented in ObjectPascal. [GNU LGPLv2] [102] .
 * [Chili Source] [262] - Implemented in C++. [Expat] [11] .
-* [cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
-* [cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
-* [cocos2d-x] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
+* [Cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
+* [Cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
+* [Cocos2d-X] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
 * [Doomsday] [134] - Implemented in C++. [GNU GPLv3] [23] .
 * [Duality] [77] - Implemented in C#. [Expat] [11] .
 * [Fife] [55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3] [38] .
@@ -150,7 +150,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [Akihabara] [258] - Designed for 8-bit and 16-bit games. [Expat] [11] and [GNU GPLv2] [14] .
 * [Babylon.js] [260] - [Apache2.0] [20] .
-* [cocos2d-html5] [264] - [Expat] [11] .
+* [Cocos2d-html5] [264] - [Expat] [11] .
 * [Coffee2D] [205] - Implemented in CoffeeScript. [Expat] [11] .
 * [Crafty.js] [68] - [Expat] [11] and [GNU GPLv3] [23] .
 * [Cube] [168] - Designed for voxel games. [WTFPLv2] [169] .
