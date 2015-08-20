@@ -110,6 +110,7 @@ These are full-blown game engines.
 * [Chili Source] [262] - Implemented in C++. [Expat] [11] .
 * [cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
 * [cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
+* [cocos2d-x] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
 * [Doomsday] [134] - Implemented in C++. [GNU GPLv3] [23] .
 * [Duality] [77] - Implemented in C#. [Expat] [11] .
 * [Fife] [55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3] [38] .
@@ -753,3 +754,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [303]: https://www.theleagueofmoveabletype.com/
 [304]: http://ccmixter.org/
 [305]: http://unlicense.org/
+[306]: http://www.cocos2d-x.org/
