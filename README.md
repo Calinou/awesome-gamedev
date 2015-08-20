@@ -138,6 +138,7 @@ These are full-blown game engines.
 * [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
 * [Orx] [315] - Implented in C. [zlib] [45] .
 * [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
+* [PlayN] [317] - Implemented in Java. [Apache2.0] [20] .
 * [Processing] [313] - Implemented in Java. Has its own scripting language. [GNU GPLv2] [14] .
 * [Processing.js] [314] - Implemented in Javascript. Has its own scripting language. [Expat] [11] .
 * [Ren'Py] [107] - Implemented in Python. Designed for visual novels. [Expat] [11] , with some parts under [GNU LGPLv3] [38] .
@@ -776,3 +777,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
 [316]: https://github.com/TriumphLLC/Blend4Web
+[317]: http://playn.io/
