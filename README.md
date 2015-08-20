@@ -106,6 +106,7 @@ These are full-blown game engines.
 * [Azul3D] [112] - Implemented in Go. [3-clause BSD] [29] .
 * [Backbone] [161] - Implemented in ECMAScript. [Expat] [11] .
 * [BananaBread] [162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib] [45] .
+* [Blender Game Engine] [312] - Implemented in C++. Scripted using a GUI and Python. [GNU GPLv2] [14] .
 * [Castle Game Engine] [292] - Implemented in ObjectPascal. [GNU LGPLv2] [102] .
 * [Chili Source] [262] - Implemented in C++. [Expat] [11] .
 * [Cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
@@ -764,3 +765,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [309]: http://enigma-dev.org/docs/Wiki/LateralGM
 [310]: http://pulkomandy.tk/projects/GrafX2
 [311]: http://www.maratis3d.org/
+[312]: https://www.blender.org/manual/game_engine/introduction.html
