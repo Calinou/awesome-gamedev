@@ -124,6 +124,7 @@ These are full-blown game engines.
 * [GDevelop] [60] - Implemented in C++. Targeted at non-programmers. [Expat] [11] (IDE is [GNU GPLv3] [23] ).
 * [GNU FreeDink] [47] - Implemented in C++. [GNU GPLv3] [23] .
 * [Godot] [51] - Implemented in C++. Has [its own scripting language] [52] . [Expat] [11] .
+* [Gosu] [318] - Implemented in C++. has a Ruby interface. [Expat] [11] .
 * [Helm] [83] - Implemented in Haskell. [Expat] [11] .
 * [HERITAGE] [123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3] [23] .
 * [Horde3D] [115] - Implemented in C++. [EPLv1] [116] .
@@ -778,3 +779,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [315]: http://orx-project.org/
 [316]: https://github.com/TriumphLLC/Blend4Web
 [317]: http://playn.io/
+[318]: https://www.libgosu.org/
