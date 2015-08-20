@@ -92,6 +92,7 @@ Audio
 
 * [Bfxr] [290] - A tool to generate sounds. [Apache2.0] [20] .
 * [Freesound.org] [30] - A collection of CC-licensed sound effects. Various licenses, all CC.
+* [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
 Engines
@@ -516,7 +517,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [67]: http://voxeljs.com/
 [68]: http://craftyjs.com/
 [69]: http://threejs.org/
-
+[70]: http://www.opsound.org/index.php
 [71]: https://directory.fsf.org/wiki/License:Apache2.0
 [72]: http://bacon2d.com/
 [73]: https://github.com/netonjm/ChipmunkSharp
