@@ -132,6 +132,7 @@ These are full-blown game engines.
 * [KivEnt] [307] - Implemented in Python. [Expat] [11] .
 * [LambdaHack] [84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD] [29] .
 * [lycheejs] [89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat] [11] .
+* [Maratis] [311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2] [14] .
 * [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
 * [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
 * [Ren'Py] [107] - Implemented in Python. Designed for visual novels. [Expat] [11] , with some parts under [GNU LGPLv3] [38] .
@@ -762,3 +763,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [308]: http://enigma-dev.org/
 [309]: http://enigma-dev.org/docs/Wiki/LateralGM
 [310]: http://pulkomandy.tk/projects/GrafX2
+[311]: http://www.maratis3d.org/
