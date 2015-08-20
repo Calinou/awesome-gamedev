@@ -90,8 +90,8 @@ Audio
 
 ## Sound Effects ##
 
-* [Bfxr] [290] - A tool to generate sounds. [Apache2.0] [20] .
 * [Freesound.org] [30] - A collection of CC-licensed sound effects. Various licenses, all CC.
+* [jsfxr] [290] - A tool to generate sounds. [Unlicense] [305] .
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
@@ -738,7 +738,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [287]: https://www.jamendo.com/
 [288]: https://openclipart.org/
 [289]: https://creativecommons.org/publicdomain/zero/1.0/
-[290]: http://www.bfxr.net/
+[290]: https://github.com/grumdrig/jsfxr
 [291]: https://github.com/google/material-design-icons
 [292]: http://castle-engine.sourceforge.net/
 [293]: https://github.com/gamekit-developers/gamekit
@@ -752,3 +752,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [302]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1
 [303]: https://www.theleagueofmoveabletype.com/
 [304]: http://ccmixter.org/
+[305]: http://unlicense.org/

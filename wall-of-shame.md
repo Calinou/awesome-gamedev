@@ -10,6 +10,7 @@ Pretends to be free, but isn't
 ==============================
 
 * Bridges - only works on a proprietary platform.
+* Bfxr - relies on a proprietary language.
 * Canabalt - only works on a proprietary platform.
 * Citrus - relies on a proprietary language.
 * Codename Lumberjack - relies on a proprietary language.
