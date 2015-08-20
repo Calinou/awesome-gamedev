@@ -112,6 +112,7 @@ These are full-blown game engines.
 * [Cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
 * [Cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
 * [Cocos2d-X] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
+* [Darkplaces] [314] - Implemented in C. [GNU GPLv2] [14] .
 * [Doomsday] [134] - Implemented in C++. [GNU GPLv3] [23] .
 * [Duality] [77] - Implemented in C#. [Expat] [11] .
 * [ENIGMA] [308] - Implemented in C++. Has its own scripting language and [GUI editor] [309] . [GNU GPLv3] [23] .
@@ -770,3 +771,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [312]: https://www.blender.org/manual/game_engine/introduction.html
 [313]: https://processing.org/
 [313]: https://processingjs.org/
+[314]: https://icculus.org/twilight/darkplaces/
