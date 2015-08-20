@@ -136,6 +136,7 @@ These are full-blown game engines.
 * [LambdaHack] [84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD] [29] .
 * [lycheejs] [89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat] [11] .
 * [Maratis] [311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2] [14] .
+* [Moai] [319] - Implemented in C++. Has Lua for scripting. [CPAL] [320] .
 * [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
 * [Orx] [315] - Implented in C. [zlib] [45] .
 * [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
@@ -780,3 +781,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [316]: https://github.com/TriumphLLC/Blend4Web
 [317]: http://playn.io/
 [318]: https://www.libgosu.org/
+[319]: http://getmoai.com/
+[320]: http://opensource.org/licenses/CPAL-1.0
