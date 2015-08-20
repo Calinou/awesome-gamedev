@@ -113,6 +113,7 @@ These are full-blown game engines.
 * [Cocos2d-X] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
 * [Doomsday] [134] - Implemented in C++. [GNU GPLv3] [23] .
 * [Duality] [77] - Implemented in C#. [Expat] [11] .
+* [ENIGMA] [308] - Implemented in C++. Has its own scripting language and [GUI editor] [309] . [GNU GPLv3] [23] .
 * [Fife] [55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3] [38] .
 * [Flare] [54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3] [23] .
 * [Fluxus] [137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2] [14] .
@@ -757,3 +758,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [305]: http://unlicense.org/
 [306]: http://www.cocos2d-x.org/
 [307]: http://www.kivent.org/
+[308]: http://enigma-dev.org/
+[309]: http://enigma-dev.org/docs/Wiki/LateralGM
