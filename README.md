@@ -143,7 +143,7 @@ These are full-blown game engines.
 * [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
 * [PlayN] [317] - Implemented in Java. [Apache2.0] [20] .
 * [Processing] [313] - Implemented in Java. Has its own scripting language. [GNU GPLv2] [14] .
-* [Processing.js] [314] - Implemented in Javascript. Has its own scripting language. [Expat] [11] .
+* [Processing.js] [314] - Implemented in ECMAScript. Has its own scripting language. [Expat] [11] .
 * [Ren'Py] [107] - Implemented in Python. Designed for visual novels. [Expat] [11] , with some parts under [GNU LGPLv3] [38] .
 * [qfusion] [206] - Implemented in C++. Designed for FPS games. [GNU GPLv2] [14] .
 * [RPGBOSS] [108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3] [27] .
