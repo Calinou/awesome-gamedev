@@ -136,6 +136,7 @@ These are full-blown game engines.
 * [lycheejs] [89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat] [11] .
 * [Maratis] [311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2] [14] .
 * [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
+* [Orx] [315] - Implented in C. [zlib] [45] .
 * [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
 * [Processing] [313] - Implemented in Java. Has its own scripting language. [GNU GPLv2] [14] .
 * [Processing.js] [314] - Implemented in Javascript. Has its own scripting language. [Expat] [11] .
@@ -772,3 +773,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [313]: https://processing.org/
 [313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
+[315]: http://orx-project.org/
