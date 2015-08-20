@@ -91,7 +91,8 @@ Audio
 ## Sound Effects ##
 
 * [Freesound.org] [30] - A collection of CC-licensed sound effects. Various licenses, all CC.
-* [jsfxr] [290] - A tool to generate sounds. [Unlicense] [305] .
+* [sfxr-sdl] [290] - A tool to generate sounds. [Expat] [11] .
+* [jsfxr] [290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense] [305] .
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
@@ -783,3 +784,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [318]: https://www.libgosu.org/
 [319]: http://getmoai.com/
 [320]: http://opensource.org/licenses/CPAL-1.0
+[290]: http://drpetter.se/project_sfxr.html
