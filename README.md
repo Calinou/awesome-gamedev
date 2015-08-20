@@ -2,7 +2,7 @@
 
 # Awesome Gamedev #
 
-A curated list of good stuff related to the development of games. This list contains *only* [free software] [1] for code, sellers who aren't evil for physical resources, and [free cultural works] [2] for assets.
+A curated list of good stuff related to the development of games. This list contains *only* [free software][1] for code, sellers who aren't evil for physical resources, and [free cultural works][2] for assets.
 
 I have also provided a list of resources which are *not* free, and the reasons why, in the associated Wall of Shame file.
 
@@ -20,6 +20,7 @@ Table of Contents
   - [General](#general)
   - [HTML5](#html5)
   - [Physics](#physics)
+- [Fonts](#fonts)
 - [Games](#games)
   - [C](#c)
   - [C++](#c)
@@ -33,7 +34,6 @@ Table of Contents
 - [Graphics](#graphics)
   - [Assorted](#assorted)
   - [Collections](#collections)
-  - [Fonts](#fonts)
   - [Icons](#icons)
   - [Sprites](#sprites)
 - [Graphics Tools](#graphics-tools)
@@ -60,41 +60,41 @@ Assorted Assets
 
 This contains collections of miscellaneous assets of different kinds.
 
-* [Openclipart] [288] - A giant collection of clip art. [CC-0-1.0] [289]
-* [OpenGameArt.org] [7] - A large collection of art intended for game development. Various licenses, including free ones.
-* [Material Design Icons] [291] - An official icon set from Google following specific guidelines. [CC-BY-4.0] [136] .
-* [Wikimedia Commons] [97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
+* [Openclipart][288] - A giant collection of clip art. [CC0][289].
+* [OpenGameArt.org][7] - A large collection of art intended for game development. Various licenses, including free ones.
+* [Material Design Icons][291] - An official icon set from Google following specific guidelines. [CC-BY-4.0][136].
+* [Wikimedia Commons][97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
 
 Audio
 =====
 
 ## Editors ##
 
-* [Ardour] [130] - The digital audio workstation. [GNU GPLv2] [14] .
-* [Audacity] [33] - Software for recording and editing sounds. [GNU GPLv2] [14] .
-* [Beast] [133] - Music composition and modular synthesis software. [GNU LGPLv3] [38] .
-* [LMMS] [142] - A digital audio workstation. [GNU GPLv2] [14] .
-* [MilkyTracker] [34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3] [23] 
-* [Musagi] [35] - A large and sophisticated music editor. [Expat] [11] .
+* [Ardour][130] - The digital audio workstation. [GNU GPLv2][14].
+* [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14] .
+* [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38] .
+* [LMMS][142] - A digital audio workstation. [GNU GPLv2][14].
+* [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23]. 
+* [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 
 ## Music ##
 
-* [Creative Commons on Bandcamp] [85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
-* [Creative Commons on SoundCloud] [98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
-* [ccMixter] [304] - A site for collaborating with musicians. Various licenses, all CC.
-* [Incompetech] [288] - An artist providing royalty free music of all genres. [CC-BY-3.0] [5] .
-* [Jamendo] [287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
-* [LibreFM] [96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
-* [Musopen] [31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
-* [Open Music Archive] [295] - Digitized out-of-copyright sound recordings. Public domain in the UK.
+* [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
+* [Creative Commons on SoundCloud][98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [ccMixter][304] - A site for collaborating with musicians. Various licenses, all CC.
+* [Incompetech][288] - An artist providing royalty free music of all genres. [CC-BY-3.0][5].
+* [Jamendo][287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
+* [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
+* [Musopen][31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
+* [Open Music Archive][295] - Digitized out-of-copyright sound recordings. Public domain in the UK.
 
 ## Sound Effects ##
 
-* [Freesound.org] [30] - A collection of CC-licensed sound effects. Various licenses, all CC.
-* [sfxr-sdl] [290] - A tool to generate sounds. [Expat] [11] .
-* [jsfxr] [290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense] [305] .
+* [Freesound.org][30] - A collection of CC-licensed sound effects. Various licenses, all CC.
+* [sfxr-sdl][290] - A tool to generate sounds. [Expat][11].
+* [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
-* [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
+* [SoundBible's Royalty-free section][32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
 Engines
 =======
@@ -103,85 +103,92 @@ These are full-blown game engines.
 
 ## General ##
 
-* [AGS] [57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0] [58] .
-* [Azul3D] [112] - Implemented in Go. [3-clause BSD] [29] .
-* [Backbone] [161] - Implemented in ECMAScript. [Expat] [11] .
-* [BananaBread] [162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib] [45] .
-* [Blender Game Engine] [312] - Implemented in C++. Scripted using a GUI and Python. [GNU GPLv2] [14] .
-* [Castle Game Engine] [292] - Implemented in ObjectPascal. [GNU LGPLv2] [102] .
-* [Chili Source] [262] - Implemented in C++. [Expat] [11] .
-* [Cocos2d] [75] - Implemented in Python. [3-clause BSD] [29] .
-* [Cocos2d-android] [263] - Implemented in Java. [3-clause BSD] [29] .
-* [Cocos2d-X] [306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat] [11] .
-* [Darkplaces] [314] - Implemented in C. [GNU GPLv2] [14] .
-* [Doomsday] [134] - Implemented in C++. [GNU GPLv3] [23] .
-* [Duality] [77] - Implemented in C#. [Expat] [11] .
-* [ENIGMA] [308] - Implemented in C++. Has its own scripting language and [GUI editor] [309] . [GNU GPLv3] [23] .
-* [Fife] [55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3] [38] .
-* [Flare] [54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3] [23] .
-* [Fluxus] [137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2] [14] .
-* [gamekit] [293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat] [11] .
-* [GamePlay] [266] - Implemented in C++. [Apache2.0] [20] .
-* [GDevelop] [60] - Implemented in C++. Targeted at non-programmers. [Expat] [11] (IDE is [GNU GPLv3] [23] ).
-* [GNU FreeDink] [47] - Implemented in C++. [GNU GPLv3] [23] .
-* [Godot] [51] - Implemented in C++. Has [its own scripting language] [52] . [Expat] [11] .
-* [Gosu] [318] - Implemented in C++. has a Ruby interface. [Expat] [11] .
-* [Helm] [83] - Implemented in Haskell. [Expat] [11] .
-* [HERITAGE] [123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3] [23] .
-* [Horde3D] [115] - Implemented in C++. [EPLv1] [116] .
-* [ioquake3] [202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2] [14] .
-* [Irrlicht] [43] - Implemented in C++. Has a [range of bindings] [44] . [zlib] [45] .
-* [JiGS] [268] - Implemented in PHP. Designed for MMORPGs. [GNU GPLv2] [14] .
-* [JMonkey] [140] - Implemented in Java. [3-clause BSD] [29] .
-* [KivEnt] [307] - Implemented in Python. [Expat] [11] .
-* [LambdaHack] [84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD] [29] .
-* [lycheejs] [89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat] [11] .
-* [Maratis] [311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2] [14] .
-* [Moai] [319] - Implemented in C++. Has Lua for scripting. [CPAL] [320] .
-* [Ogre3D] [41] - Implemented in C++. Has a [range of bindings] [42] . [Expat] [11] .
-* [Orx] [315] - Implented in C. [zlib] [45] .
-* [Panda3D] [119] - Implemented in C++. Has a Python interface. [3-clause BSD] [29] .
-* [PlayN] [317] - Implemented in Java. [Apache2.0] [20] .
-* [Processing] [313] - Implemented in Java. Has its own scripting language. [GNU GPLv2] [14] .
-* [Processing.js] [314] - Implemented in ECMAScript. Has its own scripting language. [Expat] [11] .
-* [Ren'Py] [107] - Implemented in Python. Designed for visual novels. [Expat] [11] , with some parts under [GNU LGPLv3] [38] .
-* [qfusion] [206] - Implemented in C++. Designed for FPS games. [GNU GPLv2] [14] .
-* [RPGBOSS] [108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3] [27] .
-* [Sludge] [56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3] [38] .
-* [Spearmint] [203] - Implemented in C. Designed for FPS games. [GNU GPLv3] [23] .
-* [Spring] [121] - Implemented in C++. Designed for RTS games. [GNU GPLv2] [14] .
-* [Turbulenz] [277] - Implemented in ECMAScript. [Expat] [11] .
-* [Torque2D] [63] - Implemented in C++. Has its own scripting language. [Expat] [11] .
-* [Torque3D] [61] - Implemented in C++. Has [its own scripting language] [62] . [Expat] [11] .
-* [Urho3D] [122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat] [11] .
-* [voxeliq] [246] - Implemented in C#. Designed for voxel world games. [MsPL] [247] (code).
+* [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
+* [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
+* [Backbone][161] - Implemented in ECMAScript. [Expat][11].
+* [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
+* [Blender Game Engine][312] - Implemented in C++. Scripted using a GUI and Python. [GNU GPLv2][14].
+* [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102].
+* [Chili Source][262] - Implemented in C++. [Expat][11].
+* [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
+* [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
+* [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
+* [Darkplaces][314] - Implemented in C. [GNU GPLv2][14].
+* [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
+* [Duality][77] - Implemented in C#. [Expat] [11] .
+* [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23].
+* [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
+* [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
+* [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14].
+* [gamekit][293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat][11].
+* [GamePlay][266] - Implemented in C++. [Apache2.0][20].
+* [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23]).
+* [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
+* [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
+* [Gosu][318] - Implemented in C++. has a Ruby interface. [Expat][11].
+* [Helm][83] - Implemented in Haskell. [Expat][11].
+* [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23].
+* [Horde3D][115] - Implemented in C++. [EPLv1][116].
+* [ioquake3][202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2][14].
+* [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
+* [JiGS][268] - Implemented in PHP. Designed for MMORPGs. [GNU GPLv2][14].
+* [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
+* [KivEnt][307] - Implemented in Python. [Expat][11].
+* [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
+* [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
+* [Maratis][311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2][14].
+* [Moai][319] - Implemented in C++. Has Lua for scripting. [CPAL][320].
+* [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
+* [Orx][315] - Implented in C. [zlib][45].
+* [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
+* [PlayN][317] - Implemented in Java. [Apache2.0][20].
+* [Processing][313] - Implemented in Java. Has its own scripting language. [GNU GPLv2][14].
+* [Processing.js][314] - Implemented in ECMAScript. Has its own scripting language. [Expat][11].
+* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38].
+* [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14].
+* [RPGBOSS][108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3][27].
+* [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
+* [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23].
+* [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14].
+* [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
+* [Torque2D][63] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
+* [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
+* [Urho3D][122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat][11].
+* [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MsPL][247].
 
 ## HTML5 ##
 
 Unless stated otherwise, these engines are implemented in ECMAScript.
 
-* [Akihabara] [258] - Designed for 8-bit and 16-bit games. [Expat] [11] and [GNU GPLv2] [14] .
-* [Babylon.js] [260] - [Apache2.0] [20] .
-* [Blend4Web] [316] - Uses Blender to make web visualizations. [GNU GPLv3] [23] .
-* [Cocos2d-html5] [264] - [Expat] [11] .
-* [Coffee2D] [205] - Implemented in CoffeeScript. [Expat] [11] .
-* [Crafty.js] [68] - [Expat] [11] and [GNU GPLv3] [23] .
-* [Cube] [168] - Designed for voxel games. [WTFPLv2] [169] .
-* [kiwi.js] [269] - [Expat] [11] .
-* [melonJS] [93] - [Expat] [11] .
-* [panda.js] [273] - [Expat] [11] .
-* [Phaser] [64] - [Expat] [11] .
-* [PlayCanvas] [65] - [Expat] [11] .
+* [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11] and [GNU GPLv2][14].
+* [Babylon.js][260] - [Apache2.0][20].
+* [Blend4Web][316] - Uses Blender to make web visualizations. [GNU GPLv3][23].
+* [Cocos2d-html5][264] - [Expat][11].
+* [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
+* [Crafty.js][68] - [Expat][11] and [GNU GPLv3][23].
+* [Cube][168] - Designed for voxel games. [WTFPLv2][169].
+* [kiwi.js][269] - [Expat][11].
+* [melonJS][93] - [Expat][11].
+* [panda.js][273] - [Expat][11].
+* [Phaser][64] - [Expat][11].
+* [PlayCanvas][65] - [Expat][11].
 
 ## Physics ##
 
-* [ammo.js] [259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD] [29] .
-* [Box2D] [48] - Implemented in C++. Designed to simulate rigid body physics. [zlib] [45] .
-* [Bullet] [59] - Implemented in C++. General physics engine. [zlib] [45] .
-* [Matter.js] [91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat] [11] .
-* [ODE] [117] - Open Dynamics Engine; implemented in C++. Designed to simulate rigid body dynamics. [Original BSD] [118] .
-* [Oimo.js] [272] - Implemented in ECMAScript. [Expat] [11] .
-* [Physics.js] [274] - Implemented in ECMAScript. [Expat] [11] .
+* [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
+* [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
+* [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
+* [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
+* [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate rigid body dynamics. [Original BSD][118].
+* [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
+* [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
+
+Fonts
+=====
+
+* [Open Font Library][301] - A collection of freely licensed fonts. [OFL][302].
+* [Google Fonts][232] - A collection of freely-licensed fonts. [OFL][302].
+* [The League of Moveable Type][303] - A collection of fonts with high standards. [OFL][302].
 
 Games
 =====
@@ -278,10 +285,6 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
 * [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] (code), [CC-BY-SA-3.0][127] (assets).
 
-## Scala ##
-
-* [Lichess] [146] - A chess game server. [Expat] [11] (code and assets).
-
 Graphics
 ========
 
@@ -289,80 +292,75 @@ Graphics
 
 This is a section for everything else that doesn't fit in some other graphics category.
 
-* [Blender 3D Model Repository] [296] - User-submitted 3D models made with Blender. Various licenses, including free ones.
-* [CanTree] [10] - Free online tree generator. Generates PNG files. [Expat] [11] .
-* [Kator Legaz 3D Models] [297] - 3D Models by of various subjects. [CC-BY-3.0] [5] .
-* [mocapdata.com] [298] - A library of motion capture data. Various licenses, including free ones.
-* [Yobi3D] [13] - A search engine for 3D models that aims to display license information when possible. Various licenses, including free ones.
+* [Blender 3D Model Repository][296] - User-submitted 3D models made with Blender. Various licenses, including free ones.
+* [CanTree][10] - Free online tree generator. Generates PNG files. [Expat] [11] .
+* [Kator Legaz 3D Models][297] - 3D Models by of various subjects. [CC-BY-3.0] [5] .
+* [mocapdata.com][298] - A library of motion capture data. Various licenses, including free ones.
+* [Yobi3D][13] - A search engine for 3D models that aims to display license information when possible. Various licenses, including free ones.
 
 ## Collections ##
 
 This category contains any 'grab-bags' of different kinds of art assets.
 
-* [Free stuff by 7Soul1] [3] - A collection of various game-related assets. Available in PNG. Public domain.
-* [openclipart] [6] - A collection of various clip art. Available in PNG. Public domain.
-* [Vecteezy] [12] - A collection of vector art. Various Creative Commons licenses.
-
-## Fonts ##
-
-* [Open Font Library] [301] - A collection of freely licensed fonts. [OFL] [302] .
-* [The League of Moveable Type] [303] - A collection of fonts with high standards. [OFL] [302] .
+* [Free stuff by 7Soul1][3] - A collection of various game-related assets. Available in PNG. Public domain.
+* [openclipart][6] - A collection of various clip art. Available in PNG. Public domain.
+* [Vecteezy][12] - A collection of vector art. Various Creative Commons licenses.
 
 ## Icons ##
 
-* [Game-icons.net] [4] - A constantly-growing collection of black-and-white icons. Available in SVG or PNG. [CC-BY-3.0] [5] .
-* [Tango Icon Library] [300] - An icon set project with a goal to create a consistent user interface. Public domain.
+* [Game-icons.net][4] - A constantly-growing collection of black-and-white icons. Available in SVG or PNG. [CC-BY-3.0] [5] .
+* [Tango Icon Library][300] - An icon set project with a goal to create a consistent user interface. Public domain.
 
 ## Sprites ##
 
-* [SpriteLib] [8] - A big collection of sprites. Available in PNG. [CPL 1.0] [9] .
+* [SpriteLib][8] - A big collection of sprites. Available in PNG. [CPL 1.0][9].
 
 Graphics Tools
 ==============
 
 ## Animation ##
 
-* [Synfig] [141] - A 2D animation tool. [GNU GPLv2] [14] .
+* [Synfig] [141] - A 2D animation tool. [GNU GPLv2][14].
 
 ## Bitmap Compression ##
 
-* [pngquant] [16] - A command-line utility for lossy compression of PNG images. Has various front-ends available. [FreeBSD] [17] .
-* [Trimage] [18] - A cross-platform tool for losslessly optimizing PNG and JPG files. [Expat] [11] .
+* [pngquant][16] - A command-line utility for lossy compression of PNG images. Has various front-ends available. [FreeBSD][17].
+* [Trimage][18] - A cross-platform tool for losslessly optimizing PNG and JPG files. [Expat][11].
 
 ## Editors ##
 
-* [AwesomeBump] [41] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3] [38] .
-* [Blender] [25] - A 3D modelling and rendering editor. [GNU GPLv2] [14] .
-* [GIMP] [22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3] [23] .
-* [GrafX2] [310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2] [14] .
-* [Hme] [139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2] [14] .
-* [Inkscape] [24] - A vector image editing program. [GNU GPLv2] [14] .
-* [Krita] [25] - A digital painting and illustration program. [GNU GPLv2] [14] .
-* [MakeHuman] [26] - A tool for making 3D characters. [GNU AGPLv3] [27] .
-* [MyPaint] [81] - A natural materials painting and drawing emulator. [GNU GPLv2] [14] .
-* [NeoTextureEdit] [37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3] [38] .
-* [ngPlant] [105] - A 3D plant modelling software suite. [GNU GPLv2] [14] .
-* [NormalMapOnline] [40] - An online normal-mapping tool. [Expat] [11] .
-* [Overlap2D] [19] - An engine-agnostic game level and UI editor. [Apache2.0] [20] .
-* [Synfig Studio] [104] - 2D animation software. [GNU GPLv2] [14] .
-* [Tiled] [21] - Easy-to-use and flexible tile map editor. [GNU GPLv2] [14] and [FreeBSD] [17] .
+* [AwesomeBump][41] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3][38].
+* [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14].
+* [GIMP][22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3][23].
+* [GrafX2][310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2][14].
+* [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14].
+* [Inkscape][24] - A vector image editing program. [GNU GPLv2][14].
+* [Krita][25] - A digital painting and illustration program. [GNU GPLv2][14].
+* [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
+* [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14].
+* [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3][38].
+* [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14].
+* [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
+* [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
+* [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14].
+* [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] and [FreeBSD][17].
 
 ## Mesh Tools ##
 
-* [MeshLabs] [103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2] [14] .
+* [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14].
 
 ## Spritesheet Tools ##
 
-* [Aseprite] [13] - Animated sprite editor and pixel art tool. [GNU GPLv2] [14] .
-* [Piskel] [15] - Online pixel art and animated sprite creator. [GNU AGPLv3] [27] .
+* [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14].
+* [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27].
 
 ## Texture Tools ##
 
-* [TextureGeneratorOnline] [39] - An online tool for texture generation. [Expat] [11] .
+* [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 
 ## Voxel Editors ##
 
-* [Sproxel] [28] - A 3D interface for quickly editing and creating voxel-based 3D models. [3-clause BSD] [29] .
+* [Sproxel][28] - A 3D interface for quickly editing and creating voxel-based 3D models. [3-clause BSD][29].
 
 Learning Resources
 ==================
@@ -462,7 +460,6 @@ This is a catch-all category for things that don't fit anywhere else.
 * [PhysicsFS] [99] - A library to provide abstract access to various archives. [zlib] [45] .
 * [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] .
 * [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] (or a compatible license).
-
 
 [1]: https://www.fsf.org/about/what-is-free-software
 [2]: http://freedomdefined.org/Definition
@@ -695,7 +692,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [229]: https://github.com/minetest/minetest
 [230]: https://github.com/MovingBlocks/Terasology
 [231]: https://github.com/simtr/The-Powder-Toy
-
+[232]: https://www.google.com/fonts
 [233]: https://github.com/colobot/colobot
 [234]: https://github.com/a-nikolaev/curseofwar
 [235]: https://github.com/SimHacker/micropolis
@@ -784,4 +781,3 @@ This is a catch-all category for things that don't fit anywhere else.
 [318]: https://www.libgosu.org/
 [319]: http://getmoai.com/
 [320]: http://opensource.org/licenses/CPAL-1.0
-[290]: http://drpetter.se/project_sfxr.html
