@@ -410,9 +410,10 @@ Reference
 
 ## Talks ##
 
-These are collections of game development-related talks that might be interesting or informative to people seeking to design games.
+These are collections of game development-related talks, podcasts etc. that might be interesting or informative to people seeking to design games.
 
-* [Indievelopment talks][143] - A collection of talks about various aspects of game development. [CC0][289].
+* [GameDevRadio][268] (podcast) - A series of online radio shows devoted to entertaining and educating whoever is interested in game development. [CC-BY-SA-4.0][125].
+* [Indievelopment talks][143] (video) - A collection of talks about various aspects of game development. [CC0][289].
 
 
 Programming Frameworks and Libraries
@@ -736,7 +737,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [265]: https://github.com/CreateJS/EaselJS/
 [266]: https://github.com/gameplay3d/GamePlay
 [267]: https://github.com/krotik/gladiator_3d
-#[268]: FREE
+[268]: http://www.gamedevradio.com/
 [269]: https://github.com/gamelab/kiwi.js
 [270]: https://github.com/librocket/librocket
 [271]: https://github.com/AMDmi3/libSDL2pp
