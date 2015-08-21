@@ -451,6 +451,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [Quasi-Engine] [276] - A set of Qt-based tools for game development. Implemented in C++. [GNU GPLv3] [23] .
 * [SDL] [46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib] [45] .
 * [SFML] [109] - Simple and Fast Multimedia Library; a multi-platform, multi-language, multimedia interface to various computer hardware. Implemented in C++. Has a [range of bindings] [110] . [3-clause BSD] [29] .
+* [Slick2D] [322] - A set of tools to make 2D game development easier. Implemented in Java. [3-clause BSD] [29] .
 * [Three.js] [69] - A library that makes WebGL easy to use. Implemented in ECMAScript. [Expat] [11] .
 * [voxel.js] [67] - A multi-component framework for bulding voxel games for modern browsers. Implemented in ECMAScript. [3-clause BSD] [29] .
 
@@ -790,3 +791,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [319]: http://getmoai.com/
 [320]: http://opensource.org/licenses/CPAL-1.0
 [321]: http://drpetter.se/project_sfxr.html
+[322]: http://slick.ninjacave.com/
