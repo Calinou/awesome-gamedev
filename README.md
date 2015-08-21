@@ -614,7 +614,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [143]: https://vimeo.com/indievelopment/videos
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
-[146]: https://github.com/ornicar/lila
+#[146]: FREE
 [147]: https://github.com/dmcinnes/HTML5-Asteroids
 [148]: https://github.com/budnix/ball-and-wall
 [149]: https://github.com/ellisonleao/clumsy-bird
