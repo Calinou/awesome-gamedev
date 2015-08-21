@@ -46,12 +46,13 @@ Table of Contents
   - [Voxel Editors](#voxel-editors)
 - [Learning Resources](#learning-resources)
   - [Graphics](#graphics-1)
-  - [Beginner](#beginner)
+    - [Beginner](#beginner)
   - [Music](#music-1)
   - [Programming](#programming)
-  - [Beginner](#beginner-1)
-  - [Intermediate](#intermediate)
-  - [Reference](#reference)
+    - [Beginner](#beginner-1)
+    - [Intermediate](#intermediate)
+    - [Reference](#reference)
+  - [Talks](#talks)
 - [Programming Frameworks and Libraries](#programming-frameworks-and-libraries)
 - [Utilities](#utilities)
 
@@ -408,6 +409,13 @@ Reference
 * [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11] .
 
+## Talks ##
+
+These are collections of game development-related talks that might be interesting or informative to people seeking to design games.
+
+* [Indievelopment talks][143] - A collection of talks about various aspects of game development. [CC0][289].
+
+
 Programming Frameworks and Libraries
 ===================================
 
@@ -603,7 +611,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [140]: http://jmonkeyengine.org/
 [141]: www.synfig.org/cms/
 [142]: https://lmms.io/
-
+[143]: https://vimeo.com/indievelopment/videos
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
 [146]: https://github.com/ornicar/lila
