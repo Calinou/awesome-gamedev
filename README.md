@@ -117,6 +117,7 @@ These are full-blown game engines.
 * [Darkplaces][314] - Implemented in C. [GNU GPLv2][14].
 * [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
 * [Duality][77] - Implemented in C#. [Expat] [11] .
+* [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23].
 * [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23].
 * [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
 * [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
@@ -389,6 +390,7 @@ Beginner
 
 * [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
+* [Functional Programming in JavaScript][218] (video) - A set of tutorials introducing functional programming concepts using ECMAScript. [CC-BY-3.0][5].
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127] .
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
@@ -677,7 +679,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [205]: https://github.com/LanJian/coffee2d
 [206]: https://github.com/Warsow/qfusion
 [207]: https://github.com/CleverRaven/Cataclysm-DDA
-
+[208]: https://github.com/EasyRPG/
 [209]: https://github.com/jwvhewitt/dmeternal
 [210]: https://github.com/egoboo/egoboo
 [211]: https://github.com/clintbellanger/flare-game
@@ -687,7 +689,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [215]: https://github.com/SuperTux/supertux
 [216]: https://github.com/Tiehuis/2048-cli
 [217]: https://github.com/alewmoose/2048-in-terminal
-
+[218]: https://goblinrefuge.com/mediagoblin/u/kozross/collection/functional-programming-in-javascript/
 [219]: https://github.com/DusteDdk/Wizznic
 [220]: https://github.com/devnewton/newton_adventure
 [221]: https://github.com/devnewton/nedetlesmaki
