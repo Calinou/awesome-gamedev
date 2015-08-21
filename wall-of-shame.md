@@ -10,7 +10,7 @@ Pretends to be free, but isn't
 ==============================
 
 * Bridges - only works on a proprietary platform.
-* Bfxr - relies on a proprietary language.
+* Bfxr - relies on a proprietary language. Use sfxr/jsfxr instead.
 * Canabalt - only works on a proprietary platform.
 * Citrus - relies on a proprietary language.
 * Codename Lumberjack - relies on a proprietary language.
@@ -20,7 +20,7 @@ Pretends to be free, but isn't
 * Ending - relies on a proprietary language.
 * Farseer - depends on nonfree build tools.
 * FlashPunk - relies on a proprietary language.
-* Flixel - relies on a proprietary language.
+* Flixel - relies on a proprietary language. Use HaxeFlixel instead.
 * GenesisEngine - relies on a proprietary build system and OS.
 * Grit - depends on libCG.
 * Hotfix - depends on a proprietary engine.
