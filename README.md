@@ -61,9 +61,9 @@ Assorted Assets
 
 This contains collections of miscellaneous assets of different kinds.
 
+* [Material Design Icons][291] - An official icon set from Google following specific guidelines. [CC-BY-4.0][136].
 * [Openclipart][288] - A giant collection of clip art. [CC0][289].
 * [OpenGameArt.org][7] - A large collection of art intended for game development. Various licenses, including free ones.
-* [Material Design Icons][291] - An official icon set from Google following specific guidelines. [CC-BY-4.0][136].
 * [Wikimedia Commons][97] - A collection of various assets of all kinds. Various licenses, all CC or free-er.
 
 Audio
@@ -80,9 +80,9 @@ Audio
 
 ## Music ##
 
+* [ccMixter][304] - A site for collaborating with musicians. Various licenses, all CC.
 * [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud][98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
-* [ccMixter][304] - A site for collaborating with musicians. Various licenses, all CC.
 * [Incompetech][288] - An artist providing royalty free music of all genres. [CC-BY-3.0][5].
 * [Jamendo][287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
@@ -92,9 +92,9 @@ Audio
 ## Sound Effects ##
 
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various licenses, all CC.
-* [sfxr-sdl] [321] - A tool to generate sounds. [Expat] [11] .
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
+* [sfxr-sdl] [321] - A tool to generate sounds. [Expat] [11] .
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
 
 Engines
@@ -145,15 +145,15 @@ These are full-blown game engines.
 * [PlayN][317] - Implemented in Java. [Apache2.0][20].
 * [Processing][313] - Implemented in Java. Has its own scripting language. [GNU GPLv2][14].
 * [Processing.js][314] - Implemented in ECMAScript. Has its own scripting language. [Expat][11].
-* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38].
 * [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14].
+* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38].
 * [RPGBOSS][108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3][27].
 * [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
 * [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23].
 * [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14].
-* [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
 * [Torque2D][63] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
+* [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
 * [Urho3D][122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat][11].
 * [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MsPL][247].
 
@@ -187,8 +187,8 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 Fonts
 =====
 
-* [Open Font Library][301] - A collection of freely licensed fonts. [OFL][302].
 * [Google Fonts][232] - A collection of freely-licensed fonts. [OFL][302].
+* [Open Font Library][301] - A collection of freely licensed fonts. [OFL][302].
 * [The League of Moveable Type][303] - A collection of fonts with high standards. [OFL][302].
 
 Games
@@ -257,9 +257,9 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Prism] [184] - A colour-matching game. [Expat] [11] (code), no significant assets.
 * [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code and assets).
 * [Snake] [157] - A version of Snake. [Expat] [11] (code), no significant assets.
+* [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code and assets).
 * [Space Crusade][160] - A space game. [Expat][11] (code), [CC0][49] (assets).
 * [Space Shooter] [158] - Simple space shooting game. [Expat] [11] (code).
-* [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code and assets).
 * [Squirts] [191] - [Expat] [11] (code and assets).
 * [TransCube] [185] - A 2D puzzle platformer. [GNU GPLv3] [23] (code), [CC-BY-SA-4.0] [125] (assets).
 
@@ -406,8 +406,8 @@ Reference
 ---------
 
 * [breakouts] [278] - A collection of ECMAScript implementations of Breakout. [Expat][11] .
-* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11] .
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
 
 ## Talks ##
 
