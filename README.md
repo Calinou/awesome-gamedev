@@ -71,11 +71,11 @@ Audio
 
 ## Editors ##
 
-* [Ardour][130] - The digital audio workstation. [GNU GPLv2][14].
-* [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14] .
-* [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38] .
-* [LMMS][142] - A digital audio workstation. [GNU GPLv2][14].
-* [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23]. 
+* [Ardour][130] - The digital audio workstation. [GNU GPLv2][14] or later.
+* [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14] or later.
+* [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38] or later.
+* [LMMS][142] - A digital audio workstation. [GNU GPLv2][14] or later.
+* [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 
 ## Music ##
@@ -108,50 +108,48 @@ These are full-blown game engines.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
-* [Blender Game Engine][312] - Implemented in C++. Scripted using a GUI and Python. [GNU GPLv2][14].
-* [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102].
+* [Blender Game Engine][312] - Implemented in C++. Scripted using a GUI and Python. [GNU GPLv2][14] or later.
+* [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102] or later.
 * [Chili Source][262] - Implemented in C++. [Expat][11].
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
-* [Darkplaces][314] - Implemented in C. [GNU GPLv2][14].
-* [Doomsday][134] - Implemented in C++. [GNU GPLv3][23].
+* [Darkplaces][314] - Implemented in C. [GNU GPLv2][14] or later.
+* [Doomsday][134] - Implemented in C++. [GNU GPLv2][14] or later.
 * [Duality][77] - Implemented in C#. [Expat] [11] .
-* [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23].
-* [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23].
-* [Fife][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38].
-* [Flare][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23].
-* [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14].
+* [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23] or later.
+* [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23] or later.
+* [FIFE][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38] or later.
+* [FLARE][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23] or later.
+* [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14] or later.
 * [gamekit][293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat][11].
 * [GamePlay][266] - Implemented in C++. [Apache2.0][20].
-* [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23]).
-* [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23].
+* [GDevelop][60] - Implemented in C++. Targeted at non-programmers. All components but the IDE are [Expat][11].
+* [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23] or later.
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Gosu][318] - Implemented in C++. has a Ruby interface. [Expat][11].
 * [Helm][83] - Implemented in Haskell. [Expat][11].
-* [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23].
+* [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure games. [GNU GPLv3][23] or later.
 * [Horde3D][115] - Implemented in C++. [EPLv1][116].
-* [ioquake3][202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2][14].
+* [ioquake3][202] - Implemented in C. A fork of the Quake III Arena engine. [GNU GPLv2][14] or later.
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
-* [JiGS][268] - Implemented in PHP. Designed for MMORPGs. [GNU GPLv2][14].
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
 * [KivEnt][307] - Implemented in Python. [Expat][11].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
-* [Maratis][311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2][14].
+* [Maratis][311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2][14] or later.
 * [Moai][319] - Implemented in C++. Has Lua for scripting. [CPAL][320].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
 * [Orx][315] - Implented in C. [zlib][45].
 * [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
 * [PlayN][317] - Implemented in Java. [Apache2.0][20].
-* [Processing][313] - Implemented in Java. Has its own scripting language. [GNU GPLv2][14].
+* [Processing][313] - Implemented in Java. Has its own scripting language. [GNU GPLv2][14] only.
 * [Processing.js][314] - Implemented in ECMAScript. Has its own scripting language. [Expat][11].
-* [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14].
-* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38].
-* [RPGBOSS][108] - Implemented in Scala. Designed for RPGs made by non-programmers. [GNU AGPLv3][27].
-* [Sludge][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38].
-* [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23].
-* [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14].
+* [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14] or later.
+* [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
+* [SLUDGE][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
+* [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23] or later.
+* [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14] or later.
 * [Torque2D][63] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
@@ -162,12 +160,11 @@ These are full-blown game engines.
 
 Unless stated otherwise, these engines are implemented in ECMAScript.
 
-* [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11] and [GNU GPLv2][14].
+* [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11].
 * [Babylon.js][260] - [Apache2.0][20].
-* [Blend4Web][316] - Uses Blender to make web visualizations. [GNU GPLv3][23].
 * [Cocos2d-html5][264] - [Expat][11].
 * [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
-* [Crafty.js][68] - [Expat][11] and [GNU GPLv3][23].
+* [Crafty.js][68] - [Expat][11].
 * [Cube][168] - Designed for voxel games. [WTFPLv2][169].
 * [kiwi.js][269] - [Expat][11].
 * [melonJS][93] - [Expat][11].
@@ -332,7 +329,7 @@ Graphics Tools
 ## Editors ##
 
 * [AwesomeBump][41] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3][38].
-* [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14].
+* [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14] or later.
 * [GIMP][22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3][23].
 * [GrafX2][310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2][14].
 * [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14].
@@ -579,7 +576,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [105]: http://ngplant.org/
 [106]: http://pygame.org/wiki/about
 [107]: http://www.renpy.org/
-[108]: http://rpgboss.com/
+#[108]: FREE
 [109]: http://www.sfml-dev.org/index.php
 [110]: http://www.sfml-dev.org/download/bindings.php
 [111]: https://schteppe.github.io/p2.js/
@@ -739,7 +736,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [265]: https://github.com/CreateJS/EaselJS/
 [266]: https://github.com/gameplay3d/GamePlay
 [267]: https://github.com/krotik/gladiator_3d
-[268]: https://github.com/Techbot/JiGS-PHP-RPG-engine
+#[268]: FREE
 [269]: https://github.com/gamelab/kiwi.js
 [270]: https://github.com/librocket/librocket
 [271]: https://github.com/AMDmi3/libSDL2pp
@@ -787,7 +784,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
-[316]: https://github.com/TriumphLLC/Blend4Web
+#[316]: FREE
 [317]: http://playn.io/
 [318]: https://www.libgosu.org/
 [319]: http://getmoai.com/
