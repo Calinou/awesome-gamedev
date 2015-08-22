@@ -141,6 +141,7 @@ These are full-blown game engines.
 * [Moai][319] - Implemented in C++. Has Lua for scripting. [CPAL][320].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
 * [Orx][315] - Implented in C. [zlib][45].
+* [Oxygine][176] - Implemented in C++. [Expat][11].
 * [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
 * [PlayN][317] - Implemented in Java. [Apache2.0][20].
 * [Processing][313] - Implemented in Java. Has its own scripting language. [GNU GPLv2][14] only.
@@ -641,7 +642,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [173]: https://github.com/doublespeakgames/adarkroom
 [174]: https://github.com/cxong/Beatrix
 [175]: https://github.com/sweetcarolinagames/BitBot
-
+[176]: http://oxygine.org/
 [177]: https://github.com/Aerolab/blockrain.js
 [178]: https://github.com/cxong/DrunkenViking
 
