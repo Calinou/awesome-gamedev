@@ -443,8 +443,8 @@ These are programming libraries or low-level code-based tools which are designed
 * [pixi.js] [275] - A 2D rendering engine. Implemented in ECMAScript. [Expat] [11] .
 * [Polycode] [120] - Framework for games and interactive applications. Implemented in C++. Has Lua bindings. [Expat] [11] .
 * [PyDark] [95] - Game framework on top of PyGame; designed to be easy to pick up. Implemented in Python. [Expat] [11] .
-* [PyGame] [106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2] [102] .
-* [Quasi-Engine] [276] - A set of Qt-based tools for game development. Implemented in C++. [GNU GPLv3] [23] .
+* [PyGame] [106] - A set of modules designed for writing games. Implemented in Python. [GNU LGPLv2] [102] or later.
+* [Quasi-Engine] [276] - A set of Qt-based tools for game development. Implemented in C++. [GNU LGPLv2] [102] or later.
 * [SDL] [46] - Another cross-platform library for low-level tasks, like creating windows, accepting user input, and so forth. Implemented in C. [zlib] [45] .
 * [SFML] [109] - Simple and Fast Multimedia Library; a multi-platform, multi-language, multimedia interface to various computer hardware. Implemented in C++. Has a [range of bindings] [110] . [3-clause BSD] [29] .
 * [Slick2D] [322] - A set of tools to make 2D game development easier. Implemented in Java. [3-clause BSD] [29] .
@@ -458,13 +458,13 @@ This is a catch-all category for things that don't fit anywhere else.
 
 * [Assimp] [100] - Open Asset Import Library; a portable way to import various well-known 3D model formats in a uniform manner. Implemented in C++, with a range of bindings. [3-clause BSD] [29] .
 * [Easel.js] [265] - Provides a range of tools to make working with the HTML5 Canvas API easier. Implemented in ECMAScript. [Expat] [11] .
-* [gmsh] [138] - A 3D finite-element grid generator with a built-in CAD engine and post-processor. [GNU GPLv2] [14] .
+* [Gmsh] [138] - A 3D finite-element grid generator with a built-in CAD engine and post-processor. [GNU GPLv2] [14] or later.
 * [libcaca][114] - An ASCII graphics rendering library for terminal-based interfaces. [WTFPLv2][169].
-* [libnoise] [101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2] [102] .
+* [libnoise] [101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2] [102] or later.
 * [Monkey] [94] - A next-generation games programming language. Implemented in C++. [zlib] [45] .
 * [PhysicsFS] [99] - A library to provide abstract access to various archives. [zlib] [45] .
-* [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] .
-* [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] (or a compatible license).
+* [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] or later.
+* [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] or later (or a compatible license).
 
 [1]: https://www.fsf.org/about/what-is-free-software
 [2]: http://freedomdefined.org/Definition
