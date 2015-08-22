@@ -315,7 +315,7 @@ Graphics Tools
 
 ## Animation ##
 
-* [Synfig] [141] - A 2D animation tool. [GNU GPLv2][14].
+* [Synfig] [104] - A 2D animation tool. [GNU GPLv2][14].
 
 ## Bitmap Compression ##
 
@@ -606,7 +606,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [138]: http://geuz.org/gmsh/
 [139]: http://hme.sourceforge.net/
 [140]: http://jmonkeyengine.org/
-[141]: www.synfig.org/cms/
+#[141]: FREE
 [142]: https://lmms.io/
 [143]: https://vimeo.com/indievelopment/videos
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
