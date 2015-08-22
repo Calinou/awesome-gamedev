@@ -315,7 +315,7 @@ Graphics Tools
 
 ## Animation ##
 
-* [Synfig] [104] - A 2D animation tool. [GNU GPLv2][14].
+* [Synfig Studio] [104] - A 2D animation tool. [GNU GPLv2][14] or later.
 
 ## Bitmap Compression ##
 
@@ -324,30 +324,30 @@ Graphics Tools
 
 ## Editors ##
 
-* [AwesomeBump][141] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3][38].
+* [AwesomeBump][141] - A program that generates normal, height, specular or ambient occlusion, roughness or metallic textures. Requires a graphics card with support for OpenGL4 or greater. [GNU LGPLv3][38] or later.
 * [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14] or later.
-* [GIMP][22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3][23].
-* [GrafX2][310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2][14].
-* [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14].
-* [Inkscape][24] - A vector image editing program. [GNU GPLv2][14].
-* [Krita][108] - A digital painting and illustration program. [GNU GPLv2][14].
-* [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
-* [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14].
-* [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3][38].
-* [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14].
+* [GIMP][22] - The GNU Image Manipulation Program. Designed for photo retouching, image composition and similar tasks. [GNU GPLv3][23] or later.
+* [GrafX2][310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2][14] only.
+* [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14] or later.
+* [Inkscape][24] - A vector image editing program. [GNU GPLv2][14] only.
+* [Krita][108] - A digital painting and illustration program. [GNU GPLv2][14] or later.
+* [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27] or later.
+* [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14] or later.
+* [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor.  [GNU LGPLv3][38] or later.
+* [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14] or later.
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
-* [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14].
-* [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] and [FreeBSD][17].
+* [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14] or later.
+* [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] or later and [FreeBSD][17].
 
 ## Mesh Tools ##
 
-* [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14].
+* [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
 
 ## Spritesheet Tools ##
 
-* [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14].
-* [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27].
+* [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14] only.
+* [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27] or later.
 
 ## Texture Tools ##
 
