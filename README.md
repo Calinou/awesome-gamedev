@@ -611,7 +611,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [143]: https://vimeo.com/indievelopment/videos
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
-#[146]: FREE
+
 [147]: https://github.com/dmcinnes/HTML5-Asteroids
 [148]: https://github.com/budnix/ball-and-wall
 [149]: https://github.com/ellisonleao/clumsy-bird
@@ -632,7 +632,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [164]: https://github.com/antionio/game-off-2013
 [165]: https://github.com/mozilla/BrowserQuest
 [166]: https://directory.fsf.org/wiki/License:MPLv2.0
-#[167]: FREE
+
 [168]: https://github.com/morozd/blk-game
 [169]: https://github.com/Nurgak/Cube-engine
 [170]: https://github.com/Q42/0hn0
@@ -641,16 +641,16 @@ This is a catch-all category for things that don't fit anywhere else.
 [173]: https://github.com/doublespeakgames/adarkroom
 [174]: https://github.com/cxong/Beatrix
 [175]: https://github.com/sweetcarolinagames/BitBot
-#[176]: FREE
+
 [177]: https://github.com/Aerolab/blockrain.js
 [178]: https://github.com/cxong/DrunkenViking
-#[179]: FREE
+
 [180]: https://github.com/antila/ludum-dare-28
 [181]: https://github.com/abejfehr/parity
 [182]: https://github.com/Zolmeister/pond
 [183]: https://github.com/dart-lang/sample-pop_pop_win
 [184]: https://github.com/Zolmeister/prism
-#[185]: FREE
+
 [186]: https://github.com/Zolmeister/zop
 [187]: https://github.com/particle-clicker/particle-clicker
 [188]: https://github.com/lpinca/binb
@@ -781,7 +781,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
-#[316]: FREE
+
 [317]: http://playn.io/
 [318]: https://www.libgosu.org/
 [319]: http://getmoai.com/
