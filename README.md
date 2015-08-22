@@ -246,6 +246,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [BrowserQuest] [165] - An MMORPG. [MPLv2] [166] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Clumsy Bird] [149] - A version of Flappy Bird. [Expat] [11] (code and assets).
 * [Drunken Viking] [178] - A top-down puzzle game. [Expat] [11] (code), various CC (no NC or ND) (assets).
+* [Freeciv-web] [167] - A port of Freeciv. [GNU GPLv2] [14] or later and [GNU AGPLv3] [27] or later (code and assets).
 * [ludum-dare-28] [180] - [CC-BY-4.0] [136] (code and assets).
 * [Masonry-JavaScript-Tetris-Clone] [252] - Exactly what it says on the tin. [Expat] [11] (code and assets).
 * [Parity] [181] - [Expat] [11] (code), no significant assets.
@@ -631,7 +632,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [164]: https://github.com/antionio/game-off-2013
 [165]: https://github.com/mozilla/BrowserQuest
 [166]: https://directory.fsf.org/wiki/License:MPLv2.0
-
+[167]: https://github.com/freeciv/freeciv-web
 [168]: https://github.com/morozd/blk-game
 [169]: https://github.com/Nurgak/Cube-engine
 [170]: https://github.com/Q42/0hn0
