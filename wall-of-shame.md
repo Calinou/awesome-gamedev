@@ -9,8 +9,8 @@ This is released under the GNU Free Documentation License - its text is provided
 Pretends to be free, but isn't
 ==============================
 
-* Bridges - only works on a proprietary platform.
 * Bfxr - relies on a proprietary language. Use sfxr/jsfxr instead.
+* Bridges - only works on a proprietary platform.
 * Canabalt - only works on a proprietary platform.
 * Citrus - relies on a proprietary language.
 * Codename Lumberjack - relies on a proprietary language.
@@ -24,11 +24,11 @@ Pretends to be free, but isn't
 * GenesisEngine - relies on a proprietary build system and OS.
 * Grit - depends on libCG.
 * Hotfix - depends on a proprietary engine.
+* MightyEditor - says it's 'open source', uses nonfree license.
 * PuzzleDash - depends on a proprietary compiler.
 * Sandbox Maker - based on free software, says it's 'open source', uses nonfree license.
 * Starling - relies on a proprietary language.
 * TransCube - depends on nonfree libraries.
-* MightyEditor - says it's 'open source', uses nonfree license.
 
 Unclear
 =======
