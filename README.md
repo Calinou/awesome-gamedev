@@ -383,8 +383,6 @@ Beginner
 
 * [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
-<!-- * [Functional Programming in JavaScript][218] (video) - A set of tutorials introducing functional programming concepts using ECMAScript. --> [CC-BY-3.0][5].
-<!-- * [Learn Java For Beginners][146] (video) - A 'no prior knowledge' required tutorial for Java use. [CC-BY-3.0][5]. -->
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
