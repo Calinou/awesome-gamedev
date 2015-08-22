@@ -330,7 +330,7 @@ Graphics Tools
 * [GrafX2][310] - A bitmap paint program specialized for 256-color drawing. [GNU GPLv2][14].
 * [Hme][139] - A program for creating, manipulating and viewing height maps. [GNU GPLv2][14].
 * [Inkscape][24] - A vector image editing program. [GNU GPLv2][14].
-* [Krita][25] - A digital painting and illustration program. [GNU GPLv2][14].
+* [Krita][108] - A digital painting and illustration program. [GNU GPLv2][14].
 * [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27].
 * [MyPaint][81] - A natural materials painting and drawing emulator. [GNU GPLv2][14].
 * [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. [GNU LGPLv3][38].
@@ -573,7 +573,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [105]: http://ngplant.org/
 [106]: http://pygame.org/wiki/about
 [107]: http://www.renpy.org/
-#[108]: FREE
+[108]: https://krita.org/
 [109]: http://www.sfml-dev.org/index.php
 [110]: http://www.sfml-dev.org/download/bindings.php
 [111]: https://schteppe.github.io/p2.js/
