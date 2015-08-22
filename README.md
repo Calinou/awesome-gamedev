@@ -370,8 +370,6 @@ Beginner
 --------
 
 * [Blender 3D: Noob to Pro][286] - A Wikibook for learning how to make 3D graphics with Blender. [CC-BY-SA-3.0][127].
-* [Choose Your Own Pyventure][167] - A Wikibook for learning Python. [CC-BY-SA-3.0][127].
-* [Learning C WIth Game Concepts][146] - A Wikibook that helps explain C with game concepts. [CC-BY-SA-3.0][127].
 
 
 ## Music ##
@@ -613,7 +611,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [143]: https://vimeo.com/indievelopment/videos
 [144]: https://github.com/DrBoolean/mostly-adequate-guide
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
-[146]: https://en.wikibooks.org/wiki/Learning_C_With_Game_Concepts
+
 [147]: https://github.com/dmcinnes/HTML5-Asteroids
 [148]: https://github.com/budnix/ball-and-wall
 [149]: https://github.com/ellisonleao/clumsy-bird
@@ -634,7 +632,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [164]: https://github.com/antionio/game-off-2013
 [165]: https://github.com/mozilla/BrowserQuest
 [166]: https://directory.fsf.org/wiki/License:MPLv2.0
-[167]: https://en.wikibooks.org/wiki/Choose_Your_Own_Pyventure
+
 [168]: https://github.com/morozd/blk-game
 [169]: https://github.com/Nurgak/Cube-engine
 [170]: https://github.com/Q42/0hn0
