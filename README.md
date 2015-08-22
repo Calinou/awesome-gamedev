@@ -16,6 +16,7 @@ Table of Contents
   - [Editors](#editors)
   - [Music](#music)
   - [Sound Effects](#sound-effects)
+- [Communities](#communities)
 - [Engines](#engines)
   - [General](#general)
   - [HTML5](#html5)
@@ -96,6 +97,19 @@ Audio
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
 * [sfxr-sdl] [321] - A tool to generate sounds. [Expat] [11] .
 * [SoundBible's Royalty-free section] [32] - A collection of CC or public-domain-licensed sounds. Various licenses, all CC or public domain.
+
+Communities
+===========
+
+Gamedev can be a lonely job, and it also can have a steep learning curve. These communities are designed to assist you in terms of camaraderie, expert knowledge and resources.
+
+* [/r/freeculture][316] - Part of the Free Culture Reddit Community. A general free-culture-focused community.
+* [/r/FreeGaming][94] - Part of the Free Culture Reddit Community. Designed specifically for discussion of free culture games.
+* [/r/freesoftware][323] - A general free-software-focused community.
+* [/r/godot][185] - A community for discussion and support in development with the Godot game engine. 
+* [FreeGameDev Forums][326] - A forum community for all things free-game-development-related.
+* [FreeGaming][324] - A [freepo.st][325] community dedicated to free gaming.
+* [Libregamewiki][327] - The free gaming encyclopedia.
 
 Engines
 =======
@@ -560,7 +574,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [91]: http://brm.io/matter-js/
 [92]: http://libminx.org/
 [93]: http://melonjs.org/
-
+[94]: https://www.reddit.com/r/FreeGaming
 [95]: http://www.pydark.com/
 [96]: https://libre.fm/
 [97]: https://commons.wikimedia.org/wiki/Main_Page
@@ -651,7 +665,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [182]: https://github.com/Zolmeister/pond
 [183]: https://github.com/dart-lang/sample-pop_pop_win
 [184]: https://github.com/Zolmeister/prism
-
+[185]: https://www.reddit.com/r/godot
 [186]: https://github.com/Zolmeister/zop
 [187]: https://github.com/particle-clicker/particle-clicker
 [188]: https://github.com/lpinca/binb
@@ -782,10 +796,15 @@ This is a catch-all category for things that don't fit anywhere else.
 [313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
-
+[316]: https://www.reddit.com/r/freeculture/
 [317]: http://playn.io/
 [318]: https://www.libgosu.org/
 [319]: http://getmoai.com/
 [320]: http://opensource.org/licenses/CPAL-1.0
 [321]: http://drpetter.se/project_sfxr.html
 [322]: http://slick.ninjacave.com/
+[323]: https://www.reddit.com/r/freesoftware/
+[324]: http://freepo.st/community/FreeGaming
+[325]: http://freepo.st
+[326]: http://forum.freegamedev.net/
+[327]: https://libregamewiki.org/Main_Page
