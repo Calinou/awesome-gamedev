@@ -25,6 +25,7 @@ Pretends to be free, but isn't
 * Grit - depends on libCG.
 * Hotfix - depends on a proprietary engine.
 * MightyEditor - says it's 'open source', uses nonfree license.
+* Monkey - graphics module is nonfree
 * PuzzleDash - depends on a proprietary compiler.
 * Sandbox Maker - based on free software, says it's 'open source', uses nonfree license.
 * Starling - relies on a proprietary language.

@@ -463,7 +463,6 @@ This is a catch-all category for things that don't fit anywhere else.
 * [Gmsh] [138] - A 3D finite-element grid generator with a built-in CAD engine and post-processor. [GNU GPLv2] [14] or later.
 * [libcaca][114] - An ASCII graphics rendering library for terminal-based interfaces. [WTFPLv2][169].
 * [libnoise] [101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2] [102] or later.
-* [Monkey] [94] - A next-generation games programming language. Implemented in C++. [zlib] [45] .
 * [PhysicsFS] [99] - A library to provide abstract access to various archives. [zlib] [45] .
 * [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] or later.
 * [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] or later (or a compatible license).
@@ -561,7 +560,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [91]: http://brm.io/matter-js/
 [92]: http://libminx.org/
 [93]: http://melonjs.org/
-[94]: http://www.monkey-x.com/
+
 [95]: http://www.pydark.com/
 [96]: https://libre.fm/
 [97]: https://commons.wikimedia.org/wiki/Main_Page
