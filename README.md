@@ -201,38 +201,37 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [2048-cli] [216] - A CLI version of 2048. [Expat] [11] (code), no significant assets.
 * [2048-in-terminal] [217] - A CLI version of 2048. [Expat] [11] (code), no significant assets.
 * [Craft] [226] - A 3D voxel world game. [Expat] [11] (code and assets).
-* [Curse of War] [234] - A fast-paced strategy game. [GNU GPLv3] [23] (code and assets).
-* [edgar] [214] - A 2D platform game with a persistent world. [GNU GPLv2] [14] (code), various free culture licenses (assets).
-* [FallingTime] [196] - An arcade game. [GNU GPLv2] [14] (code), various CC (no NC or ND) (assets).
-* [Taisei] [199] - [Expat] [11] (code and assets), [GNU GPLv2] [14] for one font.
-* [Turtle Arena] [204] - Third-person action game. [GNU GPLv3] [23] (code), various free culture licenses (assets).
-* [Wizznic] [219] - A puzzle game. [GNU GPLv3] [23] (code and assets).
+* [Curse of War] [234] - A fast-paced strategy game. [GNU GPLv3] [23] or later (code and assets).
+* [The Legend of Edgar] [214] - A 2D platform game with a persistent world. [GNU GPLv2] [14] or later (code), various free culture licenses (assets).
+* [FallingTime] [196] - An arcade game. [GNU GPLv2] [14] or later (code), various CC (no NC or ND) (assets).
+* [Taisei] [199] - [Expat] [11] (code and assets), [OFL] [302] only for one font.
+* [Turtle Arena] [204] - Third-person action game. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
+* [Wizznic] [219] - A puzzle game. [GNU GPLv3] [23] or later (code and assets).
 
 ## C++ ##
 
-* [Battle for Wesnoth] [244] - A turn-based strategy game. [GNU GPLv2] [14] (code and assets).
-* [Blackvoxel] [225] - A voxel exploration and crafting game. [GNU GPLv3] [23] (code and assets).
-* [Clonepoint] [193] - [GNU GPLv3] [23] (code), various CC (no NC or ND) (assets).
-* [colobot] [233] - A robot-based strategy game. [GNU GPLv3] [23] (code and assets).
-* [Egooboo] [210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3] [23] (code and assets).
-* [endless-sky] [227] - 3D space exploration game. [GNU GPLv3] [23] (code), various CC (no NC or ND) (assets).
-* [Freeminer] [228] - A 3D voxel world game. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Megaglest] [250] - A 3D RTS game. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Minetest] [229] - A 3D voxel world game. [GNU GPLv2] [14] (code), [CC-BY-SA-3.0] [127] (assets).
+* [Battle for Wesnoth] [244] - A turn-based strategy game. [GNU GPLv2] [14] or later (code and assets).
+* [Blackvoxel] [225] - A voxel exploration and crafting game. [GNU GPLv3] [23] or later (code and assets).
+* [Clonepoint] [193] - [GNU GPLv3] [23] or later (code), various CC (no NC or ND) (assets).
+* [colobot] [233] - A robot-based strategy game. [GNU GPLv3] [23] or later (code and assets).
+* [Egooboo] [210] - A 3D dungeon crawler in the spirit of NetHack. [GNU GPLv3] [23] or later(code and assets).
+* [Endless Sky] [227] - 3D space exploration game. [GNU GPLv3] [23] or later (code), various CC (no NC or ND) (assets).
+* [Freeminer] [228] - A 3D voxel world game. [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] (assets).
+* [MegaGlest] [250] - A 3D RTS game. [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] (assets).
+* [Minetest] [229] - A 3D voxel world game. [GNU LGPLv2] [102] or later (code), [CC-BY-SA-3.0] [127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
-* [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] (code), various free culture licenses (assets).
+* [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SavageWheels] [198] - A car game. [Expat] [11] (code and assets).
-* [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] (code and assets).
-* [Stunt Rally] [223] - A 3D racing game. [GNU GPLv3] [23] (code), various free culture licenses (assets).
-* [Supertux] [215] - A platformer. [GNU GPLv3] [23] (code), various free culture licenses (assets).
-* [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] (code), various free licenses (assets).
-* [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23] (code and assets).
-* [Warzone 2100] [248] - An RTS sci-fi game. [GNU GPLv2] [14] (code), various free culture licenses (assets).
+* [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
+* [Stunt Rally] [223] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
+* [SuperTux] [215] - A platformer. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
+* [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free licenses (assets).
+* [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23] or later (code and assets).
+* [Warzone 2100] [248] - An RTS sci-fi game. [GNU GPLv2] [14] or later (code), various free culture licenses (assets).
 
 ## CoffeeScript ##
 
-* [coffee-snake] [176] - A version of Snake. [GNU GPLv3] [23] (code), no significant assets.
 * [Zop] [186] - A 'connect the dots' game. [Expat] [11] (code), no significant assets.
 
 ## Dart ##
@@ -247,8 +246,6 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [BrowserQuest] [165] - An MMORPG. [MPLv2] [166] (code), [CC-BY-SA-3.0] [127] (assets).
 * [Clumsy Bird] [149] - A version of Flappy Bird. [Expat] [11] (code and assets).
 * [Drunken Viking] [178] - A top-down puzzle game. [Expat] [11] (code), various CC (no NC or ND) (assets).
-* [Freeciv-web] [167] - A port of Freeciv. [GNU GPLv3] [23] and [GNU AGPLv3] [27] (code and assets).
-* [Hextris] [179] - A puzzle game inspired by Tetris. [GNU GPLv3] [23] (code), no significant assets.
 * [ludum-dare-28] [180] - [CC-BY-4.0] [136] (code and assets).
 * [Masonry-JavaScript-Tetris-Clone] [252] - Exactly what it says on the tin. [Expat] [11] (code and assets).
 * [Parity] [181] - [Expat] [11] (code), no significant assets.
@@ -259,7 +256,6 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Space Crusade][160] - A space game. [Expat][11] (code), [CC0][49] (assets).
 * [Space Shooter] [158] - Simple space shooting game. [Expat] [11] (code).
 * [Squirts] [191] - [Expat] [11] (code and assets).
-* [TransCube] [185] - A 2D puzzle platformer. [GNU GPLv3] [23] (code), [CC-BY-SA-4.0] [125] (assets).
 
 ## Java ##
 
@@ -271,18 +267,18 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 ## Other/Multiple ##
 
 * [Cataclysm: Dark Days Ahead] [207] - A roguelike set in a post-apocalyptic world. [CC-BY-3.0] [5] (code), [CC-BY-SA-3.0][127] (assets).
-* [DynaDungeons] [194] - A version of Bomberman. Uses Godot engine. [GNU GPLv3] [23] (code), various CC (no NC or ND) (assets).
-* [Flare] [211] - A dark fantasy 2D RPG. Uses Flare engine. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Pioneer] [239] - A space exploration game. Implemented in C++ and Lua. [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Source of Tales] [242] - An MMORPG. Scripted using Lua (implementation language unclear). [GNU GPLv3] [23] (code), [CC-BY-SA-3.0] [127] and [GNU GPLv3] [23] (assets).
+* [DynaDungeons] [194] - A version of Bomberman. Uses Godot engine. [GNU GPLv3] [23] or later (code), various CC (no NC or ND) (assets).
+* [FLARE] [211] - A dark fantasy 2D RPG. Uses FLARE engine. [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] (assets).
+* [Pioneer] [239] - A space exploration game. Implemented in C++ and Lua. [GNU GPLv3] [23] only (code), [CC-BY-SA-3.0] [127] (assets).
+* [Source of Tales] [242] - An MMORPG. Scripted using Lua (implementation language unclear). [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] and [GNU GPLv3] [23] (assets).
 * [Tanks of Freedom][243] - Pixed-based turn-based strategy. Uses Godot engine. [Expat][11] (code and assets).
 * [Teeworlds] [200] - Implemented in C and C++. [3-clause BSD] [29] (code), [CC-BY-SA-3.0] [127] (assets).
-* [Zero-K] [249] - An RTS game. Uses Spring engine. [GNU GPLv2] [14] (code and assets).
+* [Zero-K] [249] - An RTS game. Uses Spring engine. [GNU GPLv2] [14] or later (code and assets).
 
 ## Python ##
 
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
-* [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] (code), [CC-BY-SA-3.0][127] (assets).
+* [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] or later (code), [CC-BY-SA-3.0][127] (assets).
 
 Graphics
 ========
@@ -636,7 +632,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [164]: https://github.com/antionio/game-off-2013
 [165]: https://github.com/mozilla/BrowserQuest
 [166]: https://directory.fsf.org/wiki/License:MPLv2.0
-[167]: https://github.com/freeciv/freeciv-web
+#[167]: FREE
 [168]: https://github.com/morozd/blk-game
 [169]: https://github.com/Nurgak/Cube-engine
 [170]: https://github.com/Q42/0hn0
@@ -645,16 +641,16 @@ This is a catch-all category for things that don't fit anywhere else.
 [173]: https://github.com/doublespeakgames/adarkroom
 [174]: https://github.com/cxong/Beatrix
 [175]: https://github.com/sweetcarolinagames/BitBot
-[176]: https://github.com/dommmel/coffee-snake
+#[176]: FREE
 [177]: https://github.com/Aerolab/blockrain.js
 [178]: https://github.com/cxong/DrunkenViking
-[179]: https://github.com/Hextris/hextris
+#[179]: FREE
 [180]: https://github.com/antila/ludum-dare-28
 [181]: https://github.com/abejfehr/parity
 [182]: https://github.com/Zolmeister/pond
 [183]: https://github.com/dart-lang/sample-pop_pop_win
 [184]: https://github.com/Zolmeister/prism
-[185]: https://github.com/jeroenverfallie/ggo13-transcube
+#[185]: FREE
 [186]: https://github.com/Zolmeister/zop
 [187]: https://github.com/particle-clicker/particle-clicker
 [188]: https://github.com/lpinca/binb

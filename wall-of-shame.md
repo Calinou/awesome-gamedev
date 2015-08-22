@@ -27,12 +27,16 @@ Pretends to be free, but isn't
 * PuzzleDash - depends on a proprietary compiler.
 * Sandbox Maker - based on free software, says it's 'open source', uses nonfree license.
 * Starling - relies on a proprietary language.
+* TransCube - depends on nonfree libraries.
 * MightyEditor - says it's 'open source', uses nonfree license.
 
 Unclear
 =======
 
 * Blend4Web - Doesn't specify GPL version in program.
+* coffee-snake - Doesn't specify GPL version in program.
+* freeciv-web - Doesn't specify AGPL version in program.
+* Hextris - Doesn't specify GPL version in program.
 * JiGS - Doesn't specify GPL version in program, has 'all rights reserved' components.
 * Jitter - claims to be free, no clear licensing terms found, built for .NET (which doesn't hold much hope).
 * Lichess - relies on questionably-free components.
