@@ -140,7 +140,7 @@ These are full-blown game engines.
 * [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14] or later.
 * [gamekit][293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat][11].
 * [GamePlay][266] - Implemented in C++. [Apache2.0][20].
-* [GDevelop][60] - Implemented in C++. Targeted at non-programmers. All components but the IDE are [Expat][11].
+* [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11] (IDE is [GNU GPLv3][23] only.)
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23] or later.
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Gosu][318] - Implemented in C++. has a Ruby interface. [Expat][11].
