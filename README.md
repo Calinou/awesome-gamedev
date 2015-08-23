@@ -135,6 +135,7 @@ These are full-blown game engines.
 * [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23] or later.
 * [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23] or later.
 * [FIFE][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38] or later.
+* [Flambe][329] - Implemented in Haxe. Designed for 2D games. [Expat][11].
 * [FLARE][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23] or later.
 * [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14] or later.
 * [gamekit][293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat][11].
@@ -810,3 +811,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [326]: http://forum.freegamedev.net/
 [327]: https://libregamewiki.org/Main_Page
 [328]: http://www.freemusicarchive.org/
+[329]: https://github.com/aduros/flambe
