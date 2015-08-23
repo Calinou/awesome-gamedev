@@ -84,6 +84,7 @@ Audio
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses, all CC.
 * [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud][98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
+* [Free Music Archive][328] - An archive of free music. Various licenses, all CC.
 * [Incompetech][288] - An artist providing royalty free music of all genres. [CC-BY-3.0][5].
 * [Jamendo][287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
@@ -808,3 +809,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [325]: http://freepo.st
 [326]: http://forum.freegamedev.net/
 [327]: https://libregamewiki.org/Main_Page
+[328]: http://www.freemusicarchive.org/
