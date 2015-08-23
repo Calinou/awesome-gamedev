@@ -9,18 +9,18 @@ This is released under the GNU Free Documentation License - its text is provided
 Pretends to be free, but isn't
 ==============================
 
-* Bfxr - relies on a proprietary language. Use sfxr/jsfxr instead.
+* Bfxr - relies on a proprietary runtime. Use sfxr/jsfxr instead.
 * Bridges - only works on a proprietary platform.
 * Canabalt - only works on a proprietary platform.
-* Citrus - relies on a proprietary language.
-* Codename Lumberjack - relies on a proprietary language.
+* Citrus - relies on a proprietary runtime.
+* Codename Lumberjack - relies on a proprietary runtime.
 * Dash - relies on a proprietary compiler.
 * Ejecta - only works on a proprietary platform.
 * EKG Runner - depends on a nonfree library.
-* Ending - relies on a proprietary language.
+* Ending - relies on a proprietary runtime.
 * Farseer - depends on nonfree build tools.
-* FlashPunk - relies on a proprietary language.
-* Flixel - relies on a proprietary language. Use HaxeFlixel instead.
+* FlashPunk - relies on a proprietary runtime.
+* Flixel - relies on a proprietary runtime. Use HaxeFlixel instead.
 * GenesisEngine - relies on a proprietary build system and OS.
 * Grit - depends on libCG.
 * Hotfix - depends on a proprietary engine.
@@ -28,7 +28,7 @@ Pretends to be free, but isn't
 * Monkey - graphics module is nonfree
 * PuzzleDash - depends on a proprietary compiler.
 * Sandbox Maker - based on free software, says it's 'open source', uses nonfree license.
-* Starling - relies on a proprietary language.
+* Starling - relies on a proprietary runtime.
 * TransCube - depends on nonfree libraries.
 
 Unclear
