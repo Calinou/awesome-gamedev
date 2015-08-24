@@ -317,6 +317,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [Free stuff by 7Soul1][3] - A collection of various game-related assets. Available in PNG. Public domain.
 * [openclipart][6] - A collection of various clip art. Available in PNG. Public domain.
+* [Remastered Tyrian graphics][331] - A collection of pixel spreadsheets for a top-down shooter. [CC0][289].
 * [Vecteezy][12] - A collection of vector art. Various Creative Commons licenses.
 
 ## Icons ##
@@ -396,11 +397,16 @@ Beginner
 
 ## Programming ##
 
+* [Computer Science section on Saylor Academy][330] - A collection of computer science courses. Many of these deal with useful concepts for game programming. [CC-BY-3.0][5].
+
 Beginner
 --------
 
 * [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
+* [C++ Tutorial for Beginners][333] (video) - A collection of basic video tutorials for C++. [CC-BY-3.0][5].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
+* [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5]. 
+* [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5]. 
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
@@ -812,3 +818,8 @@ This is a catch-all category for things that don't fit anywhere else.
 [327]: https://libregamewiki.org/Main_Page
 [328]: http://www.freemusicarchive.org/
 [329]: https://github.com/aduros/flambe
+[330]: https://learn.saylor.org/course/index.php?categoryid=9
+[331]: https://notabug.org/koz.ross/remastered-tyrian-graphics
+[332]: https://notabug.org/koz.ross/java-for-complete-beginners
+[333]: https://notabug.org/koz.ross/cpp-tutorial-for-beginners
+[334]: https://notabug.org/koz.ross/fp-in-js
