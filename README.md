@@ -249,6 +249,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ## CoffeeScript ##
 
+* [coffee-snake] [339] - A version of Snake. [GNU GPLv3] [23] or later (code), no significant assets.
 * [Zop] [186] - A 'connect the dots' game. [Expat] [11] (code), no significant assets.
 
 ## Dart ##
@@ -831,3 +832,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [336]: https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers
 [337]: https://notabug.org/koz.ross/java-collections-framework
 [338]: https://notabug.org/koz.ross/java-multithreading
+[339]: https://github.com/dommmel/coffee-snake

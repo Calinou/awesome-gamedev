@@ -35,7 +35,6 @@ Unclear
 =======
 
 * Blend4Web - Doesn't specify GPL version in program.
-* coffee-snake - Doesn't specify GPL version in program.
 * Hextris - Doesn't specify GPL version in program.
 * JiGS - Doesn't specify GPL version in program, has 'all rights reserved' components.
 * Jitter - claims to be free, no clear licensing terms found, built for .NET (which doesn't hold much hope).
