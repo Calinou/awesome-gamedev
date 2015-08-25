@@ -420,6 +420,7 @@ Intermediate
 * [Haskell][285] - A very thorough Wikibook on programming Haskell. [CC-BY-SA-3.0][127].
 * [Haskell Tutorial for C Programmers][336] - An introduction to Haskell for people coming from C-family languages. [Expat][11].
 * [JavaFX Tutorial][335] (video) - A series of videos about how to use JavaFX to make GUIs. [CC-BY-3.0][5].
+* [Java Multithreading][337] (video) - A series of videos about how to do multithreading work in Java. [CC-BY-3.0][5].
 * [Mostly adequate guide to functional programming (in JavaScript)][144] - A book on the fundamentals of functional programming in ECMAScript. [CC-BY-SA-4.0][145].
 * [Structure and Interpretation of Computer Programs][240] - A classic programming and teaching text. Designed for teaching Scheme, but can be useful to anyone writing in any language. [CC-BY-SA-4.0][125].
 
@@ -829,3 +830,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [335]: https://notabug.org/koz.ross/javafx-tutorial
 [336]: https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers
 [337]: https://notabug.org/koz.ross/java-collections-framework
+[338]: https://notabug.org/koz.ross/java-multithreading
