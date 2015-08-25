@@ -406,6 +406,7 @@ Beginner
 * [C++ Tutorial for Beginners][333] (video) - A collection of basic video tutorials for C++. [CC-BY-3.0][5].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
 * [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5]. 
+* [Java Collections Framework][337] (video) - A set of tutorials for using Java collections properly. [CC-BY-3.0][5].
 * [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5]. 
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
@@ -827,3 +828,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [334]: https://notabug.org/koz.ross/fp-in-js
 [335]: https://notabug.org/koz.ross/javafx-tutorial
 [336]: https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers
+[337]: https://notabug.org/koz.ross/java-collections-framework
