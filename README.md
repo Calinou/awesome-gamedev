@@ -404,6 +404,7 @@ Beginner
 --------
 
 * [An Introduction to Python][282] - Pretty much what it says on the tin. [Python License][283].
+* [Beginner 2d Game Programming Tutorial][340] (video) - A set of tutorials in 2D game programming, illustrated using ECMAScript. [CC-BY-3.0][5].
 * [C++ Tutorial for Beginners][333] (video) - A collection of basic video tutorials for C++. [CC-BY-3.0][5].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
 * [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5]. 
@@ -833,3 +834,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [337]: https://notabug.org/koz.ross/java-collections-framework
 [338]: https://notabug.org/koz.ross/java-multithreading
 [339]: https://github.com/dommmel/coffee-snake
+[340]: https://notabug.org/koz.ross/beginner-2d-game-programming-tutorial-series
