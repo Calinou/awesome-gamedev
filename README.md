@@ -834,4 +834,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [337]: https://notabug.org/koz.ross/java-collections-framework
 [338]: https://notabug.org/koz.ross/java-multithreading
 [339]: https://github.com/dommmel/coffee-snake
-[340]: https://notabug.org/koz.ross/beginner-2d-game-programming-tutorial-series
+[340]: https://notabug.org/koz.ross/beginner-2d-game-programming
