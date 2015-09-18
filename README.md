@@ -93,6 +93,7 @@ Audio
 
 ## Sound Effects ##
 
+* [Audioaugust][341] - A collection of sound effects, originally used for a game. [CC-BY-4.0][136].
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various licenses, all CC.
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
@@ -835,3 +836,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [338]: https://notabug.org/koz.ross/java-multithreading
 [339]: https://github.com/dommmel/coffee-snake
 [340]: https://notabug.org/koz.ross/beginner-2d-game-programming
+[341]: https://github.com/inexor-game/audioaugust
