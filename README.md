@@ -394,6 +394,7 @@ We aim for *complete* and *current* resources here whenever possible.
 ### Programming ###
 
 * [Computer Science section on Saylor Academy][330] - A collection of computer science courses. Many of these deal with useful concepts for game programming. [CC-BY-3.0][5].
+* [Introduction to Mobile Game Development][350] - Class on making simple mobile games with Gideros and Lua. [Expat][11].
 
 #### Beginner ####
 
@@ -448,6 +449,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [enchant.js] [65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat] [11] .
 * [EndGate] [78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat] [11] .
 * [GameJs] [279] - A thin library on top of the Canvas API, including some helpful game development modules. [Expat] [11] .
+* [Gideros][349] - A cross-platform game development framework in Lua. Various licenses, all free.
 * [Gladiator3D] [267] - A raycasting engine. Implemented in ECMAScript. [Expat] [11] .
 * [HaxeFlixel] [79] - A cross-platform development framework, supporting many targets. Implemented in Haxe. [Expat] [11] .
 * [HaxePunk] [179] - A development framework designed to let you build games on any platform. [Expat] [11] .
@@ -833,3 +835,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [346]: http://www.paratype.com/public/
 [347]: http://www.paratype.com/public/pt_openlicense_eng.asp
 [348]: https://github.com/Moosader/Kuko
+[349]: http://giderosmobile.com/
+[350]: https://github.com/Moosader/Intro-to-Mobile-Game-Development-2015

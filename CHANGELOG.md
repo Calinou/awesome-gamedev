@@ -7,6 +7,8 @@
 ### Added ###
 
 * General section (to Music)
+* Gideros (to Programming Frameworks and Libraries)
+* Intro to Mobile Game Development (to Learning Resources - Programming)
 * Kuko (to Programming Frameworks and Libraries)
 * Musical Artifacts (to Music - General)
 * ParaType fonts (to Fonts)
