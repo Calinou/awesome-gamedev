@@ -75,6 +75,10 @@ This contains collections of miscellaneous assets of different kinds.
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 
+### General ###
+
+* [Musical Artifacts][345] - A collection of music-related everything. Various licenses, all CC.
+
 ### Music ###
 
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses, all CC.
@@ -160,6 +164,7 @@ These are full-blown game engines.
 * [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14] or later.
 * [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
 * [SLUDGE][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
+* [Sly][344] - Implemented in Guile. Uses functional reactive programming. [GNU GPLv3][23] or later.
 * [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23] or later.
 * [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14] or later.
 * [Torque2D][63] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
@@ -198,6 +203,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [Google Fonts][232] - A collection of freely-licensed fonts. [OFL][302].
 * [Open Font Library][301] - A collection of freely licensed fonts. [OFL][302].
+* [ParaType Public Fonts for Minority Languages of Russia][346] - Three freely-licensed fonts with support for many character sets. [ParaType Free Font Licensing Agreement][347].
 * [The League of Moveable Type][303] - A collection of fonts with high standards. [OFL][302].
 
 ## Games ##
@@ -430,11 +436,11 @@ These are collections of game development-related talks, podcasts etc. that migh
 
 These are programming libraries or low-level code-based tools which are designed to support game programming, but do not provide as much structure or support as an engine would.
 
-* [ActionKid] [82] - A simple video game framework. Implemented in Haskell. [3-clause BSD] [29] .
-* [Allegro 5] [36] - A cross-platform library for low-level tasks, like creating windows, accepting user input and so forth. Implemented in C and C++. [3-clause BSD] [29] .
-* [Bacon2D] [72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat] [11] .
-* [bgfx] [261] - A 'build-your-own-engine' rendering library. [FreeBSD] [17] .
-* [Chipmunk2D] [74] - A fast and lightweight 2D game physics library. Implemented in C. [Expat] [11] .
+* [ActionKid][82] - A simple video game framework. Implemented in Haskell. [3-clause BSD][29] .
+* [Allegro 5][36] - A cross-platform library for low-level tasks, like creating windows, accepting user input and so forth. Implemented in C and C++. [3-clause BSD][29] .
+* [Bacon2D][72] - A framework to ease 2D game development, providing QML elements representing basic game entities. Implemented in C++. [Expat][11] .
+* [bgfx][261] - A 'build-your-own-engine' rendering library. [FreeBSD][17] .
+* [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented in C. [Expat][11] .
 * [ChipmunkSharp] [73] - Advanced physics engine library based on Chipmunk. Implemented in C#. [Expat] [11] .
 * [Cinder] [113] - A community-developed library for creative coding. Implemented in C++. [FreeBSD] [17] .
 * [ClanLib] [131] - A cross-platform toolkit with a primary focus on game creation. Implemented in C++. [ClanLib license] [132] .
@@ -445,7 +451,8 @@ These are programming libraries or low-level code-based tools which are designed
 * [Gladiator3D] [267] - A raycasting engine. Implemented in ECMAScript. [Expat] [11] .
 * [HaxeFlixel] [79] - A cross-platform development framework, supporting many targets. Implemented in Haxe. [Expat] [11] .
 * [HaxePunk] [179] - A development framework designed to let you build games on any platform. [Expat] [11] .
-* [Kivy] [80] - Rapid-development library for multi-touch and visual apps on many platforms. Implemented in Python. [Expat] [11] .
+* [Kivy][80] - Rapid-development library for multi-touch and visual apps on many platforms. Implemented in Python. [Expat] [11] .
+* [Kuko][348] - A cross-platform development library, designed for mobile devices. Implemented in C++ and Lua. [Expat][11].
 * [libGDX] [86] - Cross-platform game development framework. Implemented in Java. [Apache 2.0] [71] .
 * [libRocket] [270] - An HTML/CSS-based UI library. Implemented in C++. [Expat] [11] .
 * [libSDL2pp] [271] - A set of C++11 bindings for SDL2. Implemented in C++. [3-clause BSD] [29] .
@@ -821,3 +828,8 @@ This is a catch-all category for things that don't fit anywhere else.
 [341]: https://github.com/inexor-game/audioaugust
 [342]: http://art.devsader.com/
 [343]: http://flif.info/
+[344]: http://dthompson.us/pages/software/sly.html
+[345]: https://musical-artifacts.com/artifacts
+[346]: http://www.paratype.com/public/
+[347]: http://www.paratype.com/public/pt_openlicense_eng.asp
+[348]: https://github.com/Moosader/Kuko

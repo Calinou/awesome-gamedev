@@ -1,5 +1,19 @@
 # Changelog #
 
+## 28th November 2015 ##
+
+### General ###
+
+### Added ###
+
+* General section (to Music)
+* Kuko (to Programming Frameworks and Libraries)
+* Musical Artifacts (to Music - General)
+* ParaType fonts (to Fonts)
+* Sly (to Engines - General)
+
+### Removed ###
+
 ## 21st October 2015 ##
 
 ### General ###
