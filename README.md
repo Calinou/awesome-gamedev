@@ -128,7 +128,7 @@ These are full-blown game engines.
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
-* [Darkplaces][314] - Implemented in C. [GNU GPLv2][14] or later.
+* [DarkPlaces][314] - Implemented in C. [GNU GPLv2][14] or later.
 * [Doomsday][134] - Implemented in C++. [GNU GPLv2][14] or later.
 * [Duality][77] - Implemented in C#. [Expat] [11] .
 * [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23] or later.
@@ -240,7 +240,6 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SavageWheels] [198] - A car game. [Expat] [11] (code and assets).
 * [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
-* [Stunt Rally] [223] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SuperTux] [215] - A platformer. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free licenses (assets).
 * [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23] or later (code and assets).

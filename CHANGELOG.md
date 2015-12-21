@@ -4,12 +4,16 @@
 
 ### General ###
 
+* Fixed spelling of DarkPlaces.
+
 ### Added ###
 
 * Advanced C++ videos.
 * School of Game Design.
 
 ### Removed ###
+
+* StuntRally.
 
 ## 28th November 2015 ##
 
