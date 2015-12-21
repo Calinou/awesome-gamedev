@@ -1,5 +1,16 @@
 # Changelog #
 
+## 22nd December 2015 ##
+
+### General ###
+
+### Added ###
+
+* 2048 game.
+* Epic Inventor game.
+
+### Removed ###
+
 ## 21st December 2015 ##
 
 ### General ###

@@ -257,6 +257,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ### ECMAScript ###
 
+* [2048][] - The original, classic casual game. [Expat][11] (code and assets).
 * [A Dark Room] [173] - A text adventure game. [MPLv2] [166] (code), no significant assets.
 * [Blockrain.js] [177] - A version of Tetris. [Expat] [11] (code and assets).
 * [BrowserQuest] [165] - An MMORPG. [MPLv2] [166] (code), [CC-BY-SA-3.0] [127] (assets).
@@ -276,6 +277,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ### Java ###
 
+* [epic-inventor][354] - An indie, side-scrolling RPG. [GNU GPLv2][14] only (code and assets).
 * [Ned et les maki] [221] - A 3D puzzle game. [Expat] [11] (code), [FALv1.3] [222] (assets).
 * [Newton Adventure] [220] - A puzzle game. [3-clause BSD] [29] (code), various CC (no NC or ND) (assets).
 * [PuzzleGame] [257] - A slider puzzle game. Uses Android port of Cocos2D engine. [Expat] [11] (code and assets).
@@ -843,3 +845,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [350]: https://github.com/Moosader/Intro-to-Mobile-Game-Development-2015
 [351]: https://notabug.org/koz.ross/advanced-cpp
 [352]: https://en.wikiversity.org/wiki/School:Game_design
+[353]: https://github.com/gabrielecirulli/2048
+[354]: https://github.com/BlkStormy/epic-inventor
