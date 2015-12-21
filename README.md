@@ -381,6 +381,10 @@ These are all collections of information to help you learn about things that mig
 
 We aim for *complete* and *current* resources here whenever possible.
 
+### Game Design ###
+
+* [School of Game Design, Wikiversity][352] - A collection of learning resources for would-be game designers. [CC-BY-SA-3.0][127].
+
 ### Graphics ###
 
 #### Beginner ####
@@ -412,6 +416,7 @@ We aim for *complete* and *current* resources here whenever possible.
 
 #### Intermediate ####
 
+* [Advanced C++][] (video) - A tutorial on advanced aspects of C++. [CC-BY-3.0][5].
 * [Dive Into Python][284] - A Python book for experienced programmers. [GNU FDL][281].
 * [Haskell][285] - A very thorough Wikibook on programming Haskell. [CC-BY-SA-3.0][127].
 * [Haskell Tutorial for C Programmers][336] - An introduction to Haskell for people coming from C-family languages. [Expat][11].
@@ -837,3 +842,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [348]: https://github.com/Moosader/Kuko
 [349]: http://giderosmobile.com/
 [350]: https://github.com/Moosader/Intro-to-Mobile-Game-Development-2015
+[351]: https://notabug.org/koz.ross/advanced-cpp
+[352]: https://en.wikiversity.org/wiki/School:Game_design

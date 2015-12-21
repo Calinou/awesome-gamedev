@@ -1,5 +1,16 @@
 # Changelog #
 
+## 21st December 2015 ##
+
+### General ###
+
+### Added ###
+
+* Advanced C++ videos.
+* School of Game Design.
+
+### Removed ###
+
 ## 28th November 2015 ##
 
 ### General ###
