@@ -4,6 +4,8 @@
 
 ### General ###
 
+* Begun separation of programming from remainder
+
 ### Added ###
 
 * Blend Swap

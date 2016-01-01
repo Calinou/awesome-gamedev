@@ -418,7 +418,7 @@ We aim for *complete* and *current* resources here whenever possible.
 
 #### Intermediate ####
 
-* [Advanced C++][] (video) - A tutorial on advanced aspects of C++. [CC-BY-3.0][5].
+* [Advanced C++][351] (video) - A tutorial on advanced aspects of C++. [CC-BY-3.0][5].
 * [Dive Into Python][284] - A Python book for experienced programmers. [GNU FDL][281].
 * [Haskell][285] - A very thorough Wikibook on programming Haskell. [CC-BY-SA-3.0][127].
 * [Haskell Tutorial for C Programmers][336] - An introduction to Haskell for people coming from C-family languages. [Expat][11].
