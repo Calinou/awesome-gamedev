@@ -1,5 +1,15 @@
 # Changelog #
 
+## 2nd January 2016 ##
+
+### General ###
+
+### Added ###
+
+* Blend Swap
+
+### Removed ###
+
 ## 22nd December 2015 ##
 
 ### General ###

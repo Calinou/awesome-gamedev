@@ -306,6 +306,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 This is a section for everything else that doesn't fit in some other graphics category.
 
 * [Blender 3D Model Repository][296] - User-submitted 3D models made with Blender. Various licenses, including free ones.
+* [Blend Swap][355] - A community of Blender artists and their work. Various licenses, all CC.
 * [CanTree][10] - Free online tree generator. Generates PNG files. [Expat] [11] .
 * [Kator Legaz 3D Models][297] - 3D Models by of various subjects. [CC-BY-3.0] [5] .
 * [mocapdata.com][298] - A library of motion capture data. Various licenses, including free ones.
@@ -847,3 +848,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [352]: https://en.wikiversity.org/wiki/School:Game_design
 [353]: https://github.com/gabrielecirulli/2048
 [354]: https://github.com/BlkStormy/epic-inventor
+[355]: http://www.blendswap.com/
