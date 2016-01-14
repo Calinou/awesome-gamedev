@@ -188,6 +188,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [panda.js][273] - [Expat][11].
 * [Phaser][64] - [Expat][11].
 * [PlayCanvas][65] - [Expat][11].
+* [Superpowers][357] - [ISC][].
 
 ### Physics ###
 
@@ -243,6 +244,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [SuperTux] [215] - A platformer. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free licenses (assets).
 * [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23] or later (code and assets).
+* [Übergame][356] - A multiplayer, casual FPS game. [Expat][11] (code), [CC0][49] (assets).
 * [Warzone 2100] [248] - An RTS sci-fi game. [GNU GPLv2] [14] or later (code), various free culture licenses (assets).
 
 ### CoffeeScript ###
@@ -257,7 +259,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ### ECMAScript ###
 
-* [2048][] - The original, classic casual game. [Expat][11] (code and assets).
+* [2048][172] - The original, classic casual game. [Expat][11] (code and assets).
 * [A Dark Room] [173] - A text adventure game. [MPLv2] [166] (code), no significant assets.
 * [Blockrain.js] [177] - A version of Tetris. [Expat] [11] (code and assets).
 * [BrowserQuest] [165] - An MMORPG. [MPLv2] [166] (code), [CC-BY-SA-3.0] [127] (assets).
@@ -267,6 +269,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [ludum-dare-28] [180] - [CC-BY-4.0] [136] (code and assets).
 * [Masonry-JavaScript-Tetris-Clone] [252] - Exactly what it says on the tin. [Expat] [11] (code and assets).
 * [Parity] [181] - [Expat] [11] (code), no significant assets.
+* [Particle Clicker][359] - An incremental game that teaches the history of high-energy particle physics. [Expat][11] (code and assets).
 * [Prism] [184] - A colour-matching game. [Expat] [11] (code), no significant assets.
 * [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code and assets).
 * [Snake] [157] - A version of Snake. [Expat] [11] (code), no significant assets.
@@ -849,3 +852,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [353]: https://github.com/gabrielecirulli/2048
 [354]: https://github.com/BlkStormy/epic-inventor
 [355]: http://www.blendswap.com/
+[356]: http://www.duion.com/games/uebergame/main
+[357]: http://superpowers-html5.com/index.en.html
+[358]: http://directory.fsf.org/wiki/License:ISC
+[359]: https://github.com/particle-clicker/particle-clicker

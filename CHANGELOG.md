@@ -1,5 +1,29 @@
 # Changelog #
 
+## 14th January 2016 ##
+
+### General ###
+
+* Fixed broken link on 2048.
+
+### Added ###
+
+* Superpowers
+* Particle Clicker
+
+### Removed ###
+
+
+## 5th January 2016 ##
+
+### General ###
+
+### Added ###
+
+* Uebergame
+
+### Removed ###
+
 ## 2nd January 2016 ##
 
 ### General ###
