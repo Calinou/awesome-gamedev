@@ -118,7 +118,7 @@ These are full-blown game engines.
 
 ### General ###
 
-* [AGS][57] - Implemented in C++. Designed for adventure games. [Artistic License 2.0][58].
+* [AGS][57] - Implemented in C++. Scripted using its own scripting language. Designed for adventure games. [Artistic License 2.0][58].
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].

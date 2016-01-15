@@ -40,6 +40,10 @@ This document is released under the GNU Free Documentation License, version 1.3,
 * [libao][26] - A cross-platform audio output library. [GNU GPLv2][3] or later.
 * [SDL][21] - A cross-platform library for low-level tasks, like creating windows, accepting user input, and so on. [Zlib License][6].
 
+## C++ ##
+
+* [AGS][27] - An adventure game engine. [Artistic License 2.0][28].
+
 [1]: https://www.fsf.org/about/what-is-free-software
 [2]: https://icculus.org/twilight/darkplaces/
 [3]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -66,3 +70,5 @@ This document is released under the GNU Free Documentation License, version 1.3,
 [24]: http://directory.fsf.org/wiki/License:X11
 [25]: http://www.glfw.org/
 [26]: https://www.xiph.org/ao/
+[27]: https://github.com/adventuregamestudio/ags
+[28]: https://directory.fsf.org/wiki/License:ArtisticLicense2.0
