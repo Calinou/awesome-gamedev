@@ -188,7 +188,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [panda.js][273] - [Expat][11].
 * [Phaser][64] - [Expat][11].
 * [PlayCanvas][65] - [Expat][11].
-* [Superpowers][357] - [ISC][].
+* [Superpowers][357] - [ISC][358].
 
 ### Physics ###
 
