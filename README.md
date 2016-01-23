@@ -6,6 +6,8 @@ I have also provided a list of resources which are *not* free, and the reasons w
 
 This is released under the GNU Free Documentation License, without invariants or a cover - its text is provided in the LICENSE file.
 
+This project is part of [Peers][361] - a community for growing freedom. Support us today!
+
 ## Table of Contents ##
 
 - [Assorted Assets](#assorted-assets)
@@ -858,3 +860,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [358]: http://directory.fsf.org/wiki/License:ISC
 [359]: https://github.com/particle-clicker/particle-clicker
 [360]: https://github.com/KOBUGE-Games/minilens
+[361]: http://peers.community/
