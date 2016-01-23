@@ -236,6 +236,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Freeminer] [228] - A 3D voxel world game. [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] (assets).
 * [MegaGlest] [250] - A 3D RTS game. [GNU GPLv3] [23] or later (code), [CC-BY-SA-3.0] [127] (assets).
 * [Minetest] [229] - A 3D voxel world game. [GNU LGPLv2] [102] or later (code), [CC-BY-SA-3.0] [127] (assets).
+* [Minilens][360] - A cute puzzle platformer starring a cleaning robot on post-Apocalyptic Earth. Made with the Godot engine. [GNU GPLv3][23] or later (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
@@ -856,3 +857,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [357]: http://superpowers-html5.com/index.en.html
 [358]: http://directory.fsf.org/wiki/License:ISC
 [359]: https://github.com/particle-clicker/particle-clicker
+[360]: https://github.com/KOBUGE-Games/minilens

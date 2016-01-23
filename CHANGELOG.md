@@ -1,5 +1,16 @@
 # Changelog #
 
+## 24th January 2016 ##
+
+### General ###
+
+
+### Added ###
+
+* Minilens
+
+### Removed ###
+
 ## 14th January 2016 ##
 
 ### General ###
