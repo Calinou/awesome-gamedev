@@ -190,6 +190,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [panda.js][273] - [Expat][11].
 * [Phaser][64] - [Expat][11].
 * [PlayCanvas][65] - [Expat][11].
+* [PuzzleScript][362] - [Expat][11].
 * [Superpowers][357] - [ISC][358].
 
 ### Physics ###
@@ -861,3 +862,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [359]: https://github.com/particle-clicker/particle-clicker
 [360]: https://github.com/KOBUGE-Games/minilens
 [361]: http://peers.community/
+[362]: http://www.puzzlescript.net/

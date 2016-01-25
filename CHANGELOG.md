@@ -1,5 +1,15 @@
 # Changelog #
 
+## 25th January 2016 ##
+
+### General ###
+
+### Added ###
+
+* PuzzleScript
+
+### Removed ###
+
 ## 24th January 2016 ##
 
 ### General ###
