@@ -327,6 +327,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [openclipart][6] - A collection of various clip art. Available in PNG. Public domain.
 * [Remastered Tyrian graphics][331] - A collection of pixel spreadsheets for a top-down shooter. [CC0][289].
 * [Vecteezy][12] - A collection of vector art. Various Creative Commons licenses.
+* [ZipUp Free Game Elements][363] - A collection of various graphical elements. Custom attribution license, free.
 
 ### Icons ###
 
@@ -863,3 +864,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [360]: https://github.com/KOBUGE-Games/minilens
 [361]: http://peers.community/
 [362]: http://www.puzzlescript.net/
+[363]: http://www.zipup.me/category/free-game-elements/

@@ -1,5 +1,15 @@
 # Changelog #
 
+## 30th January 2016 ##
+
+### General ###
+
+### Added ###
+
+* ZipUp Free Game Elements
+
+### Removed ###
+
 ## 25th January 2016 ##
 
 ### General ###
