@@ -73,6 +73,7 @@ This contains collections of miscellaneous assets of different kinds.
 * [Ardour][130] - The digital audio workstation. [GNU GPLv2][14] or later.
 * [Audacity][33] - Software for recording and editing sounds. [GNU GPLv2][14] or later.
 * [Beast][133] - Music composition and modular synthesis software. [GNU LGPLv3][38] or later.
+* [Hydrogen][366] - An advanced drum machine, with a free drum kit included. [GNU GPLv2][14] or later.
 * [LMMS][142] - A digital audio workstation. [GNU GPLv2][14] or later.
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
@@ -371,6 +372,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 ### Mesh Tools ###
 
 * [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
+* [Dilay][364] - A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools. [GNU GPLv3][23] or later.
 
 ### Spritesheet Tools ###
 
@@ -500,6 +502,7 @@ This is a catch-all category for things that don't fit anywhere else.
 * [libnoise] [101] - A portable coherent noise-generation library. Implemented in C++. [GNU LGPLv2] [102] or later.
 * [PhysicsFS] [99] - A library to provide abstract access to various archives. [zlib] [45] .
 * [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] or later.
+* [Torsion][365] - A TorqueScript IDE. [Expat][11].
 * [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] or later (or a compatible license).
 
 [1]: https://www.fsf.org/about/what-is-free-software
@@ -865,3 +868,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [361]: http://peers.community/
 [362]: http://www.puzzlescript.net/
 [363]: http://www.zipup.me/category/free-game-elements/
+[364]: http://abau.org/dilay/
+[365]: https://github.com/SickheadGames/Torsion
+[366]: http://www.hydrogen-music.org/hcms/
