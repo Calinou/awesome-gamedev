@@ -248,6 +248,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
 * [SuperTux] [215] - A platformer. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] or later (code), various free licenses (assets).
+* [TicTacToe][367] - A simple tic-tac-toe game. [Expat][11] (code), [CC-BY-SA-4.0][125] (assets).
 * [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23] or later (code and assets).
 * [Übergame][356] - A multiplayer, casual FPS game. [Expat][11] (code), [CC0][49] (assets).
 * [Warzone 2100] [248] - An RTS sci-fi game. [GNU GPLv2] [14] or later (code), various free culture licenses (assets).
@@ -871,3 +872,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [364]: http://abau.org/dilay/
 [365]: https://github.com/SickheadGames/Torsion
 [366]: http://www.hydrogen-music.org/hcms/
+[367]: https://github.com/LelixSuper/TicTacToe
