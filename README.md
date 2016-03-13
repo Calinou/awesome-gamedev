@@ -93,6 +93,7 @@ This contains collections of miscellaneous assets of different kinds.
 * [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen][31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
 * [Open Music Archive][295] - Digitized out-of-copyright sound recordings. Public domain in the UK.
+* [Silverman Sound Studios' Free Creative Commons Production Music Tracks][368] - A bunch of musical tracks. [CC-BY-4.0][136].
 
 ### Sound Effects ###
 
@@ -873,3 +874,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [365]: https://github.com/SickheadGames/Torsion
 [366]: http://www.hydrogen-music.org/hcms/
 [367]: https://github.com/LelixSuper/TicTacToe
+[368]: https://www.silvermansound.com/free-music

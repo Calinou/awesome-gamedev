@@ -1,5 +1,15 @@
 # Changelog #
 
+## 14th March 2016 ##
+
+### General ###
+
+### Added ###
+
+* Silverman Sound Studios' Free Creative Commons Music Tracks
+
+### Removed ###
+
 ## 3rd March 2016 ##
 
 ### General ###
