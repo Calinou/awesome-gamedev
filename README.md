@@ -88,7 +88,7 @@ This contains collections of miscellaneous assets of different kinds.
 * [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a CC-license. Various licenses, all CC.
 * [Creative Commons on SoundCloud][98] - A Creative Commons collection on SoundCloud. Various licenses, all CC.
 * [Free Music Archive][328] - An archive of free music. Various licenses, all CC.
-* [Incompetech][288] - An artist providing royalty free music of all genres. [CC-BY-3.0][5].
+* [Incompetech][294] - An artist providing royalty free music of all genres. [CC-BY-3.0][5].
 * [Jamendo][287] - A site providing music licensed under the Creatives Commons. Various licenses, all CC.
 * [LibreFM][96] - A big collection of stations, with fully-free music. Licenses allow downloads and reuse.
 * [Musopen][31] - A site dedicated to copyright-free (and culturally free) music. Various licenses, all copyright-free (varies by piece).
@@ -123,6 +123,9 @@ These are full-blown game engines.
 ### General ###
 
 * [AGS][57] - Implemented in C++. Scripted using its own scripting language. Designed for adventure games. [Artistic License 2.0][58].
+* [AlephOne][371] - Implemented in C++. Designed for FPS games. [GNU GPLv3][23] or later.
+* [AndEngine][369] - Implemented in Java (with parts in C++ and C). A 2D engine for Android using OpenGL ES. [Apache2.0][20].
+* [Arianne][372] - Implemented in Java. Includes a multiplayer game framework. [GNU GPLv2][14] only.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
@@ -505,6 +508,7 @@ This is a catch-all category for things that don't fit anywhere else.
 * [PhysicsFS] [99] - A library to provide abstract access to various archives. [zlib] [45] .
 * [ScummVM] [53] - A program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. [GNU GPLv2] [14] or later.
 * [Torsion][365] - A TorqueScript IDE. [Expat][11].
+* [TrenchBroom][370] - A cross-platform level editor for Quake-engine-based games. Currently supports Quake, Quake 2 and Hexen 2 engine-based games. [GNU GPLv3][23] or later.
 * [WorldForge] [135] - Provides everything needed to create your own free software MMORPG. [GNU GPLv3] [23] or later (or a compatible license).
 
 [1]: https://www.fsf.org/about/what-is-free-software
@@ -875,3 +879,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [366]: http://www.hydrogen-music.org/hcms/
 [367]: https://github.com/LelixSuper/TicTacToe
 [368]: https://www.silvermansound.com/free-music
+[369]: http://www.andengine.org/
+[370]: http://kristianduske.com/trenchbroom/
+[371]: https://alephone.lhowon.org/
+[372]: https://arianne-project.org/
