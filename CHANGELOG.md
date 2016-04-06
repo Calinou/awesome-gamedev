@@ -1,5 +1,15 @@
 # Changelog #
 
+## 7th April 2016 ##
+
+### General ###
+
+### Added ###
+
+### Removed ###
+
+* AndEngine ([see here][1])
+
 ## 21st March 2016 ##
 
 ### General ###
@@ -171,3 +181,5 @@
 * FLIF in Graphics Tools - Bitmap Compression.
 
 ### Removed ###
+
+[1]: https://github.com/nicolasgramlich/AndEngine/issues/279#issuecomment-205847940

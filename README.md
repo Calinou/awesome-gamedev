@@ -124,7 +124,6 @@ These are full-blown game engines.
 
 * [AGS][57] - Implemented in C++. Scripted using its own scripting language. Designed for adventure games. [Artistic License 2.0][58].
 * [AlephOne][371] - Implemented in C++. Designed for FPS games. [GNU GPLv3][23] or later.
-* [AndEngine][369] - Implemented in Java (with parts in C++ and C). A 2D engine for Android using OpenGL ES. [Apache2.0][20].
 * [Arianne][372] - Implemented in Java. Includes a multiplayer game framework. [GNU GPLv2][14] only.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
@@ -879,7 +878,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [366]: http://www.hydrogen-music.org/hcms/
 [367]: https://github.com/LelixSuper/TicTacToe
 [368]: https://www.silvermansound.com/free-music
-[369]: http://www.andengine.org/
+
 [370]: http://kristianduske.com/trenchbroom/
 [371]: https://alephone.lhowon.org/
 [372]: https://arianne-project.org/
