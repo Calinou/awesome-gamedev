@@ -244,7 +244,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Minilens][360] - A cute puzzle platformer starring a cleaning robot on post-Apocalyptic Earth. Made with the Godot engine. [GNU GPLv3][23] or later (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
-* [OpenClonk] [369] - A jump'n'run/settlement/combat game. [ISC] (code), [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets). Some trademark restrictions on the name "Clonk".
+* [OpenClonk] [369] - A jump'n'run/settlement/combat game. [ISC] [358] (code), [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets). Some trademark restrictions on the name "Clonk".
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SavageWheels] [198] - A car game. [Expat] [11] (code and assets).
 * [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
