@@ -111,7 +111,7 @@ Gamedev can be a lonely job, and it also can have a steep learning curve. These 
 * [/r/freeculture][316] - Part of the Free Culture Reddit Community. A general free-culture-focused community.
 * [/r/FreeGaming][94] - Part of the Free Culture Reddit Community. Designed specifically for discussion of free culture games.
 * [/r/freesoftware][323] - A general free-software-focused community.
-* [/r/godot][185] - A community for discussion and support in development with the Godot game engine. 
+* [/r/godot][185] - A community for discussion and support in development with the Godot game engine.
 * [FreeGameDev Forums][326] - A forum community for all things free-game-development-related.
 * [FreeGaming][324] - A [freepo.st][325] community dedicated to free gaming.
 * [Libregamewiki][327] - The free gaming encyclopedia.
@@ -244,6 +244,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Minilens][360] - A cute puzzle platformer starring a cleaning robot on post-Apocalyptic Earth. Made with the Godot engine. [GNU GPLv3][23] or later (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
+* [OpenClonk] [369] - A jump'n'run/settlement/combat game. [ISC] [358] (code), [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets). Some trademark restrictions on the name "Clonk".
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
 * [SavageWheels] [198] - A car game. [Expat] [11] (code and assets).
 * [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
@@ -420,9 +421,9 @@ We aim for *complete* and *current* resources here whenever possible.
 * [Beginner 2d Game Programming Tutorial][340] (video) - A set of tutorials in 2D game programming, illustrated using ECMAScript. [CC-BY-3.0][5].
 * [C++ Tutorial for Beginners][333] (video) - A collection of basic video tutorials for C++. [CC-BY-3.0][5].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
-* [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5]. 
+* [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5].
 * [Java Collections Framework][337] (video) - A set of tutorials for using Java collections properly. [CC-BY-3.0][5].
-* [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5]. 
+* [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5].
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
@@ -443,7 +444,7 @@ We aim for *complete* and *current* resources here whenever possible.
 
 * [breakouts] [278] - A collection of ECMAScript implementations of Breakout. [Expat][11] .
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11] .
-* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136]
 
 ### Talks ###
 
@@ -875,3 +876,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [366]: http://www.hydrogen-music.org/hcms/
 [367]: https://github.com/LelixSuper/TicTacToe
 [368]: https://www.silvermansound.com/free-music
+[369]: http://openclonk.org/
