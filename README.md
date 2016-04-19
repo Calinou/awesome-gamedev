@@ -124,6 +124,7 @@ These are full-blown game engines.
 
 * [AGS][57] - Implemented in C++. Scripted using its own scripting language. Designed for adventure games. [Artistic License 2.0][58].
 * [AlephOne][371] - Implemented in C++. Designed for FPS games. [GNU GPLv3][23] or later.
+* [AnKi 3D][369] - Implemented in C++. [3-clause BSD][29].
 * [Arianne][372] - Implemented in Java. Includes a multiplayer game framework. [GNU GPLv2][14] only.
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
@@ -135,11 +136,13 @@ These are full-blown game engines.
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
 * [DarkPlaces][314] - Implemented in C. [GNU GPLv2][14] or later.
+* [delta3d][373] - Implemented in C++. Also useful for simulations. [GNU LGPLv2][102] or later.
 * [Doomsday][134] - Implemented in C++. [GNU GPLv2][14] or later.
 * [Duality][77] - Implemented in C#. [Expat] [11] .
 * [EasyRPG][208] - Implemented in C++. Designed for JRPG-style games. [GNU GPLv3][23] or later.
 * [ENIGMA][308] - Implemented in C++. Has its own scripting language and [GUI editor][309]. [GNU GPLv3][23] or later.
 * [FIFE][55] - Implemented in C++. Has Python scripting. Designed for isometric games. [GNU LGPLv3][38] or later.
+* [Fillwave][374] - Implemented in C++. Has an easy graphics API. [FreeBSD][17].
 * [Flambe][329] - Implemented in Haxe. Designed for 2D games. [Expat][11].
 * [FLARE][54] - Implemented in C++. Designed for action RPGs. [GNU GPLv3][23] or later.
 * [Fluxus][137] - Implemented in C++. Designed for livecoding worlds. [GNU GPLv2][14] or later.
@@ -878,7 +881,9 @@ This is a catch-all category for things that don't fit anywhere else.
 [366]: http://www.hydrogen-music.org/hcms/
 [367]: https://github.com/LelixSuper/TicTacToe
 [368]: https://www.silvermansound.com/free-music
-
+[369]: http://anki3d.org/
 [370]: http://kristianduske.com/trenchbroom/
 [371]: https://alephone.lhowon.org/
 [372]: https://arianne-project.org/
+[373]: http://delta3d.org/
+[374]: http://filipwasil.bitbucket.org/fillwave/
