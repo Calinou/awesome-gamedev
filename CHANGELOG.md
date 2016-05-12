@@ -1,5 +1,16 @@
 # Changelog #
 
+## 13th May 2016 ##
+
+### General ###
+
+### Added ###
+
+* Solarus
+
+### Removed ###
+
+
 ## 20th April 2016 ##
 
 ### General ###

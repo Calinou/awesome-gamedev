@@ -174,6 +174,8 @@ These are full-blown game engines.
 * [Ren'Py][107] - Implemented in Python. Designed for visual novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
 * [SLUDGE][56] - Implemented in C++. Has its own scripting language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
 * [Sly][344] - Implemented in Guile. Uses functional reactive programming. [GNU GPLv3][23] or later.
+* [Solarus][375] - Implemented in C++. Comes with its own editor. Designed for
+  RPGs. [GNU GPLv3][23] or later.
 * [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23] or later.
 * [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14] or later.
 * [Torque2D][63] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
@@ -887,3 +889,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [372]: https://arianne-project.org/
 [373]: http://delta3d.org/
 [374]: http://filipwasil.bitbucket.org/fillwave/
+[375]: http://www.solarus-games.org/
