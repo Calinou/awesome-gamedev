@@ -1,5 +1,17 @@
 # Changelog #
 
+## 19th June 2016 ##
+
+### General ###
+
+### Added ###
+
+* SpaceshipGenerator
+
+### Removed ###
+
+
+
 ## 13th May 2016 ##
 
 ### General ###

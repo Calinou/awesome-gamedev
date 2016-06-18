@@ -383,6 +383,11 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [MeshLabs][103] - A portable system for the processing and editing of unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
 * [Dilay][364] - A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools. [GNU GPLv3][23] or later.
 
+### Procedural Generators ###
+
+* [SpaceshipGenerator][376] - A Blender script allowing generation of spaceships
+  from a random seed and some parameters. [Expat][11].
+
 ### Spritesheet Tools ###
 
 * [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14] only.
@@ -890,3 +895,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [373]: http://delta3d.org/
 [374]: http://filipwasil.bitbucket.org/fillwave/
 [375]: http://www.solarus-games.org/
+[376]: https://github.com/a1studmuffin/SpaceshipGenerator
