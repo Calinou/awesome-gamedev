@@ -1,8 +1,21 @@
 # Changelog #
 
+## 23rd June 2016 ##
+
+### General ###
+
+### Added ###
+
+* Return of Dr. Destructo
+
+### Removed ###
+
+
 ## 19th June 2016 ##
 
 ### General ###
+
+* Introduced a new 'Procedural Generation' section
 
 ### Added ###
 

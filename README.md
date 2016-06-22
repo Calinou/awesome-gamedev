@@ -251,7 +251,10 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 * [Minilens][360] - A cute puzzle platformer starring a cleaning robot on post-Apocalyptic Earth. Made with the Godot engine. [GNU GPLv3][23] or later (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
-* [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
+* [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later
+  (code), various free culture licenses (assets).
+* [Return of Dr. Destructo][377] - An adventure game. [Expat][11] (code),
+  [CC-BY-SA-4.0][125] (assets).
 * [SavageWheels] [198] - A car game. [Expat] [11] (code and assets).
 * [Seven Kingdoms: Ancient Adversaries] [241] - A strategy game. [GNU GPLv2] [14] or later (code and assets).
 * [SuperTux] [215] - A platformer. [GNU GPLv3] [23] or later (code), various free culture licenses (assets).
@@ -896,3 +899,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [374]: http://filipwasil.bitbucket.org/fillwave/
 [375]: http://www.solarus-games.org/
 [376]: https://github.com/a1studmuffin/SpaceshipGenerator
+[377]: https://github.com/MaxSavenkov/drdestructo2
