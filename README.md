@@ -496,7 +496,7 @@ These are programming libraries or low-level code-based tools which are designed
 * [Kuko][348] - A cross-platform development library, designed for mobile devices. Implemented in C++ and Lua. [Expat][11].
 * [libGDX] [86] - Cross-platform game development framework. Implemented in Java. [Apache 2.0] [71] .
 * [libRocket] [270] - An HTML/CSS-based UI library. Implemented in C++. [Expat] [11] .
-* [libSDL2pp] [271] - A set of C++11 bindings for SDL2. Implemented in C++. [3-clause BSD] [29] .
+* [libSDL2pp] [271] - A set of C++11 bindings for SDL2. Implemented in C++. [zlib] [45] .
 * [LimeJS] [87] - A framework for building fast HTML5 games. Implemented in ECMAScript. [Apache 2.0] [71] .
 * [LoomSDK] [88] - A very large and powerful framework for cross-platform 2D game development. Implemented in C++. [Apache 2.0] [71] .
 * [LÖVE] [90] - A framework for making 2D games. Implemented in Lua. [zlib] [45] .
