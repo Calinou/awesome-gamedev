@@ -1,5 +1,16 @@
 # Changelog #
 
+## 24th June 2016 ##
+
+### General ###
+
+* Corrected license of libSDLpp to zlib
+
+### Added ###
+
+### Removed ###
+
+
 ## 23rd June 2016 ##
 
 ### General ###
