@@ -420,6 +420,11 @@ We aim for *complete* and *current* resources here whenever possible.
 
 * [Blender 3D: Noob to Pro][286] - A Wikibook for learning how to make 3D graphics with Blender. [CC-BY-SA-3.0][127].
 
+#### Reference ####
+
+* [Procedural Content Generation Wiki][378] - A collection of articles about the
+  use of procedural generation to make stuff in games. [CC-BY-SA-3.0][127].
+
 ### Music ###
 
 * [LibreMusicProduction] [124] - A community-driven online resource for promoting musical creation and composition using free tools. [CC-BY-SA-4.0] [125] .
@@ -900,3 +905,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [375]: http://www.solarus-games.org/
 [376]: https://github.com/a1studmuffin/SpaceshipGenerator
 [377]: https://github.com/MaxSavenkov/drdestructo2
+[378]: http://pcg.wikidot.com/

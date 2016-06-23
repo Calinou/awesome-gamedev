@@ -4,9 +4,12 @@
 
 ### General ###
 
+* Added a 'Reference' subsection to the Graphics section
+
 ### Added ###
 
 * Return of Dr. Destructo
+* Procedural Content Generation Wiki
 
 ### Removed ###
 
