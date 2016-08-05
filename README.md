@@ -163,6 +163,8 @@ These are full-blown game engines.
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5 or native SDL games. [Expat][11].
 * [Maratis][311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2][14] or later.
 * [Moai][319] - Implemented in C++. Has Lua for scripting. [CPAL][320].
+* [OctaForge][379] - Implemented in C++. Has LuaJIT for scripting. Fork of
+  Sauerbraten. [NCSA Open Source License][380].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
 * [Orx][315] - Implented in C. [zlib][45].
 * [Oxygine][176] - Implemented in C++. [Expat][11].
@@ -906,3 +908,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [376]: https://github.com/a1studmuffin/SpaceshipGenerator
 [377]: https://github.com/MaxSavenkov/drdestructo2
 [378]: http://pcg.wikidot.com/
+[379]: https://octaforge.org/
+[380]: http://directory.fsf.org/wiki/License:IllinoisNCSA
