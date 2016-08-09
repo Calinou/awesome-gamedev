@@ -488,7 +488,10 @@ These are programming libraries or low-level code-based tools which are designed
 * [ClanLib] [131] - A cross-platform toolkit with a primary focus on game creation. Implemented in C++. [ClanLib license] [132] .
 * [CutJS] [76] - A lightweight and fast 2D HTML5 rendering engine for cross-platform game development. Implemented in ECMAScript. [Expat] [11] .
 * [enchant.js] [65] - A framework for developing simple HTML5 + ECMAScript games. Implemented in ECMAScript. [Expat] [11] .
-* [EndGate] [78] - A framework for building HTML5 games. Implemented in TypeScript. [Expat] [11] .
+* [EndGate] [78] - A framework for building HTML5 games. Implemented in
+  TypeScript. [Expat] [11] .
+* [Epoxy][381] - A library for handling OpenGL function pointer
+  management. Implemented in C. [Expat][11].
 * [GameJs] [279] - A thin library on top of the Canvas API, including some helpful game development modules. [Expat] [11] .
 * [Gideros][349] - A cross-platform game development framework in Lua. Various licenses, all free.
 * [Gladiator3D] [267] - A raycasting engine. Implemented in ECMAScript. [Expat] [11] .
@@ -910,3 +913,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [378]: http://pcg.wikidot.com/
 [379]: https://octaforge.org/
 [380]: http://directory.fsf.org/wiki/License:IllinoisNCSA
+[381]: https://github.com/anholt/libepoxy
