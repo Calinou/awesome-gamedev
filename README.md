@@ -447,6 +447,8 @@ We aim for *complete* and *current* resources here whenever possible.
 * [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5]. 
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
+* [pygame_stuff][382] - A collection of code samples using
+  PyGame. [GNU GPLv3][23] or later.
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by the nice GNU people. PDF. [GNU FDL][281].
 * [why's (poignant) Guide to Ruby][237] - An interesting introductory book for Ruby. [CC-BY-SA-3.0][127].
 
@@ -914,3 +916,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [379]: https://octaforge.org/
 [380]: http://directory.fsf.org/wiki/License:IllinoisNCSA
 [381]: https://github.com/anholt/libepoxy
+[382]: https://notabug.org/jorgesumle/pygame_stuff

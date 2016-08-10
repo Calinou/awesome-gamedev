@@ -7,6 +7,7 @@
 ### Added ###
 
 * Epoxy
+* pygame_stuff
 
 ### Removed ###
 
