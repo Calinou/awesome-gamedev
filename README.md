@@ -395,7 +395,6 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Spritesheet Tools ###
 
-* [Aseprite][13] - Animated sprite editor and pixel art tool. [GNU GPLv2][14] only.
 * [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27] or later.
 
 ### Texture Tools ###
@@ -547,7 +546,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [10]: http://arnaud.ile.nc/cantree/generator.php
 [11]: https://directory.fsf.org/wiki/License:Expat
 [12]: http://www.vecteezy.com/
-[13]: http://www.aseprite.org/
+
 [14]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 [15]: http://www.piskelapp.com/
 [16]: http://pngquant.org/

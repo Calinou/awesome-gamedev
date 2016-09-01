@@ -1,5 +1,15 @@
 # Changelog #
 
+## 2nd September 2016 ##
+
+### General ###
+
+### Added ###
+
+### Removed ###
+
+* Aseprite (now proprietary software, pending outcome of forking process)
+
 ## 6th August 2016 ##
 
 ### General ###
