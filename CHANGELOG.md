@@ -1,5 +1,9 @@
 # Changelog #
 
+## 2nd October 2016 ##
+
+* Fixed missing link for Yobi3D
+
 ## 1st October 2016 ##
 
 * Cleaned up CHANGELOG.md
