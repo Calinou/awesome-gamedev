@@ -1,281 +1,139 @@
 # Changelog #
 
+## 1st October 2016 ##
+
+* Cleaned up CHANGELOG.md
+* Removed separate programming section pending rethink
+* Created CONTRIBUTING.md
+* Deleted TODO.md (we have issues now)
+
 ## 2nd September 2016 ##
 
-### General ###
-
-### Added ###
-
-### Removed ###
-
-* Aseprite (now proprietary software, pending outcome of forking process)
+* Removed Aseprite (now proprietary software)
 
 ## 6th August 2016 ##
 
-### General ###
-
-### Added ###
-
-* Epoxy
-* pygame_stuff
-
-### Removed ###
-
-
-## 6th August 2016 ##
-
-### General ###
-
-### Added ###
-
-* OctaForge
-
-### Removed ###
-
+* Added:
+  * Epoxy
+  * pygame_stuff
+  * OctaForge
 
 ## 24th June 2016 ##
 
-### General ###
-
 * Corrected license of libSDLpp to zlib
-
-### Added ###
-
-### Removed ###
-
 
 ## 23rd June 2016 ##
 
-### General ###
-
 * Added a 'Reference' subsection to the Graphics section
-
-### Added ###
-
-* Return of Dr. Destructo
-* Procedural Content Generation Wiki
-
-### Removed ###
-
+* Added:
+  * Return of Dr. Destructo
+  * Procedural Content Generation Wiki
 
 ## 19th June 2016 ##
 
-### General ###
-
 * Introduced a new 'Procedural Generation' section
-
-### Added ###
-
-* SpaceshipGenerator
-
-### Removed ###
-
-
+* Added SpaceshipGenerator
 
 ## 13th May 2016 ##
 
-### General ###
-
-### Added ###
-
-* Solarus
-
-### Removed ###
-
+* Added Solarus
 
 ## 20th April 2016 ##
 
-### General ###
-
-### Added ###
-
-* AnKi 3D
-* delta3d
-* Fillwave
-
-### Removed ###
-
+* Added:
+  * AnKi 3D
+  * delta3d
+  * Fillwave
 
 ## 7th April 2016 ##
 
-### General ###
-
-### Added ###
-
-### Removed ###
-
-* AndEngine ([see here][1])
+* Removed AndEngine ([see here][1])
 
 ## 21st March 2016 ##
 
-### General ###
-
-* Fix Incompetech link
-
-### Added ###
-
-* Arianne
-* AlephOne
-* AndEngine
-* TrenchBroom
-
-### Removed ###
+* Fixed Incompetech link
+* Added:
+  * Arianne
+  * AlephOne
+  * AndEngine
+  * TrenchBroom
 
 ## 14th March 2016 ##
 
-### General ###
-
-### Added ###
-
-* Silverman Sound Studios' Free Creative Commons Music Tracks
-
-### Removed ###
+* Added Silverman Sound Studios' Free Creative Commons Music Tracks
 
 ## 3rd March 2016 ##
 
-### General ###
-
-### Added ###
-
-* TicTacToe
-
-### Removed ###
+* Added TicTacToe
 
 ## 21st Feburary 2016 ##
 
-### General ###
-
-### Added ###
-
-* Hydrogen
-* Dilay
-* Torsion
-
-### Removed ###
+* Added:
+  * Hydrogen
+  * Dilay
+  * Torsion
 
 ## 30th January 2016 ##
 
-### General ###
-
-### Added ###
-
-* ZipUp Free Game Elements
-
-### Removed ###
+* Added ZipUp Free Game Elements
 
 ## 25th January 2016 ##
 
-### General ###
-
-### Added ###
-
-* PuzzleScript
-
-### Removed ###
+* Added PuzzleScript
 
 ## 24th January 2016 ##
 
-### General ###
-
 * Added Peers notice
-
-### Added ###
-
-* Minilens
-
-### Removed ###
+* Added Minilens
 
 ## 14th January 2016 ##
 
-### General ###
-
-* Fixed broken link on 2048.
-
-### Added ###
-
-* Superpowers
-* Particle Clicker
-
-### Removed ###
-
+* Fixed broken link on 2048
+* Added:
+  * Superpowers
+  * Particle Clicker
 
 ## 5th January 2016 ##
 
-### General ###
-
-### Added ###
-
-* Uebergame
-
-### Removed ###
+* Added Uebergame
 
 ## 2nd January 2016 ##
 
-### General ###
-
-* Begun separation of programming from remainder
-
-### Added ###
-
-* Blend Swap
-
-### Removed ###
+* Began separation of programming from everything else
+* Added Blend Swap
 
 ## 22nd December 2015 ##
 
-### General ###
-
-### Added ###
-
-* 2048 game.
-* Epic Inventor game.
-
-### Removed ###
+* Added:
+  * 2048 game
+  * Epic Inventor game
 
 ## 21st December 2015 ##
 
-### General ###
-
-* Fixed spelling of DarkPlaces.
-
-### Added ###
-
-* Advanced C++ videos.
-* School of Game Design.
-
-### Removed ###
-
-* StuntRally.
+* Fixed spelling of DarkPlaces
+* Added:
+  * Advanced C++ videos
+  * School of Game Design
+* Removed StuntRally
 
 ## 28th November 2015 ##
 
-### General ###
-
-### Added ###
-
-* General section (to Music)
-* Gideros (to Programming Frameworks and Libraries)
-* Intro to Mobile Game Development (to Learning Resources - Programming)
-* Kuko (to Programming Frameworks and Libraries)
-* Musical Artifacts (to Music - General)
-* ParaType fonts (to Fonts)
-* Sly (to Engines - General)
-
-### Removed ###
+* Added General section to Music
+* Added:
+  * Gideros
+  * Intro to Mobile Game Development
+  * Kuko
+  * Musical Artifacts
+  * ParaType fonts
+  * Sly
 
 ## 21st October 2015 ##
 
-### General ###
-
-* Cleaned up formatting on main file.
-
-### Added ###
-
-* CHANGELOG.md file.
-* TODO.md file.
-* ArtSader in Assorted Assets section.
-* FLIF in Graphics Tools - Bitmap Compression.
-
-### Removed ###
+* Cleaned up formatting on main file
+* Created CHANGELOG.md file
+* Created TODO.md file
+* Added:
+  * ArtSader assets
+  * FLIF
 
 [1]: https://github.com/nicolasgramlich/AndEngine/issues/279#issuecomment-205847940
