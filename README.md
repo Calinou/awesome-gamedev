@@ -111,7 +111,7 @@ Gamedev can be a lonely job, and it also can have a steep learning curve. These 
 * [/r/freeculture][316] - Part of the Free Culture Reddit Community. A general free-culture-focused community.
 * [/r/FreeGaming][94] - Part of the Free Culture Reddit Community. Designed specifically for discussion of free culture games.
 * [/r/freesoftware][323] - A general free-software-focused community.
-* [/r/godot][185] - A community for discussion and support in development with the Godot game engine. 
+* [/r/godot][185] - A community for discussion and support in development with the Godot game engine.
 * [FreeGameDev Forums][326] - A forum community for all things free-game-development-related.
 * [FreeGaming][324] - A [freepo.st][325] community dedicated to free gaming.
 * [Libregamewiki][327] - The free gaming encyclopedia.
@@ -318,6 +318,7 @@ I have endeavoured to provide both code and asset licenses here - if no asset li
 
 ### Python ###
 
+* [Bullet dodger][383] - A fun and challenging mouse game where you must dodge bullets. [GNU GPLv3] [23] only, various CC (no NC or ND) (assets).
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
 * [Unknown Horizons] [245] - A real-time strategy simulation game. [GNU GPLv2] [14] or later (code), [CC-BY-SA-3.0][127] (assets).
 
@@ -441,9 +442,9 @@ We aim for *complete* and *current* resources here whenever possible.
 * [Beginner 2d Game Programming Tutorial][340] (video) - A set of tutorials in 2D game programming, illustrated using ECMAScript. [CC-BY-3.0][5].
 * [C++ Tutorial for Beginners][333] (video) - A collection of basic video tutorials for C++. [CC-BY-3.0][5].
 * [Effective Go][66] - A guide to writing good, clean and readable Go code for beginners. [CC-BY-3.0][5] (text), [3-clause BSD][29] (code).
-* [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5]. 
+* [Functional Programming in JavaScript][334] (video) - A series of tutorials about functional programming concepts, illustrated using ECMAScript. [CC-BY-3.0][5].
 * [Java Collections Framework][337] (video) - A set of tutorials for using Java collections properly. [CC-BY-3.0][5].
-* [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5]. 
+* [Java For Complete Beginners][332] (video) - A collection of basic video tutorials for Java. [CC-BY-3.0][5].
 * [Lua Programming][126] - A completed Wikibook on programming Lua. [CC-BY-SA-3.0][127].
 * [Practical Haskell - getting started with Stack][50] - A series of tutorials designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [pygame_stuff][382] - A collection of code samples using
@@ -466,7 +467,7 @@ We aim for *complete* and *current* resources here whenever possible.
 
 * [breakouts] [278] - A collection of ECMAScript implementations of Breakout. [Expat][11] .
 * [Haskell Programming][128] - A complete wiki of the Haskell programming language. [Expat][11] .
-* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136] 
+* [Joey Hess' blog][129] - A collection of posts, many of which are about Haskell use. [CC-BY-4.0][136]
 
 ### Talks ###
 
@@ -916,3 +917,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [380]: http://directory.fsf.org/wiki/License:IllinoisNCSA
 [381]: https://github.com/anholt/libepoxy
 [382]: https://notabug.org/jorgesumle/pygame_stuff
+[383]: https://notabug.org/jorgesumle/bullet_dodger

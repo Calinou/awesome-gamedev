@@ -6,6 +6,7 @@
 * Removed separate programming section pending rethink
 * Created CONTRIBUTING.md
 * Deleted TODO.md (we have issues now)
+* Added Bullet dodger
 
 ## 2nd September 2016 ##
 
