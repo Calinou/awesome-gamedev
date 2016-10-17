@@ -1,5 +1,9 @@
 # Changelog #
 
+## 17th October 2016
+
+* Added ReTux
+
 ## 2nd October 2016 ##
 
 * Fixed missing link for Yobi3D
