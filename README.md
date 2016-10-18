@@ -98,6 +98,7 @@ This contains collections of miscellaneous assets of different kinds.
 
 ### Music ###
 
+* [CC0 Music][384] - A collection of music. [CC0][289].
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses,
   all CC.
 * [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a
@@ -345,7 +346,7 @@ may be removed upon clarification.
 * [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23]
   or later (code and assets).
 * [Übergame][356] - A multiplayer, casual FPS game. [Expat][11]
-  (code), [CC0][49] (assets).
+  (code), [CC0][289] (assets).
 * [Warzone 2100] [248] - An RTS sci-fi game. [GNU GPLv2] [14] or later (code),
   various free culture licenses (assets).
 
@@ -383,7 +384,7 @@ may be removed upon clarification.
 * [Roguish] [163] - A roguelike. [3-clause BSD] [29] (code and assets).
 * [Snake] [157] - A version of Snake. [Expat] [11] (code), no significant assets.
 * [Sorades 13k] [159] - A scrolling shooter. [CC-BY-SA-3.0] [127] (code and assets).
-* [Space Crusade][160] - A space game. [Expat][11] (code), [CC0][49] (assets).
+* [Space Crusade][160] - A space game. [Expat][11] (code), [CC0][289] (assets).
 * [Space Shooter] [158] - Simple space shooting game. [Expat] [11] (code).
 * [Squirts] [191] - [Expat] [11] (code and assets).
 
@@ -796,7 +797,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [46]: https://www.libsdl.org/
 [47]: https://www.gnu.org/software/freedink/
 [48]: http://box2d.org/about/
-[49]: https://creativecommons.org/publicdomain/zero/1.0/
+
 [50]: http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html
 [51]: http://www.godotengine.org/
 [52]: https://en.wikipedia.org/wiki/Godot_%28game_engine%29#Scripting
@@ -1131,3 +1132,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [381]: https://github.com/anholt/libepoxy
 [382]: https://notabug.org/jorgesumle/pygame_stuff
 [383]: https://notabug.org/jorgesumle/bullet_dodger
+[384]: http://www.wowa.me/archive

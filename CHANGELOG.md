@@ -1,5 +1,10 @@
 # Changelog #
 
+## 19th October 2016 ##
+
+* Added CC0 Music
+* Removed duplicate CC0 link
+
 ## 2nd October 2016 ##
 
 * Fixed missing link for Yobi3D
