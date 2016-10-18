@@ -98,7 +98,7 @@ This contains collections of miscellaneous assets of different kinds.
 
 ### Music ###
 
-* [CC0 Music][384] - A collection of music. [CC0][289].
+* [CC0 Music][385] - A collection of music. [CC0][289].
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses,
   all CC.
 * [Creative Commons on Bandcamp][85] - Everything on Bandcamp under a
@@ -423,8 +423,10 @@ may be removed upon clarification.
 ### Python ###
 
 * [Bullet dodger][383] - A fun and challenging mouse game where you must dodge
-  bullets. [GNU GPLv3] [23] only, various CC (no NC or ND) (assets).
+  bullets. [GNU GPLv3] [23] only (code), various CC (no NC or ND) (assets).
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
+* [ReTux][384] - A platformer. [GNU GPLv3] [23] only (code), various free
+  culture licenses (assets).
 * [Unknown Horizons] [245] - A real-time strategy simulation
   game. [GNU GPLv2] [14] or later (code), [CC-BY-SA-3.0][127] (assets).
 
@@ -1132,4 +1134,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [381]: https://github.com/anholt/libepoxy
 [382]: https://notabug.org/jorgesumle/pygame_stuff
 [383]: https://notabug.org/jorgesumle/bullet_dodger
-[384]: http://www.wowa.me/archive
+[384]: https://savannah.nongnu.org/projects/retux
+[385]: http://www.wowa.me/archive
