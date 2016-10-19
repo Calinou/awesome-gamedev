@@ -1,5 +1,9 @@
 # Changelog #
 
+## 20th October 2016 ##
+
+* Added RogueBox Adventures
+
 ## 19th October 2016 ##
 
 * Added CC0 Music

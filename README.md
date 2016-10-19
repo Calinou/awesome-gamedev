@@ -427,6 +427,8 @@ may be removed upon clarification.
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
 * [ReTux][384] - A platformer. [GNU GPLv3] [23] only (code), various free
   culture licenses (assets).
+* [RogueBox Adventures][386] - A mix of classical roguelike and sandbox
+  game. [GNU GPLv3][23] or later (code), various free culture licenses (assets).
 * [Unknown Horizons] [245] - A real-time strategy simulation
   game. [GNU GPLv2] [14] or later (code), [CC-BY-SA-3.0][127] (assets).
 
@@ -1136,3 +1138,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [383]: https://notabug.org/jorgesumle/bullet_dodger
 [384]: https://savannah.nongnu.org/projects/retux
 [385]: http://www.wowa.me/archive
+[386]: https://rogueboxadventures.tuxfamily.org/
