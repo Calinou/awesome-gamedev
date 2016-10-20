@@ -7,8 +7,8 @@ physical resources, and [free cultural works][2] for assets.
 I have also provided a list of resources which are *not* free, and the reasons
 why, in the associated Wall of Shame file.
 
-This is released under the GNU Free Documentation License, without invariants or
-a cover - its text is provided in the LICENSE file.
+This is released under a Creative Commons-Attribution-ShareAlike license,
+version 4. You can find its text in the LICENSE file.
 
 This project is part of [Peers][361] - a community for growing freedom. Support
 us today!
