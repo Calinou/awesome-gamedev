@@ -24,11 +24,11 @@ license is in use already - if it is, don't create another link to it.
 Pretty self-explanatory, really. Numbers are considered to be higher-ordered
 than anything else, and otherwise, lex order.
 
-## Update the CHANGELOG.md ##
+## Give a clear commit message ##
 
-Follow the formatting there as an example. Make sure that you put entries in the
-*past* tense - so you should have something like 'Fixed spelling errors in
-license name', rather than 'Fix spelling errors in license name'.
+The commit message should state clearly *what* you did (adding, removing,
+clarifying, etc.), with *what* (usually by giving the name of the entry), in the
+present continuous tense (i.e. 'adding' not 'added').
 
 [1]: https://www.gnu.org/licenses/license-list.html
 [2]: http://freedomdefined.org/Licenses
