@@ -224,6 +224,7 @@ These are full-blown game engines.
   or later.
 * [Ren'Py][107] - Implemented in Python. Designed for visual
   novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
+* [SGE][387] - Implemented in Python. Designed for 2-D games. [GNU GPLv3][23]
 * [SLUDGE][56] - Implemented in C++. Has its own scripting
   language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
 * [Sly][344] - Implemented in Guile. Uses functional reactive
@@ -1139,3 +1140,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [384]: https://savannah.nongnu.org/projects/retux
 [385]: http://www.wowa.me/archive
 [386]: https://rogueboxadventures.tuxfamily.org/
+[387]: http://stellarengine.nongnu.org/
