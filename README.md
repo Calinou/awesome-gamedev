@@ -425,6 +425,8 @@ may be removed upon clarification.
 
 * [Bullet dodger][383] - A fun and challenging mouse game where you must dodge
   bullets. [GNU GPLv3] [23] only (code), various CC (no NC or ND) (assets).
+* [Hexoshi][388] - Free-roaming Metroid-like. [GNU GPLv3] [23] only (code),
+  various CC (no NC or ND) (assets).
 * [Mystic Mine] [197] - [Expat] [11] (code and assets).
 * [ReTux][384] - A platformer. [GNU GPLv3] [23] only (code), various free
   culture licenses (assets).
@@ -1141,3 +1143,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [385]: http://www.wowa.me/archive
 [386]: https://rogueboxadventures.tuxfamily.org/
 [387]: http://stellarengine.nongnu.org/
+[388]: https://hexoshi.gitlab.io/
