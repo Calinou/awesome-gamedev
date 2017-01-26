@@ -1143,4 +1143,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [385]: http://www.wowa.me/archive
 [386]: https://rogueboxadventures.tuxfamily.org/
 [387]: http://stellarengine.nongnu.org/
-[388]: https://hexoshi.gitlab.io/
+[388]: http://hexoshi.nongnu.org/
