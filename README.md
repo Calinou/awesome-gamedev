@@ -8,7 +8,7 @@ I have also provided a list of resources which are *not* free, and the reasons
 why, in the associated Wall of Shame file.
 
 This is released under a Creative Commons-Attribution-ShareAlike license,
-version 4. You can find its text in the LICENSE file.
+version 4.0. You can find its text in the `LICENSE.md` file.
 
 This project is part of [Peers][361] - a community for growing freedom. Support
 us today!
@@ -331,6 +331,7 @@ may be removed upon clarification.
   (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
+* [OpenClonk] [369] - A jump'n'run/settlement/combat game. [ISC] [358] (code), [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets). Some trademark restrictions on the name "Clonk". 
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later
   (code), various free culture licenses (assets).
 * [Return of Dr. Destructo][377] - An adventure game. [Expat][11] (code),
@@ -1144,3 +1145,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [386]: https://rogueboxadventures.tuxfamily.org/
 [387]: http://stellarengine.nongnu.org/
 [388]: http://hexoshi.nongnu.org/
+[389]: http://openclonk.org/
