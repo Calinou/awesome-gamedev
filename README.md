@@ -331,7 +331,8 @@ may be removed upon clarification.
   (code), [CC-BY-SA-3.0][127] (assets).
 * [Monster 1] [212] - A JRPG-style game. [3-clause BSD] [29] (code and assets).
 * [Monster 2] [213] - A JRPG-style game. [zlib] [45] (code and assets).
-* [OpenClonk] [369] - A jump'n'run/settlement/combat game. [ISC] [358] (code), [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets). Some trademark restrictions on the name "Clonk". 
+* [OpenClonk] [389] - A jump'n'run/settlement/combat game. [ISC] [358] (code),
+  [CC-BY-SA-3.0] [127] at most but mostly [CC-BY-3.0] [5] (assets).
 * [OpenDungeons] [236] - A version of Dungeon Keeper. [GNU GPLv3] [23] or later
   (code), various free culture licenses (assets).
 * [Return of Dr. Destructo][377] - An adventure game. [Expat][11] (code),
