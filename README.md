@@ -716,6 +716,8 @@ an engine would.
   Python. [GNU LGPLv2] [102] or later.
 * [Quasi-Engine] [276] - A set of Qt-based tools for game
   development. Implemented in C++. [GNU LGPLv2] [102] or later.
+* [raylib] [390] - Low-level library designed to learn videogames programming.
+  Implemented in C, but has Lua and Go bindings. [zlib] [45]
 * [SDL] [46] - Another cross-platform library for low-level tasks, like creating
   windows, accepting user input, and so forth. Implemented in C. [zlib] [45] .
 * [SFML] [109] - Simple and Fast Multimedia Library; a multi-platform,
@@ -1142,3 +1144,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [387]: http://stellarengine.nongnu.org/
 [388]: http://hexoshi.nongnu.org/
 [389]: http://openclonk.org/
+[390]: http://www.raylib.com/
