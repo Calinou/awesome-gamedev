@@ -65,8 +65,6 @@ us today!
 
 This contains collections of miscellaneous assets of different kinds.
 
-* [ArtSader][342] - A directory of free culture assets. Small, but
-  growing. [CC0][289] or [CC-BY-4.0][136].
 * [Material Design Icons][291] - An official icon set from Google following
   specific guidelines. [CC-BY-4.0][136].
 * [Openclipart][288] - A giant collection of clip art. [CC0][289].
@@ -344,7 +342,6 @@ may be removed upon clarification.
   free culture licenses (assets).
 * [SuperTuxKart] [224] - A 3D racing game. [GNU GPLv3] [23] or later (code),
   various free licenses (assets).
-* [TicTacToe][367] - A simple tic-tac-toe game. [Expat][11]
   (code), [CC-BY-SA-4.0][125] (assets).
 * [The Powder Toy] [231] - A sandbox falling sand physics game. [GNU GPLv3] [23]
   or later (code and assets).
@@ -719,6 +716,8 @@ an engine would.
   Python. [GNU LGPLv2] [102] or later.
 * [Quasi-Engine] [276] - A set of Qt-based tools for game
   development. Implemented in C++. [GNU LGPLv2] [102] or later.
+* [raylib] [390] - Low-level library designed to learn videogames programming.
+  Implemented in C, but has Lua and Go bindings. [zlib] [45]
 * [SDL] [46] - Another cross-platform library for low-level tasks, like creating
   windows, accepting user input, and so forth. Implemented in C. [zlib] [45] .
 * [SFML] [109] - Simple and Fast Multimedia Library; a multi-platform,
@@ -1099,7 +1098,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [339]: https://github.com/dommmel/coffee-snake
 [340]: https://notabug.org/koz.ross/beginner-2d-game-programming
 [341]: https://github.com/inexor-game/audioaugust
-[342]: http://art.devsader.com/
 [343]: http://flif.info/
 [344]: http://dthompson.us/pages/software/sly.html
 [345]: https://musical-artifacts.com/artifacts
@@ -1124,7 +1122,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [364]: http://abau.org/dilay/
 [365]: https://github.com/SickheadGames/Torsion
 [366]: http://www.hydrogen-music.org/hcms/
-[367]: https://github.com/LelixSuper/TicTacToe
 [368]: https://www.silvermansound.com/free-music
 [369]: http://anki3d.org/
 [370]: http://kristianduske.com/trenchbroom/
@@ -1147,3 +1144,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [387]: http://stellarengine.nongnu.org/
 [388]: http://hexoshi.nongnu.org/
 [389]: http://openclonk.org/
+[390]: http://www.raylib.com/
