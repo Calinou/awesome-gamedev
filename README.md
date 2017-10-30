@@ -72,6 +72,8 @@ This contains collections of miscellaneous assets of different kinds.
   development. Various licenses, including free ones.
 * [Wikimedia Commons][97] - A collection of various assets of all kinds. Various
   licenses, all CC or free-er.
+* [Open Source Game Clones][392] - A collection of open source videogames that
+  are clones of old games.
 
 ## Audio ##
 
@@ -88,6 +90,7 @@ This contains collections of miscellaneous assets of different kinds.
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm
   module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
+* [rFXGen][391] -  a tool to generate sound waves procedurally. [zlib][45]
 
 ### General ###
 
@@ -1069,7 +1072,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [311]: http://www.maratis3d.org/
 [312]: https://www.blender.org/manual/game_engine/introduction.html
 [313]: https://processing.org/
-[313]: https://processingjs.org/
 [314]: https://icculus.org/twilight/darkplaces/
 [315]: http://orx-project.org/
 [316]: https://www.reddit.com/r/freeculture/
@@ -1145,3 +1147,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [388]: http://hexoshi.nongnu.org/
 [389]: http://openclonk.org/
 [390]: http://www.raylib.com/
+[391]: https://github.com/raysan5/rfxgen
+[392]: http://osgameclones.com/
