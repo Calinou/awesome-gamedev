@@ -732,9 +732,9 @@ an engine would.
   ECMAScript. [Expat][11].
 * [voxel.js][67] - A multi-component framework for bulding voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
-* [ZenGL][393] - A cross-platform game development library designed to provide 
-  necessary functionality for rendering 2D-graphics, handling input, sound output, 
-  etc. Implemented in Pascal. [Custom][394].
+* [ZenGL][393] - A cross-platform game development library designed to provide
+  necessary functionality for rendering 2D-graphics, handling input, sound output,
+  etc. Implemented in Pascal. [zlib][394].
 
 ## Utilities ##
 
