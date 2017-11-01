@@ -732,6 +732,9 @@ an engine would.
   ECMAScript. [Expat][11].
 * [voxel.js][67] - A multi-component framework for bulding voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
+* [ZenGL][393] - A cross-platform game development library designed to provide 
+  necessary functionality for rendering 2D-graphics, handling input, sound output, 
+  etc. Implemented in Pascal. [Custom][394].
 
 ## Utilities ##
 
@@ -1149,3 +1152,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [390]: http://www.raylib.com/
 [391]: https://github.com/raysan5/rfxgen
 [392]: http://osgameclones.com/
+[393]: http://www.zengl.org/
+[394]: http://www.zengl.org/license.html
