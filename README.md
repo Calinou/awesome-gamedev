@@ -477,6 +477,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Sprites ###
 
+* [LPC Spritesheet Character Generator][395] - A pixel-art RPG-style character spritesheet generator. Arts are dual licensed : [GNU GPLv3][23] and [CC-BY-SA3][127]
 * [SpriteLib][8] - A big collection of sprites. Available in PNG. [CPL 1.0][9].
 
 ## Graphics Tools ##
@@ -1154,3 +1155,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [392]: http://osgameclones.com/
 [393]: http://www.zengl.org/
 [394]: http://www.zengl.org/license.html
+[395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
