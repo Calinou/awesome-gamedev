@@ -265,6 +265,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
+* [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate
   rigid body dynamics. [Original BSD][118].
@@ -1156,3 +1157,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [393]: http://www.zengl.org/
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
+[396]: http://google.github.io/liquidfun/
