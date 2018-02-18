@@ -732,6 +732,9 @@ an engine would.
   easier. Implemented in Java. [3-clause BSD][29].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in
   ECMAScript. [Expat][11].
+* [Tilengine][397] is a 2D graphics engine for creating classic/retro games with
+  tilemaps, sprites and palettes. Its scanline-based rendering system makes
+  raster effects a core feature. MIT.
 * [voxel.js][67] - A multi-component framework for bulding voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
 * [ZenGL][393] - A cross-platform game development library designed to provide
@@ -1158,3 +1161,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[397]: http://www.tilengine.org/
