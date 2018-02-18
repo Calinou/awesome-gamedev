@@ -710,6 +710,7 @@ an engine would.
   .
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
+* [nanovg][399] - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [zlib][45].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [pixi.js][275] - A 2D rendering engine. Implemented in
   ECMAScript. [Expat][11].
@@ -1158,3 +1159,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[399]: https://github.com/memononen/nanovg
