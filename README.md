@@ -696,6 +696,7 @@ an engine would.
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
   devices. Implemented in C++ and Lua. [Expat][11].
+* [libclub][398] - Lightweight Peer-to-Peer networking engine for real time applications. [Apache 2.0][71].
 * [libGDX][86] - Cross-platform game development framework. Implemented in
   Java. [Apache 2.0][71].
 * [libRocket][270] - An HTML/CSS-based UI library. Implemented in
@@ -1158,3 +1159,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[398]: https://github.com/inetic/libclub
