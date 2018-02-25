@@ -471,7 +471,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
-* [Font Awesome] - A large set of vector icons. [CC-BY-4.0][136].
+* [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Material Design Icons][291] - An official icon set from Google following 
   specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
