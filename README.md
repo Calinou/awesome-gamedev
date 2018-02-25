@@ -65,8 +65,6 @@ us today!
 
 This contains collections of miscellaneous assets of different kinds.
 
-* [Material Design Icons][291] - An official icon set from Google following
-  specific guidelines. [CC-BY-4.0][136].
 * [Openclipart][288] - A giant collection of clip art. [CC0][289].
 * [OpenGameArt.org][7] - A large collection of art intended for game
   development. Various licenses, including free ones.
@@ -473,6 +471,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
+* [Material Design Icons][291] - An official icon set from Google following 
+  specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
   consistent user interface. Public domain.
 
