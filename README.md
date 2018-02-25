@@ -546,6 +546,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Voxel Editors ###
 
+* [MagicaVoxel][404] - A lightweight 8-bit voxel art editor and interactive path tracing renderer. Custom attribution license, free.
 * [Sproxel][28] - A 3D interface for quickly editing and creating voxel-based 3D
   models. [3-clause BSD][29].
 
@@ -1165,3 +1166,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [401]: http://www.glfw.org/
 [402]: https://github.com/CedricGuillemet/ImGuizmo
 [403]: https://opensource.org/licenses/MIT
+[404]: https://ephtracy.github.io
