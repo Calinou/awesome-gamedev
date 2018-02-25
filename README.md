@@ -689,6 +689,7 @@ an engine would.
   licenses, all free.
 * [Gladiator3D][267] - A raycasting engine. Implemented in
   ECMAScript. [Expat][11].
+* [GLFW][401] - A multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. [zlib][45]
 * [HaxeFlixel][79] - A cross-platform development framework, supporting many
   targets. Implemented in Haxe. [Expat][11].
 * [HaxePunk][179] - A development framework designed to let you build games on
@@ -1160,3 +1161,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
 [400]: https://github.com/ocornut/imgui
+[401]: http://www.glfw.org/
