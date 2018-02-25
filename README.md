@@ -473,8 +473,9 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
-* [Icons8][409] - A set of 65000 flat icons. [License][410].
+* [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45]
 * [Iconmonstr][407] - A set of 4000 free icons. [License][408].
+* [Icons8][409] - A set of 65000 flat icons. [License][410].
 * [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
 * [Material Design Icons][291] - An official icon set from Google following 
   specific guidelines. [CC-BY-4.0][136].
@@ -1179,3 +1180,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [409]: https://icons8.com/
 [410]: https://icons8.com/license/
 [411]: https://github.com/nicodinh/kenney-icon-font/
+[412]: https://github.com/juliettef/IconFontCppHeaders
