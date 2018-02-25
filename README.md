@@ -475,7 +475,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
 * [Icons8][409] - A set of 65000 flat icons. [License][410].
 * [Iconmonstr][407] - A set of 4000 free icons. [License][408].
-* [Kenney Game Icons][410] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
+* [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
 * [Material Design Icons][291] - An official icon set from Google following 
   specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
