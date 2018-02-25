@@ -694,6 +694,7 @@ an engine would.
   targets. Implemented in Haxe. [Expat][11].
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
+* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403]
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
@@ -1162,3 +1163,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [396]: http://google.github.io/liquidfun/
 [400]: https://github.com/ocornut/imgui
 [401]: http://www.glfw.org/
+[402]: https://github.com/CedricGuillemet/ImGuizmo
+[403]: https://opensource.org/licenses/MIT
