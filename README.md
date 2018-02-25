@@ -676,6 +676,7 @@ an engine would.
   creation. Implemented in C++. [ClanLib license][132].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
+* [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45]
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript
   games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in
@@ -1158,3 +1159,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[400]: https://github.com/ocornut/imgui
