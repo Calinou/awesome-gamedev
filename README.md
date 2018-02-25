@@ -469,9 +469,10 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Icons ###
 
+* [FatCow][406] - A set of 3900 colour icons in 16x16 and 32x32 pixel format. [CC-BY-3.0][5].
+* [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
-* [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Material Design Icons][291] - An official icon set from Google following 
   specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
@@ -1169,3 +1170,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [403]: https://opensource.org/licenses/MIT
 [404]: https://ephtracy.github.io
 [405]: https://github.com/FortAwesome/Font-Awesome/
+[406]: http://www.fatcow.com/free-icons
