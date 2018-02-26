@@ -65,8 +65,6 @@ us today!
 
 This contains collections of miscellaneous assets of different kinds.
 
-* [Material Design Icons][291] - An official icon set from Google following
-  specific guidelines. [CC-BY-4.0][136].
 * [Openclipart][288] - A giant collection of clip art. [CC0][289].
 * [OpenGameArt.org][7] - A large collection of art intended for game
   development. Various licenses, including free ones.
@@ -471,8 +469,14 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Icons ###
 
+* [FatCow][406] - A set of 3900 colour icons in 16x16 and 32x32 pixel format. [CC-BY-3.0][5].
+* [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
+* [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45]
+* [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
+* [Material Design Icons][291] - An official icon set from Google following 
+  specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
   consistent user interface. Public domain.
 
@@ -676,6 +680,7 @@ an engine would.
   creation. Implemented in C++. [ClanLib license][132].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
+* [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45]
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript
   games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in
@@ -688,10 +693,12 @@ an engine would.
   licenses, all free.
 * [Gladiator3D][267] - A raycasting engine. Implemented in
   ECMAScript. [Expat][11].
+* [GLFW][401] - A multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. [zlib][45]
 * [HaxeFlixel][79] - A cross-platform development framework, supporting many
   targets. Implemented in Haxe. [Expat][11].
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
+* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403]
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
@@ -1158,3 +1165,11 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[400]: https://github.com/ocornut/imgui
+[401]: http://www.glfw.org/
+[402]: https://github.com/CedricGuillemet/ImGuizmo
+[403]: https://opensource.org/licenses/MIT
+[405]: https://github.com/FortAwesome/Font-Awesome/
+[406]: http://www.fatcow.com/free-icons
+[411]: https://github.com/nicodinh/kenney-icon-font/
+[412]: https://github.com/juliettef/IconFontCppHeaders
