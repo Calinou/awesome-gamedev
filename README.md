@@ -715,6 +715,7 @@ an engine would.
   game development. Implemented in C++. [Apache 2.0][71].
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45]
   .
+* [LuaStudio][413] - A cross-platform framework/development tool for making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45]
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
@@ -1173,3 +1174,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [406]: http://www.fatcow.com/free-icons
 [411]: https://github.com/nicodinh/kenney-icon-font/
 [412]: https://github.com/juliettef/IconFontCppHeaders
+[413]: http://scormpool.com/luastudio
