@@ -904,7 +904,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [130]: https://ardour.org/
 [131]: http://www.clanlib.org/index.html
 [132]: http://www.clanlib.org/license.html
-[133]: https://testbit.eu/wiki/Beast_Home
+[133]: https://beast.testbit.org/
 [134]: http://www.dengine.net/engine
 [135]: http://www.worldforge.org/
 [136]: https://creativecommons.org/licenses/by/4.0/
