@@ -92,6 +92,8 @@ This contains collections of miscellaneous assets of different kinds.
 
 ### General ###
 
+* [GameSounds.xyz][413] - Royalty free music and sounds. Various licenses,
+  including free ones.
 * [Musical Artifacts][345] - A collection of music-related everything. Various
   licenses, all CC.
 
@@ -475,7 +477,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
 * [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45]
 * [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
-* [Material Design Icons][291] - An official icon set from Google following 
+* [Material Design Icons][291] - An official icon set from Google following
   specific guidelines. [CC-BY-4.0][136].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
   consistent user interface. Public domain.
@@ -1173,3 +1175,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [406]: http://www.fatcow.com/free-icons
 [411]: https://github.com/nicodinh/kenney-icon-font/
 [412]: https://github.com/juliettef/IconFontCppHeaders
+[413]: https://gamesounds.xyz/
