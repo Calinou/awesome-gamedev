@@ -799,7 +799,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [23]: https://www.gnu.org/licenses/gpl.html
 [24]: https://inkscape.org/en/
 [25]: https://www.blender.org/
-[26]: http://www.makehuman.org/
+[26]: http://www.makehumancommunity.org/
 [27]: https://www.gnu.org/licenses/agpl.html
 [28]: http://sproxel.blogspot.com.br/p/about-sproxel.html
 [29]: https://directory.fsf.org/wiki/License:BSD_3Clause
