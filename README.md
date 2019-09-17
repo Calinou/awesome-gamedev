@@ -701,7 +701,7 @@ an engine would.
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
 * [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403]
-* [Kcp][414] - A fast and reliable protocol that helps fast-action games reduct network latency. [MIT][403]
+* [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduct network latency. [MIT][403]
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
