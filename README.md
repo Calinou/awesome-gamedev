@@ -213,6 +213,7 @@ These are full-blown game engines.
 * [OctaForge][379] - Implemented in C++. Has LuaJIT for scripting. Fork of
   Sauerbraten. [NCSA Open Source License][380].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
+* [OpenXRay](https://github.com/OpenXRay/xray-16) – Improved version of the X-Ray engine, used in world famous S.T.A.L.K.E.R. game series by GSC Game World. Custom 3-Clause BSD.
 * [Orx][315] - Implented in C. [zlib][45].
 * [Oxygine][176] - Implemented in C++. [Expat][11].
 * [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
