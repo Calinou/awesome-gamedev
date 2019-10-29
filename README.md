@@ -169,6 +169,7 @@ These are full-blown game engines.
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
+* [CRYENGINE][416] - Implemented in C++. Recently went Free to use. [Custom][417]
 * [DarkPlaces][314] - Implemented in C. [GNU GPLv2][14] or later.
 * [delta3d][373] - Implemented in C++. Also useful for
   simulations. [GNU LGPLv2][102] or later.
@@ -1178,3 +1179,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [413]: https://gamesounds.xyz/
 [414]: https://github.com/skywind3000/kcp/blob/master/README.en.md
 [415]: https://scormpool.com/luastudio
+[416]: https://cryengine.com
+[417]: https://www.cryengine.com/ce-terms
