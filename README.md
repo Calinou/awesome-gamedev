@@ -25,6 +25,7 @@ us today!
   * [General](#general)
   * [HTML5](#html5)
   * [Physics](#physics)
+* [Math](#math)
 * [Fonts](#fonts)
 * [Games](#games)
   * [C](#c)
@@ -269,6 +270,11 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
   rigid body dynamics. [Original BSD][118].
 * [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
 * [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
+
+
+## Math ##
+
+* [Hypatia][416] - A pure-C math library for 2D/3D graphics (matrix, vector, quaternion) Seeks to be close to C89/C90 compliant for portability. [MIT][403].
 
 ## Fonts ##
 
@@ -698,7 +704,7 @@ an engine would.
   targets. Implemented in Haxe. [Expat][11].
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
-* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403]
+* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [/][403]
 * [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduct network latency. [MIT][403]
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
@@ -1178,3 +1184,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [413]: https://gamesounds.xyz/
 [414]: https://github.com/skywind3000/kcp/blob/master/README.en.md
 [415]: https://scormpool.com/luastudio
+[416]: https://github.com/dagostinelli/hypatia
