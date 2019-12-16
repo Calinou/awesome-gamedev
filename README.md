@@ -25,6 +25,7 @@ us today!
   * [General](#general)
   * [HTML5](#html5)
   * [Physics](#physics)
+* [Math](#math)
 * [Fonts](#fonts)
 * [Games](#games)
   * [C](#c)
@@ -269,6 +270,11 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
   rigid body dynamics. [Original BSD][118].
 * [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
 * [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
+
+
+## Math ##
+
+* [Hypatia][416] - A pure-C math library for 2D/3D graphics (matrix, vector, quaternion) Seeks to be close to C89/C90 compliant for portability. [MIT][403].
 
 ## Fonts ##
 
@@ -1178,3 +1184,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [413]: https://gamesounds.xyz/
 [414]: https://github.com/skywind3000/kcp/blob/master/README.en.md
 [415]: https://scormpool.com/luastudio
+[416]: https://github.com/dagostinelli/hypatia
