@@ -884,7 +884,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [101]: http://libnoise.sourceforge.net/
 [102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [103]: http://meshlab.sourceforge.net/
-[104]: http://www.synfig.org/cms/
+[104]: https://www.synfig.org/
 [105]: http://ngplant.org/
 [106]: http://pygame.org/wiki/about
 [107]: http://www.renpy.org/
