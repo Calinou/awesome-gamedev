@@ -482,7 +482,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45]
 * [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
 * [Material Design Icons][291] - An official icon set from Google following
-  specific guidelines. [CC-BY-4.0][136].
+  specific guidelines. [Apache2.0][20].
 * [Tango Icon Library][300] - An icon set project with a goal to create a
   consistent user interface. Public domain.
 
