@@ -204,6 +204,7 @@ These are full-blown game engines.
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
 * [KivEnt][307] - Implemented in Python. [Expat][11].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
+* [litiengine][417] - Implemented in Java, Designed for 2D games. [MIT][403]
 * [lycheejs][89] - Implemented in ECMAScript. Designed for construction of HTML5
   or native SDL games. [Expat][11].
 * [Maratis][311] - Implemented in C++. Has Lua for scripting. [GNU GPLv2][14] or
@@ -1185,3 +1186,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [414]: https://github.com/skywind3000/kcp/blob/master/README.en.md
 [415]: https://scormpool.com/luastudio
 [416]: https://github.com/dagostinelli/hypatia
+[417]: https://github.com/gurkenlabs/litiengine
