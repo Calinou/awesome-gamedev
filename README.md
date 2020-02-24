@@ -223,6 +223,7 @@ These are full-blown game engines.
   language. [Expat][11].
 * [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14]
   or later.
+* [Raygun][418] - Implemented in C++. Designed for hardware ray tracing using Vulkan. [MIT][403].
 * [Ren'Py][107] - Implemented in Python. Designed for visual
   novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
 * [SGE][387] - Implemented in Python. Designed for 2-D games. [GNU GPLv3][23]
@@ -1187,3 +1188,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [415]: https://scormpool.com/luastudio
 [416]: https://github.com/dagostinelli/hypatia
 [417]: https://github.com/gurkenlabs/litiengine
+[418]: https://github.com/W4RH4WK/Raygun
