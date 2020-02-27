@@ -554,6 +554,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Texture Tools ###
 
+* [Material Maker][419] - Procedural texture generation tool for use with PBR engines. [Expat][11].
 * [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 
 ### Voxel Editors ###
@@ -1189,3 +1190,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [416]: https://github.com/dagostinelli/hypatia
 [417]: https://github.com/gurkenlabs/litiengine
 [418]: https://www.orama-interactive.com/pixelorama
+[419]: https://github.com/RodZill4/material-maker
