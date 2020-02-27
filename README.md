@@ -522,8 +522,6 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [MakeHuman][26] - A tool for making 3D characters. [GNU AGPLv3][27] or later.
 * [MyPaint][81] - A natural materials painting and drawing
   emulator. [GNU GPLv2][14] or later.
-* [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor.
-  [GNU LGPLv3][38] or later.
 * [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14] or later.
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
@@ -555,6 +553,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
   ambient occlusion, roughness or metallic textures. Requires a graphics card
   with support for OpenGL4 or greater. [GNU LGPLv3][38] or later.
 * [Material Maker][419] - Procedural texture generation tool for use with PBR engines. [Expat][11].
+* [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. No longer maintained.
+  [GNU LGPLv3][38] or later.
 * [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 
 ### Voxel Editors ###
