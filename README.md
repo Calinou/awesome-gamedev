@@ -509,9 +509,6 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Editors ###
 
-* [AwesomeBump][141] - A program that generates normal, height, specular or
-  ambient occlusion, roughness or metallic textures. Requires a graphics card
-  with support for OpenGL4 or greater. [GNU LGPLv3][38] or later.
 * [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14] or later.
 * [GIMP][22] - The GNU Image Manipulation Program. Designed for photo
   retouching, image composition and similar tasks. [GNU GPLv3][23] or later.
@@ -554,6 +551,9 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Texture Tools ###
 
+* [AwesomeBump][141] - A program that generates normal, height, specular or
+  ambient occlusion, roughness or metallic textures. Requires a graphics card
+  with support for OpenGL4 or greater. [GNU LGPLv3][38] or later.
 * [Material Maker][419] - Procedural texture generation tool for use with PBR engines. [Expat][11].
 * [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 
