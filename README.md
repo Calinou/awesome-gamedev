@@ -530,6 +530,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [ngPlant][105] - A 3D plant modelling software suite. [GNU GPLv2][14] or later.
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
+* [Pixelorama][418] - 2D pixel art editor with animation support. [Expat][11].
 * [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14] or later.
 * [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] or
   later and [FreeBSD][17].
@@ -1187,3 +1188,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [415]: https://scormpool.com/luastudio
 [416]: https://github.com/dagostinelli/hypatia
 [417]: https://github.com/gurkenlabs/litiengine
+[418]: https://www.orama-interactive.com/pixelorama
