@@ -878,7 +878,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [92]: http://libminx.org/
 [93]: http://melonjs.org/
 [94]: https://www.reddit.com/r/FreeGaming
-[95]: http://www.pydark.com/
+[95]: https://github.com/SirFroweey/PyDark
 [96]: https://libre.fm/
 [97]: https://commons.wikimedia.org/wiki/Main_Page
 [98]: https://soundcloud.com/groups/creative-commons
