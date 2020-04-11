@@ -751,7 +751,7 @@ an engine would.
   easier. Implemented in Java. [3-clause BSD][29].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in
   ECMAScript. [Expat][11].
-* [Tracy][420] - C++ frame profiler
+* [Tracy][420] - C++ frame profiler. [3-clause BSD][29].
 * [voxel.js][67] - A multi-component framework for bulding voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
 * [ZenGL][393] - A cross-platform game development library designed to provide
