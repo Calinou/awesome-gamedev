@@ -213,7 +213,7 @@ These are full-blown game engines.
 * [OctaForge][379] - Implemented in C++. Has LuaJIT for scripting. Fork of
   Sauerbraten. [NCSA Open Source License][380].
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
-* [OHRRPGCE][421] - Implemented in BASIC. Designed for 8/16-bit RPG games like Final Fantasy.
+* [OHRRPGCE][421] - Implemented in BASIC. Designed for 8/16-bit-like games like Final Fantasy.
   Has custom plotscript language for advanced scripts. An oldschool RPG Maker alternative. [GNU GPLv2][14] or later.
 * [Orx][315] - Implented in C. [zlib][45].
 * [Oxygine][176] - Implemented in C++. [Expat][11].
