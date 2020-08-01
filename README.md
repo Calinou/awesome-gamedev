@@ -89,6 +89,7 @@ This contains collections of miscellaneous assets of different kinds.
 * [MilkyTracker][34] - Multi-platform application for creating .mod and .xm
   module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
+* [MuseScore][422] - A music notation program capable of generating engraved scores and audio and MIDI files. [GNU GPLv2][14] or later.
 * [rFXGen][391] -  a tool to generate sound waves procedurally. [zlib][45]
 
 ### General ###
@@ -1196,3 +1197,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [419]: https://github.com/RodZill4/material-maker
 [420]: https://github.com/wolfpld/tracy
 [421]: https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page
+[422]: https://musescore.org/en/download
