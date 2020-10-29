@@ -625,6 +625,7 @@ We aim for *complete* and *current* resources here whenever possible.
   designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [pygame_stuff][382] - A collection of code samples using
   PyGame. [GNU GPLv3][23] or later.
+* [ocaml-sdl2-minigames][423] - A collection of code samples using OCamlSDL2. [Zlib][45].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by
   the nice GNU people. PDF. [GNU FDL][281].
 * [why's (poignant) Guide to Ruby][237] - An interesting introductory book for
@@ -1198,3 +1199,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [420]: https://github.com/wolfpld/tracy
 [421]: https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page
 [422]: https://musescore.org/en/download
+[423]: https://github.com/fccm/ocaml-sdl2-minigames
