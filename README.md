@@ -233,8 +233,8 @@ These are full-blown game engines.
   language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
 * [Sly][344] - Implemented in Guile. Uses functional reactive
   programming. [GNU GPLv3][23] or later.
-* [Solarus][375] - Implemented in C++. Comes with its own editor. Designed for
-  RPGs. [GNU GPLv3][23] or later.
+* [Solarus][375] - Implemented in C++. Has a Lua API and game editor. Designed
+for Action-RPGs. [GNU GPLv3][23] or later.
 * [Spearmint][203] - Implemented in C. Designed for FPS games. [GNU GPLv3][23]
   or later.
 * [Spring][121] - Implemented in C++. Designed for RTS games. [GNU GPLv2][14] or
