@@ -662,6 +662,9 @@ We aim for *complete* and *current* resources here whenever possible.
 These are collections of game development-related talks, podcasts etc. that
 might be interesting or informative to people seeking to design games.
 
+* [Composers Play](423) (podcast) - Listen to a video game composer discuss 
+  soundtracks of iconic games such as Mass Effect, Duke Nukem II, Doom, and 
+  System Shock with their composers, often while playing the game.
 * [GameDevRadio][268] (podcast) - A series of online radio shows devoted to
   entertaining and educating whoever is interested in game
   development. [CC-BY-SA-4.0][125].
@@ -1198,3 +1201,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [420]: https://github.com/wolfpld/tracy
 [421]: https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page
 [422]: https://musescore.org/en/download
+[423]: https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf
