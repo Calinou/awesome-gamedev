@@ -625,6 +625,7 @@ We aim for *complete* and *current* resources here whenever possible.
   designed to help people get started programming Haskell. [CC-BY-SA-4.0][125].
 * [pygame_stuff][382] - A collection of code samples using
   PyGame. [GNU GPLv3][23] or later.
+* [ocaml-sdl2-minigames][424] - A collection of code samples using OCamlSDL2. [Zlib][45].
 * [The GNU C Programming Tutorial][280] - An introduction to programming in C by
   the nice GNU people. PDF. [GNU FDL][281].
 * [why's (poignant) Guide to Ruby][237] - An interesting introductory book for
@@ -662,8 +663,8 @@ We aim for *complete* and *current* resources here whenever possible.
 These are collections of game development-related talks, podcasts etc. that
 might be interesting or informative to people seeking to design games.
 
-* [Composers Play](423) (podcast) - Listen to a video game composer discuss 
-  soundtracks of iconic games such as Mass Effect, Duke Nukem II, Doom, and 
+* [Composers Play](423) (podcast) - Listen to a video game composer discuss
+  soundtracks of iconic games such as Mass Effect, Duke Nukem II, Doom, and
   System Shock with their composers, often while playing the game.
 * [GameDevRadio][268] (podcast) - A series of online radio shows devoted to
   entertaining and educating whoever is interested in game
@@ -1202,3 +1203,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [421]: https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page
 [422]: https://musescore.org/en/download
 [423]: https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf
+[424]: https://github.com/fccm/ocaml-sdl2-minigames
