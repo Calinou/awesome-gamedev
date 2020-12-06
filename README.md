@@ -361,6 +361,8 @@ may be removed upon clarification.
   (code), [CC0][289] (assets).
 * [Warzone 2100][248] - An RTS sci-fi game. [GNU GPLv2][14] or later (code),
   various free culture licenses (assets).
+* [Noiz2sa][428] - A classical vertical arcade shooter with an abstract theme and
+  matching electronic music. [2-clause BSD][49] (code), no significant assets.
 
 ### CoffeeScript ###
 
@@ -840,6 +842,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [46]: https://www.libsdl.org/
 [47]: https://www.gnu.org/software/freedink/
 [48]: http://box2d.org/about/
+[49]: https://directory.fsf.org/wiki/License:BSD-2-Clause
 
 [50]: http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html
 [51]: http://www.godotengine.org/
@@ -1204,3 +1207,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [422]: https://musescore.org/en/download
 [423]: https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf
 [424]: https://github.com/fccm/ocaml-sdl2-minigames
+[428]: http://noiz2sa.sourceforge.net/
