@@ -435,6 +435,7 @@ may be removed upon clarification.
   (code), [CC-BY-SA-3.0][127] (assets).
 * [Zero-K][249] - An RTS game. Uses Spring engine. [GNU GPLv2][14] or later
   (code and assets).
+* [Haskell Games][429] - An index of Games written in Haskell. Various licenses.
 
 ### Python ###
 
@@ -1212,3 +1213,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [426]: http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
+[429]: https://wiki.haskell.org/Applications_and_libraries/Games
