@@ -662,6 +662,11 @@ We aim for *complete* and *current* resources here whenever possible.
 * [Joey Hess' blog][129] - A collection of posts, many of which are about
   Haskell use. [CC-BY-4.0][136].
 
+#### Chrestomathy ####
+
+* [RosettaCode][430] - A collection of mini-games implementations, often with CLI interface,
+  written in many different programming languages. [GNU FDL][281].
+
 ### Talks ###
 
 These are collections of game development-related talks, podcasts etc. that
@@ -1212,3 +1217,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [426]: http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
+[430]: https://rosettacode.org/wiki/Category:Games
