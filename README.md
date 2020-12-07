@@ -367,6 +367,8 @@ may be removed upon clarification.
 * [coffee-snake][339] - A version of Snake. [GNU GPLv3][23] or later (code),
   no significant assets.
 * [Zop][186] - A 'connect the dots' game. [Expat][11] (code), no significant assets.
+* [2014's ABA Games][426] - [Kenta Cho][425] has created 50 games in 2014.
+  ([git][427]). [MIT][403], no assets.
 
 ### Dart ###
 
@@ -1204,3 +1206,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [422]: https://musescore.org/en/download
 [423]: https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf
 [424]: https://github.com/fccm/ocaml-sdl2-minigames
+[425]: https://en.wikipedia.org/wiki/ABA_Games
+[426]: http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/
+[427]: https://github.com/abagames
