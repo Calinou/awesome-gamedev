@@ -697,7 +697,7 @@ an engine would.
 * [Cinder][113] - A community-developed library for creative
   coding. Implemented in C++. [FreeBSD][17].
 * [ClanLib][131] - A cross-platform toolkit with a primary focus on game
-  creation. Implemented in C++. [ClanLib license][132].
+  creation. Implemented in C++. ([git][132]). [zlib][45].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45]
@@ -926,8 +926,8 @@ This is a catch-all category for things that don't fit anywhere else.
 [128]: https://wiki.haskell.org/Haskell
 [129]: https://joeyh.name/blog/about/
 [130]: https://ardour.org/
-[131]: http://www.clanlib.org/index.html
-[132]: http://www.clanlib.org/license.html
+[131]: https://en.wikipedia.org/wiki/ClanLib
+[132]: https://github.com/sphair/ClanLib
 [133]: https://beast.testbit.org/
 [134]: http://www.dengine.net/engine
 [135]: http://www.worldforge.org/
