@@ -435,6 +435,11 @@ may be removed upon clarification.
   (code), [CC-BY-SA-3.0][127] (assets).
 * [Zero-K][249] - An RTS game. Uses Spring engine. [GNU GPLv2][14] or later
   (code and assets).
+* [Torus Trooper][431] - A fast-paced scrolling shooter game, that features
+  3D abstract graphics. Written in D. [2-clause BSD][49] (code),
+  no significant assets.
+* [Gunroar][432] - A naval themed shoot 'em up with vertical scrolling.
+  Written in D. [2-clause BSD][49] (code), no significant assets.
 
 ### Python ###
 
@@ -1212,3 +1217,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [426]: http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
+[431]: http://www.asahi-net.or.jp/~cs8k-cyu/windows/tt_e.html
+[432]: http://www.asahi-net.or.jp/~cs8k-cyu/windows/gr_e.html
