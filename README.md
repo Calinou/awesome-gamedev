@@ -60,6 +60,7 @@ us today!
     * [Reference](#reference)
   * [Talks](#talks)
 * [Programming Frameworks and Libraries](#programming-frameworks-and-libraries)
+* [Tools](#tools)
 * [Utilities](#utilities)
 
 ## Assorted Assets ##
@@ -769,6 +770,12 @@ an engine would.
 * [ZenGL][393] - A cross-platform game development library designed to provide
   necessary functionality for rendering 2D-graphics, handling input, sound output,
   etc. Implemented in Pascal. [zlib][394].
+
+## Tools ##
+
+Game development tools, development environments and similar programs.
+
+* [RapidQuest] - A free web-based tool for visual design of game quests.
 
 ## Utilities ##
 
