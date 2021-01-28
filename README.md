@@ -61,6 +61,7 @@ us today!
   * [Talks](#talks)
 * [Programming Frameworks and Libraries](#programming-frameworks-and-libraries)
 * [Tools](#tools)
+  * [Narrative Design](#narrative-design)
 * [Utilities](#utilities)
 
 ## Assorted Assets ##
@@ -772,8 +773,10 @@ an engine would.
   etc. Implemented in Pascal. [zlib][394].
 
 ## Tools ##
-
 Game development tools, development environments and similar programs.
+
+### Narrative Design ###
+Tools for building complex, branching narratives for games.
 
 * [RapidQuest][430] - A free web-based tool for visual design of game quests.
 
