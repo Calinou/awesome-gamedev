@@ -775,7 +775,7 @@ an engine would.
 
 Game development tools, development environments and similar programs.
 
-* [RapidQuest] - A free web-based tool for visual design of game quests.
+* [RapidQuest][430] - A free web-based tool for visual design of game quests.
 
 ## Utilities ##
 
@@ -1221,3 +1221,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
+[430]: https://rapidquest.ai
