@@ -203,6 +203,7 @@ These are full-blown game engines.
   engine. [GNU GPLv2][14] or later.
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
+* [kengine](https://github.com/phisko/kengine) - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity. [MIT]
 * [KivEnt][307] - Implemented in Python. [Expat][11].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [litiengine][417] - Implemented in Java, Designed for 2D games. [MIT][403]
@@ -746,6 +747,9 @@ an engine would.
   ECMAScript. [Expat][11].
 * [Polycode][120] - Framework for games and interactive
   applications. Implemented in C++. Has Lua bindings. [Expat][11].
+* [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions. [MIT]
+* [putils_meta](https://github.com/phisko/meta/) - Phisko's metaprogramming utilities. Collection of type traits and compile-time helpers. [MIT]
+* [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system. [MIT]
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick
   up. Implemented in Python. [Expat][11].
 * [PyGame][106] - A set of modules designed for writing games. Implemented in
