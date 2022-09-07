@@ -203,7 +203,8 @@ These are full-blown game engines.
   engine. [GNU GPLv2][14] or later.
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
-* [kengine](https://github.com/phisko/kengine) - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity. [MIT]
+* [JNGL][430] - Implemented in C++. Designed for 2D games. [zlib][45].
+* [kengine](https://github.com/phisko/kengine) - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity. [MIT][403]
 * [KivEnt][307] - Implemented in Python. [Expat][11].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [litiengine][417] - Implemented in Java, Designed for 2D games. [MIT][403]
@@ -1218,3 +1219,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
+[430]: https://github.com/jhasse/jngl
