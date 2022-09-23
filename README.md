@@ -263,6 +263,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [Phaser][64] - [Expat][11].
 * [PlayCanvas][65] - [Expat][11].
 * [PuzzleScript][362] - [Expat][11].
+* [Sprig][431] - MIT[403].
 * [Superpowers][357] - [ISC][358].
 
 ### Physics ###
@@ -1220,3 +1221,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [428]: http://noiz2sa.sourceforge.net/
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
 [430]: https://github.com/jhasse/jngl
+[431]: https://github.com/hackclub/sprig
