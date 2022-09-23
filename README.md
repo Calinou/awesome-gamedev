@@ -263,7 +263,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [Phaser][64] - [Expat][11].
 * [PlayCanvas][65] - [Expat][11].
 * [PuzzleScript][362] - [Expat][11].
-* [Sprig][431] - MIT[403].
+* [Sprig][431] - [MIT][403].
 * [Superpowers][357] - [ISC][358].
 
 ### Physics ###
