@@ -188,6 +188,7 @@ These are full-blown game engines.
   later.
 * [Fluxus][137] - Implemented in C++. Designed for livecoding
   worlds. [GNU GPLv2][14] or later.
+* [Free Hero Mesh][432] - Implemented in C. Designed for turn-based grid-based 2D puzzle games. Public domain.
 * [gamekit][293] - Implemented in C++. Scripted using C++, Lua or logic blocks. [Expat][11].
 * [GamePlay][266] - Implemented in C++. [Apache2.0][20].
 * [GDevelop][60] - Implemented in C++. Targeted at non-programmers. [Expat][11]
@@ -1222,3 +1223,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
 [430]: https://github.com/jhasse/jngl
 [431]: https://github.com/hackclub/sprig
+[432]: https://github.com/zzo38/freeheromesh
