@@ -1224,5 +1224,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
 [430]: https://github.com/jhasse/jngl
 [431]: https://github.com/hackclub/sprig
-[432]: https://github.com/zzo38/freeheromesh[](url)
+[432]: https://github.com/zzo38/freeheromesh
 [433]: https://fna-xna.github.io/
