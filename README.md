@@ -712,7 +712,8 @@ an engine would.
   TypeScript. [Expat][11].
 * [Epoxy][381] - A library for handling OpenGL function pointer
   management. Implemented in C. [Expat][11].
-* [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries. Implemented in C#. [MS-PL][247]
+* [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
+  libraries. Implemented in C#. [MS-PL][247]
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
