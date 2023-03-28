@@ -246,7 +246,7 @@ for Action-RPGs. [GNU GPLv3][23] or later.
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
 * [Urho3D][122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat][11].
-* [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MsPL][247].
+* [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MS-PL][247].
 
 ### HTML5 ###
 
@@ -712,6 +712,8 @@ an engine would.
   TypeScript. [Expat][11].
 * [Epoxy][381] - A library for handling OpenGL function pointer
   management. Implemented in C. [Expat][11].
+* [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
+  libraries. Implemented in C#. [MS-PL][247]
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
@@ -1224,3 +1226,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [430]: https://github.com/jhasse/jngl
 [431]: https://github.com/hackclub/sprig
 [432]: https://github.com/zzo38/freeheromesh
+[433]: https://fna-xna.github.io/
