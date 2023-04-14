@@ -470,6 +470,7 @@ This is a section for everything else that doesn't fit in some other graphics ca
   subjects. [CC-BY-3.0][5].
 * [mocapdata.com][298] - A library of motion capture data. Various licenses,
   including free ones.
+* [Poly Pizza][434] - Thousands of free low poly 3D models licensed under [CC0][289] and [CC-BY-3.0][5]
 * [Yobi3D][13] - A search engine for 3D models that aims to display license
   information when possible. Various licenses, including free ones.
 
@@ -1227,3 +1228,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [431]: https://github.com/hackclub/sprig
 [432]: https://github.com/zzo38/freeheromesh
 [433]: https://fna-xna.github.io/
+[434]: https://poly.pizza
