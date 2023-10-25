@@ -789,6 +789,8 @@ This is a catch-all category for things that don't fit anywhere else.
   range of bindings. [3-clause BSD][29].
 * [Easel.js][265] - Provides a range of tools to make working with the HTML5
   Canvas API easier. Implemented in ECMAScript. [Expat][11].
+* [EnginesDatabase.com][435] - A crowd-sourced database website of Game 
+  Engines and free (as in freedom) games for each engine.
 * [Gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine
   and post-processor. [GNU GPLv2][14] or later.
 * [libcaca][114] - An ASCII graphics rendering library for terminal-based
@@ -1229,3 +1231,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [432]: https://github.com/zzo38/freeheromesh
 [433]: https://fna-xna.github.io/
 [434]: https://poly.pizza
+[435]: https://enginesdatabase.com
