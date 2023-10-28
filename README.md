@@ -707,6 +707,7 @@ an engine would.
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45]
+* [DotRecast][436] - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#. [zlib][45].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript
   games. Implemented in ECMAScript. [Expat][11].
 * [EndGate][78] - A framework for building HTML5 games. Implemented in
@@ -1232,3 +1233,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [433]: https://fna-xna.github.io/
 [434]: https://poly.pizza
 [435]: https://enginesdatabase.com
+[436]: https://github.com/ikpil/DotRecast
