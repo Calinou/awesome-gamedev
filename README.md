@@ -716,6 +716,7 @@ an engine would.
   management. Implemented in C. [Expat][11].
 * [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
   libraries. Implemented in C#. [MS-PL][247]
+* [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403]
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
@@ -1234,3 +1235,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [434]: https://poly.pizza
 [435]: https://enginesdatabase.com
 [436]: https://github.com/ikpil/DotRecast
+[437]: https://github.com/FosterFramework/Foster
