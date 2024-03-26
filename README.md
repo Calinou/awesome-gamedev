@@ -278,6 +278,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
   rigid body dynamics. [Original BSD][118].
 * [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
 * [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
+* [Rapier][438] - Fast 2D and 3D physics engine for the Rust programming language. [Apache2.0][20]
 
 
 ## Math ##
@@ -1236,3 +1237,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [435]: https://enginesdatabase.com
 [436]: https://github.com/ikpil/DotRecast
 [437]: https://github.com/FosterFramework/Foster
+[438]: https://rapier.rs
