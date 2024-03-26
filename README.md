@@ -417,7 +417,7 @@ may be removed upon clarification.
   (code), [FALv1.3][222] (assets).
 * [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various
   CC (no NC or ND) (assets).
-* [Mindustry][439] - The automation tower defense RTS.  [GNU GPLv3][23]
+* [Mindustry][439] - The automation tower defense RTS. [GNU GPLv3][23]
 * [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D
   engine. [Expat][11] (code and assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code and assets).
