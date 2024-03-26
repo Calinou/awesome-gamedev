@@ -1208,7 +1208,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [402]: https://github.com/CedricGuillemet/ImGuizmo
 [403]: https://opensource.org/licenses/MIT
 [405]: https://github.com/FortAwesome/Font-Awesome/
-[406]: http://www.fatcow.com/free-icons
+[406]: https://github.com/gammasoft/fatcow
 [411]: https://github.com/nicodinh/kenney-icon-font/
 [412]: https://github.com/juliettef/IconFontCppHeaders
 [413]: https://gamesounds.xyz/
