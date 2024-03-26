@@ -420,6 +420,7 @@ may be removed upon clarification.
 * [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D
   engine. [Expat][11] (code and assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code and assets).
+* [Mindustry][439] - The automation tower defense RTS.  [GNU GPLv3][23]
 
 ### Other/Multiple ###
 
@@ -1238,3 +1239,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [436]: https://github.com/ikpil/DotRecast
 [437]: https://github.com/FosterFramework/Foster
 [438]: https://rapier.rs
+[439]: https://github.com/Anuken/Mindustry
