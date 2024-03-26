@@ -278,6 +278,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
   rigid body dynamics. [Original BSD][118].
 * [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
 * [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
+* [Rapier][438] - Fast 2D and 3D physics engine for the Rust programming language. [Apache2.0][20]
 
 
 ## Math ##
@@ -416,6 +417,7 @@ may be removed upon clarification.
   (code), [FALv1.3][222] (assets).
 * [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various
   CC (no NC or ND) (assets).
+* [Mindustry][439] - The automation tower defense RTS. [GNU GPLv3][23]
 * [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D
   engine. [Expat][11] (code and assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code and assets).
@@ -1236,3 +1238,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [435]: https://enginesdatabase.com
 [436]: https://github.com/ikpil/DotRecast
 [437]: https://github.com/FosterFramework/Foster
+[438]: https://rapier.rs
+[439]: https://github.com/Anuken/Mindustry
