@@ -1242,4 +1242,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [438]: https://rapier.rs
 [439]: https://github.com/Anuken/Mindustry
 [440]: https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md
-[441]: https://github.com/VBproDev/Canvascript/
+[441]: https://github.com/VBproDev/Canvascript
