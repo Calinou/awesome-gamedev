@@ -523,8 +523,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
   files. [Expat][11].
 
 ### Editors ###
-
 * [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14] or later.
+* [Canvascript][441] - A tool for creating HTML canvas graphics without writing code. [GNU GPLv3][23] or later.
 * [GIMP][22] - The GNU Image Manipulation Program. Designed for photo
   retouching, image composition and similar tasks. [GNU GPLv3][23] or later.
 * [GrafX2][310] - A bitmap paint program specialized for 256-color
@@ -716,6 +716,7 @@ an engine would.
   TypeScript. [Expat][11].
 * [Epoxy][381] - A library for handling OpenGL function pointer
   management. Implemented in C. [Expat][11].
+* [Friflo.Engine.ECS][440] - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
   libraries. Implemented in C#. [MS-PL][247]
 * [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403]
@@ -1240,3 +1241,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [437]: https://github.com/FosterFramework/Foster
 [438]: https://rapier.rs
 [439]: https://github.com/Anuken/Mindustry
+[440]: https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md
+[441]: https://github.com/VBproDev/Canvascript
