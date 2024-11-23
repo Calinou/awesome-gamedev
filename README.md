@@ -418,6 +418,7 @@ may be removed upon clarification.
 * [Newton Adventure][220] - A puzzle game. [3-clause BSD][29] (code), various
   CC (no NC or ND) (assets).
 * [Mindustry][439] - The automation tower defense RTS. [GNU GPLv3][23]
+* [Unciv][442] - Open source, moddability-focused Android and Desktop remake of Civ V [MPLv2][166]
 * [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D
   engine. [Expat][11] (code and assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code and assets).
@@ -1243,3 +1244,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [439]: https://github.com/Anuken/Mindustry
 [440]: https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md
 [441]: https://github.com/VBproDev/Canvascript
+[442]: https://github.com/yairm210/Unciv
