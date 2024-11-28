@@ -421,7 +421,7 @@ may be removed upon clarification.
 * [PuzzleGame][257] - A slider puzzle game. Uses Android port of Cocos2D
   engine. [Expat][11] (code and assets).
 * [Terasology][230] - A 3D voxel world game. [Apache2.0][20] (code and assets).
-* [Unciv][442] - Open source, moddability-focused Android and Desktop remake of Civ V [MPLv2][166]
+* [Unciv][442] - Open source, moddability-focused Android and Desktop remake of Civ V. [MPLv2][166].
 
 ### Other/Multiple ###
 
