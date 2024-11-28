@@ -1104,7 +1104,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [287]: https://www.jamendo.com/
 [288]: https://openclipart.org/
 [289]: https://creativecommons.org/publicdomain/zero/1.0/
-[290]: https://github.com/grumdrig/jsfxr
+[290]: https://github.com/chr15m/jsfxr
 [291]: https://github.com/google/material-design-icons
 [292]: http://castle-engine.sourceforge.net/
 [293]: https://github.com/gamekit-developers/gamekit
