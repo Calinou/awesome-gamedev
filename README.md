@@ -269,14 +269,23 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 ### Physics ###
 
+3D:
+
 * [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
-* [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
-* [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
-* [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate
   rigid body dynamics. [Original BSD][118].
 * [Oimo.js][272] - Implemented in ECMAScript. [Expat][11].
+
+2D:
+
+* [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
+* [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented
+  in C. [Expat][11].
+* [ChipmunkSharp][73] - Advanced physics engine library based on
+  Chipmunk. Implemented in C#. [Expat][11].
+* [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
+* [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [Physics.js][274] - Implemented in ECMAScript. [Expat][11].
 * [Rapier][438] - Fast 2D and 3D physics engine for the Rust programming language. [Apache2.0][20]
 
@@ -699,10 +708,6 @@ an engine would.
 * [Bacon2D][72] - A framework to ease 2D game development, providing QML
   elements representing basic game entities. Implemented in C++. [Expat][11].
 * [bgfx][261] - A 'build-your-own-engine' rendering library. [FreeBSD][17].
-* [Chipmunk2D][74] - A fast and lightweight 2D game physics library. Implemented
-  in C. [Expat][11].
-* [ChipmunkSharp][73] - Advanced physics engine library based on
-  Chipmunk. Implemented in C#. [Expat][11].
 * [Cinder][113] - A community-developed library for creative
   coding. Implemented in C++. [FreeBSD][17].
 * [ClanLib][131] - A cross-platform toolkit with a primary focus on game
