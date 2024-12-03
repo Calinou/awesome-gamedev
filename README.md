@@ -578,6 +578,13 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Sproxel][28] - A 3D interface for quickly editing and creating voxel-based 3D
   models. [3-clause BSD][29].
 
+
+### GPU Performance and Debugging ###
+
+* [Render Doc][443] - Graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, or Nintendo Switch™. [MIT][403].
+* [NVTOP][444] - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm. [GNU GPLv3][23].
+* [RadeonTop][445] - View your GPU utilization, both for the total activity percent and individual blocks. [GNU GPLv3][23].
+
 ## Learning Resources ##
 
 These are all collections of information to help you learn about things that
@@ -1245,3 +1252,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [440]: https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md
 [441]: https://github.com/VBproDev/Canvascript
 [442]: https://github.com/yairm210/Unciv
+[443]: https://renderdoc.org/
+[444]: https://github.com/Syllo/nvtop
+[445]: https://github.com/clbr/radeontop
