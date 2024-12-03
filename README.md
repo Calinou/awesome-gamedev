@@ -503,6 +503,11 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Tango Icon Library][300] - An icon set project with a goal to create a
   consistent user interface. Public domain.
 
+### UI Prompts / Glyphs ###
+
+* [Controller & Kerboard Prompts](https://thoseawesomeguys.com/prompts/) - UI Prompts for Keyboard and Mouse, and most controllers (Playstation, Xbox, SteamDeck, Wii, etc...). [CC0][289].
+
+
 ### Sprites ###
 
 * [LPC Spritesheet Character Generator][395] - A pixel-art RPG-style character spritesheet generator. Arts are dual licensed : [GNU GPLv3][23] and [CC-BY-SA3][127]
