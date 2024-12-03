@@ -90,7 +90,7 @@ This contains collections of miscellaneous assets of different kinds.
   module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 * [MuseScore][422] - A music notation program capable of generating engraved scores and audio and MIDI files. [GNU GPLv2][14] or later.
-* [rFXGen][391] -  a tool to generate sound waves procedurally. [zlib][45].
+* [rFXGen][391] - A tool to generate sound waves procedurally. [zlib][45].
 
 ### General ###
 
