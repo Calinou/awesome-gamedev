@@ -90,7 +90,7 @@ This contains collections of miscellaneous assets of different kinds.
   module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 * [MuseScore][422] - A music notation program capable of generating engraved scores and audio and MIDI files. [GNU GPLv2][14] or later.
-* [rFXGen][391] -  a tool to generate sound waves procedurally. [zlib][45]
+* [rFXGen][391] -  a tool to generate sound waves procedurally. [zlib][45].
 
 ### General ###
 
@@ -231,7 +231,7 @@ These are full-blown game engines.
   or later.
 * [Ren'Py][107] - Implemented in Python. Designed for visual
   novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
-* [SGE][387] - Implemented in Python. Designed for 2-D games. [GNU GPLv3][23]
+* [SGE][387] - Implemented in Python. Designed for 2-D games. [GNU GPLv3][23].
 * [SLUDGE][56] - Implemented in C++. Has its own scripting
   language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
 * [Sly][344] - Implemented in Guile. Uses functional reactive
@@ -496,7 +496,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
   icons. Available in SVG or PNG. [CC-BY-3.0][5].
-* [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45]
+* [IconFontCppHeaders][412] - C and C++ headers for icon fonts [Font Awesome][405], [Material Design Icons][291] and [Kenney Game Icons][411]. [zlib][45].
 * [Kenney Game Icons][411] - A font pack specifically designed for (browser) games and other gaming related websites/projects. [CC0][289].
 * [Material Design Icons][291] - An official icon set from Google following
   specific guidelines. [Apache2.0][20].
@@ -510,7 +510,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Sprites ###
 
-* [LPC Spritesheet Character Generator][395] - A pixel-art RPG-style character spritesheet generator. Arts are dual licensed : [GNU GPLv3][23] and [CC-BY-SA3][127]
+* [LPC Spritesheet Character Generator][395] - A pixel-art RPG-style character spritesheet generator. Arts are dual licensed : [GNU GPLv3][23] and [CC-BY-SA3][127].
 * [SpriteLib][8] - A big collection of sprites. Available in PNG. [CPL 1.0][9].
 
 ## Graphics Tools ##
@@ -721,7 +721,7 @@ an engine would.
   creation. Implemented in C++. ([git][132]). [zlib][45].
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
-* [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45]
+* [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45].
 * [DotRecast][436] - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#. [zlib][45].
 * [enchant.js][65] - A framework for developing simple HTML5 + ECMAScript
   games. Implemented in ECMAScript. [Expat][11].
@@ -732,20 +732,20 @@ an engine would.
 * [Friflo.Engine.ECS][440] - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
   libraries. Implemented in C#. [MS-PL][247]
-* [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403]
+* [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403].
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
   licenses, all free.
 * [Gladiator3D][267] - A raycasting engine. Implemented in
   ECMAScript. [Expat][11].
-* [GLFW][401] - A multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. [zlib][45]
+* [GLFW][401] - A multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. [zlib][45].
 * [HaxeFlixel][79] - A cross-platform development framework, supporting many
   targets. Implemented in Haxe. [Expat][11].
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
-* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403]
-* [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduct network latency. [MIT][403]
+* [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403].
+* [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduct network latency. [MIT][403].
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
@@ -760,10 +760,10 @@ an engine would.
   ECMAScript. [Apache 2.0][71].
 * [LoomSDK][88] - A very large and powerful framework for cross-platform 2D
   game development. Implemented in C++. [Apache 2.0][71].
-* [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45]
+* [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
   .
 * [LuaStudio][415] - A cross-platform framework/development tool for
-  making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45]
+  making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
@@ -771,9 +771,9 @@ an engine would.
   ECMAScript. [Expat][11].
 * [Polycode][120] - Framework for games and interactive
   applications. Implemented in C++. Has Lua bindings. [Expat][11].
-* [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions. [MIT]
-* [putils_meta](https://github.com/phisko/meta/) - Phisko's metaprogramming utilities. Collection of type traits and compile-time helpers. [MIT]
-* [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system. [MIT]
+* [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions. [MIT].
+* [putils_meta](https://github.com/phisko/meta/) - Phisko's metaprogramming utilities. Collection of type traits and compile-time helpers. [MIT].
+* [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system. [MIT].
 * [PyDark][95] - Game framework on top of PyGame; designed to be easy to pick
   up. Implemented in Python. [Expat][11].
 * [PyGame][106] - A set of modules designed for writing games. Implemented in
