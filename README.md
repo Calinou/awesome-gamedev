@@ -761,7 +761,6 @@ an engine would.
 * [LoomSDK][88] - A very large and powerful framework for cross-platform 2D
   game development. Implemented in C++. [Apache 2.0][71].
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
-  .
 * [LuaStudio][415] - A cross-platform framework/development tool for
   making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
