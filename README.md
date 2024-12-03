@@ -505,7 +505,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### UI Prompts / Glyphs ###
 
-* [Controller & Kerboard Prompts](https://thoseawesomeguys.com/prompts/) - UI Prompts for Keyboard and Mouse, and most controllers (Playstation, Xbox, SteamDeck, Wii, etc...). [CC0][289].
+* [Controller & Keyboard Prompts](https://thoseawesomeguys.com/prompts/) - UI Prompts for Keyboard and Mouse, and most controllers (PlayStation, Xbox, Steam Deck, Wii, etc...). [CC0][289].
 
 
 ### Sprites ###
