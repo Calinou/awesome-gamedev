@@ -581,7 +581,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### GPU Performance and Debugging ###
 
-* [Render Doc][443] - Graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, or Nintendo Switch™. [MIT][403].
+* [RenderDoc][443] - Graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, or Nintendo Switch™. [MIT][403].
 * [NVTOP][444] - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm. [GNU GPLv3][23].
 * [RadeonTop][445] - View your GPU utilization, both for the total activity percent and individual blocks. [GNU GPLv3][23].
 
