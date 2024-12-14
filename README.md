@@ -369,6 +369,10 @@ may be removed upon clarification.
 * [Noiz2sa][428] - A classical vertical arcade shooter with an abstract theme and
   matching electronic music. [2-clause BSD][49] (code), no significant assets.
 
+
+### C# ###
+* [osu!](446) - A free-to-win rhythm game. Rhythm is just a click away! [MIT][403].
+
 ### CoffeeScript ###
 
 * [coffee-snake][339] - A version of Snake. [GNU GPLv3][23] or later (code),
@@ -1259,3 +1263,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [443]: https://renderdoc.org/
 [444]: https://github.com/Syllo/nvtop
 [445]: https://github.com/clbr/radeontop
+[446]: https://github.com/ppy/osu
