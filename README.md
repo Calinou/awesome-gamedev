@@ -272,6 +272,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
+* [Jolt][447] - Implemented in C++. A multi core friendly rigid body physics and collision detection library. Suitable for games and VR applications. Used by Horizon Forbidden West. [Expat][11]
 * [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate
@@ -739,6 +740,7 @@ an engine would.
 * [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403].
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
+* [Geometric Tools][449] - A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics. Implemented in C++. [BSL][450].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
   licenses, all free.
 * [Gladiator3D][267] - A raycasting engine. Implemented in
@@ -785,6 +787,7 @@ an engine would.
   development. Implemented in C++. [GNU LGPLv2][102] or later.
 * [raylib][390] - Low-level library designed to learn videogames programming.
   Implemented in C, but has Lua and Go bindings. [zlib][45]
+* [Recast Navigation][448] - State-of-the-art navmesh generation and navigation for games. [zlib][45]
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating
   windows, accepting user input, and so forth. Implemented in C. [zlib][45].
 * [SFML][109] - Simple and Fast Multimedia Library; a multi-platform,
@@ -810,7 +813,7 @@ This is a catch-all category for things that don't fit anywhere else.
   range of bindings. [3-clause BSD][29].
 * [Easel.js][265] - Provides a range of tools to make working with the HTML5
   Canvas API easier. Implemented in ECMAScript. [Expat][11].
-* [EnginesDatabase.com][435] - A crowd-sourced database website of Game 
+* [EnginesDatabase.com][435] - A crowd-sourced database website of Game
   Engines and free (as in freedom) games for each engine.
 * [Gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine
   and post-processor. [GNU GPLv2][14] or later.
@@ -1264,3 +1267,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [444]: https://github.com/Syllo/nvtop
 [445]: https://github.com/clbr/radeontop
 [446]: https://github.com/ppy/osu
+[447]: https://github.com/jrouwe/JoltPhysics
+[448]: https://github.com/recastnavigation/recastnavigation
+[449]: https://github.com/davideberly/GeometricTools
+[450]: https://directory.fsf.org/wiki/License:BSL-1.0
