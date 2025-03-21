@@ -168,6 +168,7 @@ These are full-blown game engines.
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
 * [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102] or later.
 * [Chili Source][262] - Implemented in C++. [Expat][11].
+* [Cute Framework][451] - Implemented in C/C++. [zlib][45].
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
@@ -1271,3 +1272,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [448]: https://github.com/recastnavigation/recastnavigation
 [449]: https://github.com/davideberly/GeometricTools
 [450]: https://directory.fsf.org/wiki/License:BSL-1.0
+[451]: https://github.com/RandyGaul/cute_framework
