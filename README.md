@@ -463,6 +463,7 @@ may be removed upon clarification.
   game. [GNU GPLv3][23] or later (code), various free culture licenses (assets).
 * [Unknown Horizons][245] - A real-time strategy simulation
   game. [GNU GPLv2][14] or later (code), [CC-BY-SA-3.0][127] (assets).
+- [Quidditch RPG](https://github.com/rishitnanda/Quidditch) - Multiplayer web-based Quidditch game with real-time chat, player roles, and command based events.
 
 ## Graphics ##
 
