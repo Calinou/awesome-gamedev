@@ -83,6 +83,8 @@ This contains collections of miscellaneous assets of different kinds.
   later.
 * [Beast][133] - Music composition and modular synthesis
   software. [GNU LGPLv3][38] or later.
+* [Bosca Ceoil Blue][453] - A beginner-friendly music making app. [MIT][403]
+* [Glasan-FX][454] - A tiny sound effect generator. [MIT][403]
 * [Hydrogen][366] - An advanced drum machine, with a free drum kit
   included. [GNU GPLv2][14] or later.
 * [LMMS][142] - A digital audio workstation. [GNU GPLv2][14] or later.
@@ -1230,7 +1232,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [400]: https://github.com/ocornut/imgui
 [401]: http://www.glfw.org/
 [402]: https://github.com/CedricGuillemet/ImGuizmo
-[403]: https://opensource.org/licenses/MIT
+[403]: https://opensource.org/license/MIT
 [405]: https://github.com/FortAwesome/Font-Awesome/
 [406]: https://github.com/gammasoft/fatcow
 [411]: https://github.com/nicodinh/kenney-icon-font/
@@ -1275,3 +1277,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [450]: https://directory.fsf.org/wiki/License:BSL-1.0
 [451]: https://github.com/RandyGaul/cute_framework
 [452]: https://github.com/ikpil/Box2D.NET
+[453]: https://github.com/YuriSizov/boscaceoil-blue
+[454]: https://github.com/YuriSizov/glasan-fx
