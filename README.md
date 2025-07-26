@@ -29,7 +29,7 @@ us today!
 * [Fonts](#fonts)
 * [Games](#games)
   * [C](#c)
-  * [C++](#c)
+  * [C++](#c-1)
   * [C#](#c-2)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
