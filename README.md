@@ -924,7 +924,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [83]: http://helm-engine.org/
 [84]: https://github.com/LambdaHack/LambdaHack
 [85]: https://bandcamp.com/tag/creative-commons
-[86]: http://libgdx.badlogicgames.com/
+[86]: https://libgdx.com
 [87]: http://www.limejs.com/
 [88]: http://loomsdk.com/
 [89]: http://lycheejs.org/index.html
