@@ -167,6 +167,7 @@ These are full-blown game engines.
 * [AnKi 3D][369] - Implemented in C++. [3-clause BSD][29].
 * [Arianne][372] - Implemented in Java. Includes a multiplayer game
   framework. [GNU GPLv2][14] only.
+* [Apex-Engine][455] – An early-stage game engine, packed with planned features and open to contributors. [GNU GPLv3][14].
 * [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
@@ -1281,3 +1282,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [452]: https://github.com/ikpil/Box2D.NET
 [453]: https://github.com/YuriSizov/boscaceoil-blue
 [454]: https://github.com/YuriSizov/glasan-fx
+[455]: https://github.com/SpaceNinja-007/Apex-Engine
