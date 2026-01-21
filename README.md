@@ -167,7 +167,6 @@ These are full-blown game engines.
 * [AnKi 3D][369] - Implemented in C++. [3-clause BSD][29].
 * [Arianne][372] - Implemented in Java. Includes a multiplayer game
   framework. [GNU GPLv2][14] only.
-* [Azul3D][112] - Implemented in Go. [3-clause BSD][29].
 * [Backbone][161] - Implemented in ECMAScript. [Expat][11].
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
 * [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102] or later.
@@ -950,7 +949,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [109]: http://www.sfml-dev.org/index.php
 [110]: http://www.sfml-dev.org/download/bindings.php
 [111]: https://schteppe.github.io/p2.js/
-[112]: http://azul3d.org/
 [113]: http://libcinder.org/
 [114]: https://github.com/cacalabs/libcaca
 [115]: http://www.horde3d.org/
