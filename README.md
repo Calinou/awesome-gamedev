@@ -739,7 +739,7 @@ an engine would.
   TypeScript. [Expat][11].
 * [Epoxy][381] - A library for handling OpenGL function pointer
   management. Implemented in C. [Expat][11].
-* [Friflo.Engine.ECS][440] - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+* [friflo ECS][440] - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
   libraries. Implemented in C#. [MS-PL][247]
 * [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403].
@@ -1264,7 +1264,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [437]: https://github.com/FosterFramework/Foster
 [438]: https://rapier.rs
 [439]: https://github.com/Anuken/Mindustry
-[440]: https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md
+[440]: https://github.com/friflo/Friflo.Engine.ECS
 [441]: https://github.com/VBproDev/Canvascript
 [442]: https://github.com/yairm210/Unciv
 [443]: https://renderdoc.org/
