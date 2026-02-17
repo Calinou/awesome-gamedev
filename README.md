@@ -499,6 +499,11 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Vecteezy][12] - A collection of vector art. Various Creative Commons licenses.
 * [ZipUp Free Game Elements][363] - A collection of various graphical
   elements. Custom attribution license, free.
+* [PolyScann][455] - A collection of free CC0 PBR textures and 3D models.
+
+
+
+  
 
 ### Icons ###
 
@@ -1279,3 +1284,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [452]: https://github.com/ikpil/Box2D.NET
 [453]: https://github.com/YuriSizov/boscaceoil-blue
 [454]: https://github.com/YuriSizov/glasan-fx
+[455]: https://polyscann.com
