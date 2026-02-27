@@ -557,7 +557,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [NormalMapOnline][40] - An online normal-mapping tool. [Expat][11].
 * [Overlap2D][19] - An engine-agnostic game level and UI editor. [Apache2.0][20].
 * [Pixelorama][418] - 2D pixel art editor with animation support. [Expat][11].
-* [QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor) - Qt-based editor for viewing and editing Ogre3D meshes, materials and skeletons. [MIT][403].
+* [QtMeshEditor][455] - Qt-based editor for viewing and editing Ogre3D meshes, materials and skeletons. [MIT][403].
 * [Synfig Studio][104] - 2D animation software. [GNU GPLv2][14] or later.
 * [Tiled][21] - Easy-to-use and flexible tile map editor. [GNU GPLv2][14] or
   later and [FreeBSD][17].
@@ -1280,3 +1280,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [452]: https://github.com/ikpil/Box2D.NET
 [453]: https://github.com/YuriSizov/boscaceoil-blue
 [454]: https://github.com/YuriSizov/glasan-fx
+[455]: https://github.com/fernandotonon/QtMeshEditor
