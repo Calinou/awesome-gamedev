@@ -1281,3 +1281,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [453]: https://github.com/YuriSizov/boscaceoil-blue
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
+
+- [GOOM](https://www.goom.space) - Mars Migration Queue — a unique social experiment with transferable queue positions.
