@@ -801,6 +801,7 @@ an engine would.
   in C++. Has a [range of bindings][110]. [3-clause BSD][29].
 * [Slick2D][322] - A set of tools to make 2D game development
   easier. Implemented in Java. [3-clause BSD][29].
+* [steamworks-ffi-node][456] - A Node.js wrapper for Steamworks SDK. [MIT][403].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in
   ECMAScript. [Expat][11].
 * [Tracy][420] - C++ frame profiler. [3-clause BSD][29].
@@ -1281,3 +1282,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [453]: https://github.com/YuriSizov/boscaceoil-blue
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
+[456]: https://github.com/ArtyProf/steamworks-ffi-node
