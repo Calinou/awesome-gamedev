@@ -326,6 +326,9 @@ may be removed upon clarification.
 * [Turtle Arena][204] - Third-person action game. [GNU GPLv3][23] or later
   (code), various free culture licenses (assets).
 * [Wizznic][219] - A puzzle game. [GNU GPLv3][23] or later (code and assets).
+* [Legend of Elya][900] - World's first LLM on Nintendo 64. 819K-parameter
+  nano-GPT transformer running live inference on the MIPS R4300i at 60 tok/s.
+  A Zelda-style dungeon crawler with AI NPCs. [Expat][11] (code and assets).
 
 ### C++ ###
 
@@ -1283,3 +1286,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
+[900]: https://github.com/Scottcjn/legend-of-elya-n64
