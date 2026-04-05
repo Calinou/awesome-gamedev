@@ -453,6 +453,7 @@ may be removed upon clarification.
 * [Zero-K][249] - An RTS game. Uses Spring engine. [GNU GPLv2][14] or later
   (code and assets).
 * [Haskell Games][429] - An index of Games written in Haskell. Various licenses.
+* [Legends of Future Past][500] - A resurrected 1992 commercial MUD with combat, magic, crafting, and 2000+ rooms. Go + React + WebSocket. [Expat][11] (code and assets).
 
 ### Python ###
 
@@ -1283,3 +1284,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
+[500]: https://github.com/jonradoff/lofp
