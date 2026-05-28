@@ -1,5 +1,5 @@
 # Awesome Gamedev #
-
+# Desarrollo de videojuegos
 A curated list of good stuff related to the development of games. This list
 contains *only* [free software][1] for code, sellers who aren't evil for
 physical resources, and [free cultural works][2] for assets.
