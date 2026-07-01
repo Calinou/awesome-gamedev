@@ -824,6 +824,9 @@ This is a catch-all category for things that don't fit anywhere else.
   Engines and free (as in freedom) games for each engine.
 * [Gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine
   and post-processor. [GNU GPLv2][14] or later.
+* [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server
+  connecting AI agents to the Godot Editor and runtime (Godot 4.x,
+  C#). [Apache2.0][20].
 * [libcaca][114] - An ASCII graphics rendering library for terminal-based
   interfaces. [WTFPLv2][169].
 * [libnoise][101] - A portable coherent noise-generation library. Implemented
@@ -837,6 +840,9 @@ This is a catch-all category for things that don't fit anywhere else.
 * [TrenchBroom][370] - A cross-platform level editor for Quake-engine-based
   games. Currently supports Quake, Quake 2 and Hexen 2 engine-based
   games. [GNU GPLv3][23] or later.
+* [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server
+  connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the
+  Unity Editor and runtime, with 100+ built-in tools. [Apache2.0][20].
 * [WorldForge][135] - Provides everything needed to create your own free
   software MMORPG. [GNU GPLv3][23] or later (or a compatible license).
 
