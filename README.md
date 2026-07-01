@@ -824,6 +824,8 @@ This is a catch-all category for things that don't fit anywhere else.
   Engines and free (as in freedom) games for each engine.
 * [Gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine
   and post-processor. [GNU GPLv2][14] or later.
+* [Godot-MCP][457] - Open-source MCP server connecting AI agents to the Godot
+  Editor and runtime (Godot 4.x, C#). [Apache2.0][20].
 * [libcaca][114] - An ASCII graphics rendering library for terminal-based
   interfaces. [WTFPLv2][169].
 * [libnoise][101] - A portable coherent noise-generation library. Implemented
@@ -837,6 +839,11 @@ This is a catch-all category for things that don't fit anywhere else.
 * [TrenchBroom][370] - A cross-platform level editor for Quake-engine-based
   games. Currently supports Quake, Quake 2 and Hexen 2 engine-based
   games. [GNU GPLv3][23] or later.
+* [Unity-MCP][458] - Open-source MCP server connecting AI agents (Claude,
+  Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime,
+  with 100+ built-in tools. [Apache2.0][20].
+* [Unreal-MCP][459] - Open-source MCP server connecting AI agents to Unreal
+  Engine 5.7, editor and runtime (C++ plugin + .NET sidecar). [Apache2.0][20].
 * [WorldForge][135] - Provides everything needed to create your own free
   software MMORPG. [GNU GPLv3][23] or later (or a compatible license).
 
@@ -1283,3 +1290,6 @@ This is a catch-all category for things that don't fit anywhere else.
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
+[457]: https://github.com/IvanMurzak/Godot-MCP
+[458]: https://github.com/IvanMurzak/Unity-MCP
+[459]: https://github.com/IvanMurzak/Unreal-MCP
