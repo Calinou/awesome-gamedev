@@ -94,6 +94,7 @@ This contains collections of miscellaneous assets of different kinds.
   module files. [GNU GPLv3][23] or later.
 * [Musagi][35] - A large and sophisticated music editor. [Expat][11].
 * [MuseScore][422] - A music notation program capable of generating engraved scores and audio and MIDI files. [GNU GPLv2][14] or later.
+* [retro-sfx-gen][457] - A zero-dependency Python generator for procedural retro / chiptune game sound effects. [MIT][403]
 * [rFXGen][391] - A tool to generate sound waves procedurally. [zlib][45].
 
 ### General ###
@@ -1283,3 +1284,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
+[457]: https://github.com/PrayerT/retro-sfx-gen
