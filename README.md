@@ -276,6 +276,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
 * [Box2D.NET][452] - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers. [MIT][403].
+* [Box3D][457] - Box3D is a 3D physics engine for games. [MIT][403].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
 * [Jolt][447] - Implemented in C++. A multi core friendly rigid body physics and collision detection library. Suitable for games and VR applications. Used by Horizon Forbidden West. [Expat][11]
 * [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
@@ -1283,3 +1284,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [454]: https://github.com/YuriSizov/glasan-fx
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
+[457]: https://github.com/erincatto/box3d
