@@ -75,6 +75,7 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
+- [CrazyGames-Poki](https://crazygames-poki.com) - Play thousands of free browser games — action, puzzle, sports, and multiplayer. No download required; instant fun on ...
 
 ## Audio ##
 
