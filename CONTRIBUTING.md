@@ -45,6 +45,6 @@ Example:
 
 `[Shiny Library](#500) - A library that does XYZ. [MIT](403).`
 
-Append to new URL refeerence to end (be sure to match the link number):
+Append to new URL reference to end (be sure to match the link number):
 
 `[500]: https://example.com/ShinyLibrary`
