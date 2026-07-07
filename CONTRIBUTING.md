@@ -37,9 +37,9 @@ present continuous tense (i.e. 'adding' not 'added').
 
 Links / tools are added *alphabetically* within their respective category. 
 
-`[Title](ref#) - A short description. [Licence](ref#).`
+`[Title](ref#) - A short description. [License](ref#).`
 
-Don't use inline links. Use reference-style links. New URL's are added to the very bottom of the MD, with a sequential ID. Increase by 1 from the previous ID above it. 
+Don't use inline links; use reference-style links instead. New URLs are added to the very bottom of the Markdown file, with a sequential ID. Increase by 1 from the previous ID above it. 
 
 Example:
 
