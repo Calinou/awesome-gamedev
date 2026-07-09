@@ -75,7 +75,7 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
-- [PlayPokiGame](https://playpokigame.com) - Curated Poki-style mini games online — racing, shooting, casual, and puzzle titles. Fast loading, clean UI, play free...
+- [ArcadeGames](https://arcade-games.org) - Play classic and modern arcade games free in your browser — shooters, platformers, retro titles, and more. No downloa...
 
 ## Audio ##
 
