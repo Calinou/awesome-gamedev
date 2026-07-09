@@ -75,7 +75,7 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
-- [ArcadeGames](https://arcade-games.org) - Play classic and modern arcade games free in your browser — shooters, platformers, retro titles, and more. No downloa...
+- [Bleach vs Naruto](https://bleachvsnaruto.games) - Play Bleach vs Naruto fighting games online — anime battles, special moves, and fan-favorite characters. Free browser...
 
 ## Audio ##
 
