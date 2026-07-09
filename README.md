@@ -75,7 +75,7 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
-- [Bleach vs Naruto](https://bleachvsnaruto.games) - Play Bleach vs Naruto fighting games online — anime battles, special moves, and fan-favorite characters. Free browser...
+- [Color Block Jam](https://colorblockjam.games) - Play Color Block Jam puzzle games online — match colors, clear blocks, and beat challenging levels. Casual brain-teas...
 
 ## Audio ##
 
