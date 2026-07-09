@@ -74,9 +74,9 @@ This contains collections of miscellaneous assets of different kinds.
 * [Wikimedia Commons][97] - A collection of various assets of all kinds. Various
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
+- [SonicGames](https://sonicgames.org) - Play Sonic the Hedgehog games online — speed runs, classic platformers, and fan favorites. Free browser-based Sonic a...
   are clones of old games.
 
-- [Spranki](https://spranki.org) - Create beats and mix characters in Sprunki-style music games online. Drag-and-drop rhythm fun with quirky sounds — pl...
 ## Audio ##
 
 ### Editors ###
