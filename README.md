@@ -75,8 +75,8 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
-- [Subway Surfers Game](https://subwaysurfersgame.online) - Run, dodge, and surf the subway in this endless runner — collect coins, unlock characters, and chase high scores. Fre...
 
+- [Spranki](https://spranki.org) - Create beats and mix characters in Sprunki-style music games online. Drag-and-drop rhythm fun with quirky sounds — pl...
 ## Audio ##
 
 ### Editors ###
