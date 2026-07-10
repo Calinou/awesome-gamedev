@@ -75,8 +75,8 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
-- [Plinko Game](https://plinkogame.plus) - Drop the ball and watch it bounce through pegs in Plinko — casual arcade fun with satisfying physics. Play free onlin...
 
+- [Life Simulator](https://lifesimulator.net) - Live another life in browser-based life simulation games — make choices, build careers, and explore alternate paths. ...
 ## Audio ##
 
 ### Editors ###
