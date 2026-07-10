@@ -75,8 +75,8 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
+- [Level Devil](https://leveldevil.games) - Play Level Devil — the tricky platformer full of traps, trolls, and rage-inducing levels. Test your patience free in ...
 
-- [Life Simulator](https://lifesimulator.net) - Live another life in browser-based life simulation games — make choices, build careers, and explore alternate paths. ...
 ## Audio ##
 
 ### Editors ###
