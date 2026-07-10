@@ -75,6 +75,7 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC or free-er.
 * [Open Source Game Clones][392] - A collection of open source videogames that
   are clones of old games.
+- [FNFunkin](https://fnfunkin.org) - Play Friday Night Funkin rhythm battles online — hit notes, rap against rivals, and enjoy mods. Free browser-based FN...
 
 ## Audio ##
 
