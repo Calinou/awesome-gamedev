@@ -200,6 +200,7 @@ These are full-blown game engines.
 * [GNU FreeDink][47] - Implemented in C++. [GNU GPLv3][23] or later.
 * [Godot][51] - Implemented in C++. Has [its own scripting language][52]. [Expat][11].
 * [Gosu][318] - Implemented in C++. has a Ruby interface. [Expat][11].
+* [Hearth][458] - Implemented in TypeScript. Designed for 2D games. The editor can be controlled by AI coding agents through a CLI and an MCP server. [MIT][403].
 * [Helm][83] - Implemented in Haskell. [Expat][11].
 * [HERITAGE][123] - Implemented in ECMAScript. Designed for text adventure
   games. [GNU GPLv3][23] or later.
@@ -1285,3 +1286,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://github.com/echoo19/hearth
