@@ -175,6 +175,7 @@ These are full-blown game engines.
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
+* [Comet Engine][458] - Implemented in C++. Has AngelScript (C#-like) for scripting. Designed for 2D games. [Apache2.0][20].
 * [DarkPlaces][314] - Implemented in C. [GNU GPLv2][14] or later.
 * [delta3d][373] - Implemented in C++. Also useful for
   simulations. [GNU LGPLv2][102] or later.
@@ -1285,3 +1286,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://www.cometengine.org
