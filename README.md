@@ -731,6 +731,8 @@ an engine would.
   coding. Implemented in C++. [FreeBSD][17].
 * [ClanLib][131] - A cross-platform toolkit with a primary focus on game
   creation. Implemented in C++. ([git][132]). [zlib][45].
+* [Codename One][458] - A cross-platform Java framework with beta game APIs and
+  a visual Game Builder for 2D and 3D games. [GNU GPLv2][14] with Classpath Exception.
 * [CutJS][76] - A lightweight and fast 2D HTML5 rendering engine for
   cross-platform game development. Implemented in ECMAScript. [Expat][11].
 * [Dear ImGui][400] - An Immediate Mode Graphical User interface for C++ with minimal dependencies. [zlib][45].
@@ -1285,3 +1287,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://github.com/codenameone/CodenameOne
