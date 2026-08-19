@@ -579,6 +579,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27]
   or later.
+* [Tilesmith][458] - A Godot 4 editor addon that batch-builds TileSets from folders
+  of images, skipping blank cells and baking convex collision shapes. [Expat][11].
 
 ### Texture Tools ###
 
@@ -1285,3 +1287,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://github.com/DJsluxx/godot-tilesmith
