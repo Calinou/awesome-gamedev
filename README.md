@@ -778,6 +778,7 @@ an engine would.
   making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
+ * [NixieFX][458] - An open-source particle effects runtime for HTML5 games, with renderer adapters for Three.js and PixiJS. Implemented in TypeScript. [MIT][23].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [pixi.js][275] - A 2D rendering engine. Implemented in
   ECMAScript. [Expat][11].
@@ -1285,3 +1286,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://github.com/azakhary/nixie-fx
