@@ -262,6 +262,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
 * [Crafty.js][68] - [Expat][11].
 * [Cube][168] - Designed for voxel games. [WTFPLv2][169].
+* [Excalibur.js][458] - [2-clause BSD][49].
 * [kiwi.js][269] - [Expat][11].
 * [melonJS][93] - [Expat][11].
 * [panda.js][273] - [Expat][11].
@@ -1285,3 +1286,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+[458]: https://excaliburjs.com/
