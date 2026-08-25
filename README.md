@@ -131,6 +131,7 @@ This contains collections of miscellaneous assets of different kinds.
   game. [CC-BY-4.0][136].
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various
   licenses, all CC.
+* [BudgetPixel SFX](https://budgetpixel.com/sfx) - Royalty-free SFX for videos, games and podcasts, free sfx generation. 
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
 * [sfxr-sdl][321] - A tool to generate sounds. [Expat][11].
