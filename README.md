@@ -746,6 +746,10 @@ an engine would.
 * [FNA][433] - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh
   libraries. Implemented in C#. [MS-PL][247]
 * [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403].
+* [GameFrameX][459] - A cross-engine game framework: Unity and Godot clients on
+  a single actor-model .NET server, sharing one Protobuf contract and LuBan
+  config pipeline. Ships with AI-agent instruction docs. Implemented in C#.
+  [GNU AGPLv3][27].
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
 * [Geometric Tools][449] - A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics. Implemented in C++. [BSL][450].
@@ -1287,3 +1291,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/GameFrameX/GameFrameX
