@@ -784,6 +784,7 @@ an engine would.
   ECMAScript. [Expat][11].
 * [Polycode][120] - Framework for games and interactive
   applications. Implemented in C++. Has Lua bindings. [Expat][11].
+* [poncelet](https://github.com/FelixMiddelhoff/poncelet) - A low-latency exterior/terminal-ballistics library for games, with a deterministic "BitExact" mode for rollback netcode. Implemented in C++, with a C ABI and bindings for Godot, Unity, Unreal, and raylib. [MIT].
 * [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions. [MIT].
 * [putils_meta](https://github.com/phisko/meta/) - Phisko's metaprogramming utilities. Collection of type traits and compile-time helpers. [MIT].
 * [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system. [MIT].
