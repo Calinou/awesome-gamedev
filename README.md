@@ -578,6 +578,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Spritesheet Tools ###
 
+* [image-grid-kit][459] - Zero-dependency library and CLI that works out the pixel rectangles for splitting an image into a grid and turns them into CSS sprite-sheet animations. [Expat][11].
 * [Piskel][15] - Online pixel art and animated sprite creator. [GNU AGPLv3][27]
   or later.
 
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/jessica7168295-ux/image-grid-kit
