@@ -583,6 +583,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Texture Tools ###
 
+* [Albedolizer][459] - Free PBR albedo checker and map generator for Windows. [MIT][403].
 * [AwesomeBump][141] - A program that generates normal, height, specular or
   ambient occlusion, roughness or metallic textures. Requires a graphics card
   with support for OpenGL4 or greater. [GNU LGPLv3][38] or later.
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/invisiblelevel/Albedolizer
