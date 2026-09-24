@@ -231,6 +231,8 @@ These are full-blown game engines.
   language. [GNU GPLv2][14] only.
 * [Processing.js][314] - Implemented in ECMAScript. Has its own scripting
   language. [Expat][11].
+* [Pyxel][459] - A retro game engine for Python with built-in editors for pixel
+  art, tilemaps, sound effects and music. [MIT][403].
 * [qfusion][206] - Implemented in C++. Designed for FPS games. [GNU GPLv2][14]
   or later.
 * [Ren'Py][107] - Implemented in Python. Designed for visual
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/kitao/pyxel
