@@ -68,6 +68,9 @@ us today!
 
 This contains collections of miscellaneous assets of different kinds.
 
+* [Free Game Dev Assets][459] - A catalog of game assets and tools with each
+  licence recorded from its source and dated. Various licenses, including free
+  ones; catalog metadata [CC0][289].
 * [Openclipart][288] - A giant collection of clip art. [CC0][289].
 * [OpenGameArt.org][7] - A large collection of art intended for game
   development. Various licenses, including free ones.
@@ -1287,3 +1290,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://tmhsdigital.github.io/Free-Game-Dev-Assets/
