@@ -105,6 +105,8 @@ This contains collections of miscellaneous assets of different kinds.
 
 ### Music ###
 
+* [BudgetPixel Background Music][459] - A library of AI-generated instrumental
+  tracks in WAV and MP3. [CC-BY-4.0][136].
 * [CC0 Music][385] - A collection of music. [CC0][289].
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses,
   all CC.
@@ -129,6 +131,8 @@ This contains collections of miscellaneous assets of different kinds.
 
 * [Audioaugust][341] - A collection of sound effects, originally used for a
   game. [CC-BY-4.0][136].
+* [BudgetPixel Sound Effects][460] - A library of AI-generated sound effects
+  in WAV and MP3. [CC-BY-4.0][136].
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various
   licenses, all CC.
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
@@ -1287,3 +1291,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://budgetpixel.com/background-music
+[460]: https://budgetpixel.com/sfx
