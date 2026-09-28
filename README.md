@@ -839,6 +839,9 @@ This is a catch-all category for things that don't fit anywhere else.
 * [TrenchBroom][370] - A cross-platform level editor for Quake-engine-based
   games. Currently supports Quake, Quake 2 and Hexen 2 engine-based
   games. [GNU GPLv3][23] or later.
+* [XCP][459] - Windows-to-Xbox Series X Developer Mode platform for building,
+  adapting, executing and verifying software on a physical console.
+  [Apache2.0][20].
 * [WorldForge][135] - Provides everything needed to create your own free
   software MMORPG. [GNU GPLv3][23] or later (or a compatible license).
 
@@ -1287,3 +1290,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/Daniele-Cangi/xcp-xbox
