@@ -779,6 +779,7 @@ an engine would.
   making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
+* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Run local LLMs on-device for AI NPC dialogue and game logic; embeddings, tool calling, structured output, and speech-to-text. Bindings for Godot, Flutter, React Native and Swift. [EUPL-1.2].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [pixi.js][275] - A 2D rendering engine. Implemented in
   ECMAScript. [Expat][11].
