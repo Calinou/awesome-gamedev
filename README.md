@@ -541,6 +541,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
   files. [Expat][11].
 
 ### Editors ###
+* [Baipix][459] - A pixel art editor in the browser, with clean SVG export. [Expat][11].
 * [Blender][25] - A 3D modelling and rendering editor. [GNU GPLv2][14] or later.
 * [Canvascript][441] - A tool for creating HTML canvas graphics without writing code. [GNU GPLv3][23] or later.
 * [GIMP][22] - The GNU Image Manipulation Program. Designed for photo
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://baipix.app/
