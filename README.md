@@ -835,6 +835,10 @@ This is a catch-all category for things that don't fit anywhere else.
 * [ScummVM][53] - A program which allows you to run certain classic graphical
   point-and-click adventure games, provided you already have their data
   files. [GNU GPLv2][14] or later.
+* [Tessera][459] - A library for the game assets you collect: keeps each pack
+  whole, records its license and where it came from, and copies assets into
+  Unity, Godot or Unreal with a credits file written from the record. [GNU
+  GPLv3][23] or later.
 * [Torsion][365] - A TorqueScript IDE. [Expat][11].
 * [TrenchBroom][370] - A cross-platform level editor for Quake-engine-based
   games. Currently supports Quake, Quake 2 and Hexen 2 engine-based
@@ -1287,3 +1291,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://tessera.rejowan.com
