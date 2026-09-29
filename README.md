@@ -488,6 +488,8 @@ This is a section for everything else that doesn't fit in some other graphics ca
 * [Poly Pizza][434] - Thousands of free low poly 3D models licensed under [CC0][289] and [CC-BY-3.0][5]
 * [Yobi3D][13] - A search engine for 3D models that aims to display license
   information when possible. Various licenses, including free ones.
+* [3DTexel][459] - Over 1,650 handmade PBR materials, HDRIs, decals, 3D models
+  and IES light profiles. Free account required to download. [CC0][289].
 
 ### Collections ###
 
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://3dtexel.com/free-library/
