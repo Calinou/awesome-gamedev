@@ -570,6 +570,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
   unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
 * [Dilay][364] - A 3D sculpting application that provides an intuitive workflow
   using a number of powerful modelling tools. [GNU GPLv3][23] or later.
+* [glb-diff][459] - A structural diff for glTF/GLB models that reports changes to
+  geometry, materials, textures, skeletons and animations. [Apache2.0][20].
 
 ### Procedural Generators ###
 
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/nirholas/glb-diff
