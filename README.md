@@ -236,6 +236,8 @@ These are full-blown game engines.
 * [Ren'Py][107] - Implemented in Python. Designed for visual
   novels. [Expat][11], with some parts under [GNU LGPLv3][38] only.
 * [SGE][387] - Implemented in Python. Designed for 2-D games. [GNU GPLv3][23].
+* [SleakEngine][459] - Implemented in C++. Renders through DirectX 11, DirectX 12,
+  OpenGL or Vulkan behind one interface. [Expat][11].
 * [SLUDGE][56] - Implemented in C++. Has its own scripting
   language. [GNU LGPLv3][38] only with the GTK Dev Kit [GNU GPLv3][23] or later.
 * [Sly][344] - Implemented in Guile. Uses functional reactive
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/CanReader/SleakEngine
