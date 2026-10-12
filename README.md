@@ -777,6 +777,8 @@ an engine would.
 * [LÖVE][90] - A framework for making 2D games. Implemented in Lua. [zlib][45].
 * [LuaStudio][415] - A cross-platform framework/development tool for
   making 2D/3D games. Lua/LuaJIT programming language based. [zlib][45].
+* [Mibo][459] - An Elmish (MVU) game framework with MonoGame and raylib-cs
+  backends. Implemented in F#. [zlib][45].
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/AngelMunoz/Mibo
