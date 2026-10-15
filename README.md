@@ -832,6 +832,8 @@ This is a catch-all category for things that don't fit anywhere else.
   in C++. [GNU LGPLv2][102] or later.
 * [PhysicsFS][99] - A library to provide abstract access to various
   archives. [zlib][45].
+* [PlayWeld][459] - An Eclipse Theia desktop workspace for game files, design
+  notes, project knowledge, and optional AI-assisted tasks. [Apache2.0][20].
 * [ScummVM][53] - A program which allows you to run certain classic graphical
   point-and-click adventure games, provided you already have their data
   files. [GNU GPLv2][14] or later.
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/scarecr0w12/PlayWeld
