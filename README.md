@@ -133,6 +133,8 @@ This contains collections of miscellaneous assets of different kinds.
   licenses, all CC.
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
 * [Opsound][70] - A collection of assorted sounds. [CC-BY-SA-3.0][127].
+* [SFXMint][459] - A collection of AI-generated and procedurally synthesized
+  sound effects for games and apps. [CC0][289].
 * [sfxr-sdl][321] - A tool to generate sounds. [Expat][11].
 * [SoundBible's Royalty-free section][32] - A collection of CC or
   public-domain-licensed sounds. Various licenses, all CC or public domain.
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://sfxmint.com/
