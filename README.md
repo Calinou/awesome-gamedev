@@ -589,6 +589,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 * [Material Maker][419] - Procedural texture generation tool for use with PBR engines. [Expat][11].
 * [NeoTextureEdit][37] - An easy-to-use, graph-based, procedural texture editor. No longer maintained.
   [GNU LGPLv3][38] or later.
+* [Sprite Fusion Sprite Normals][459] - Generate normal maps from pixel art sprites and animations. [MIT][403].
 * [TextureGeneratorOnline][39] - An online tool for texture generation. [Expat][11].
 
 ### Voxel Editors ###
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/Hugo-Dz/spritefusion-sprite-normals
