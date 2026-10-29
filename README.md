@@ -566,10 +566,13 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Mesh Tools ###
 
-* [MeshLabs][103] - A portable system for the processing and editing of
-  unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
 * [Dilay][364] - A 3D sculpting application that provides an intuitive workflow
   using a number of powerful modelling tools. [GNU GPLv3][23] or later.
+* [Mesh Check for Roblox][459] - A Blender add-on that checks meshes against
+  Roblox's import limits (triangle budgets, accessory sizes, UVs, bone
+  influences, cages) before export. [GNU GPLv3][23] or later.
+* [MeshLabs][103] - A portable system for the processing and editing of
+  unstructured 3D triangular meshes. [GNU GPLv2][14] or later.
 
 ### Procedural Generators ###
 
@@ -1287,3 +1290,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/2328312928-commits/blender-mesh-check-roblox
