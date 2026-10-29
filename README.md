@@ -129,6 +129,9 @@ This contains collections of miscellaneous assets of different kinds.
 
 * [Audioaugust][341] - A collection of sound effects, originally used for a
   game. [CC-BY-4.0][136].
+* [Crisp UI Sounds Free][459] - 20 UI sound effects (clicks, toggles, menus,
+  confirms, coins, rewards) in Ogg Vorbis, with a small Godot 4 player
+  script. [CC-BY-4.0][136] (script: [Expat][11]).
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various
   licenses, all CC.
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
@@ -504,6 +507,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Icons ###
 
+* [Crisp Icons Free][460] - 42 rounded game UI icons in white and dark, as
+  64 px PNG and SVG. [CC-BY-4.0][136] (helper script: [Expat][11]).
 * [FatCow][406] - A set of 3900 colour icons in 16x16 and 32x32 pixel format. [CC-BY-3.0][5].
 * [Font Awesome][405] - A large set of vector icons. [CC-BY-4.0][136].
 * [Game-icons.net][4] - A constantly-growing collection of black-and-white
@@ -1287,3 +1292,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/Anipixels/crisp-ui-sounds-free
+[460]: https://github.com/Anipixels/crisp-icons-free
