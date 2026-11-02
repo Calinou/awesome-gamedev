@@ -575,6 +575,9 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 * [SpaceshipGenerator][376] - A Blender script allowing generation of spaceships
   from a random seed and some parameters. [Expat][11].
+* [spritefx][459] - Generates pixel-art visual effects (explosions, smoke,
+  lightning, magic) from a JSON spec and exports palette-locked sprite sheets.
+  [MIT][403].
 
 ### Spritesheet Tools ###
 
@@ -1287,3 +1290,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/HoangLong256/spritefx
