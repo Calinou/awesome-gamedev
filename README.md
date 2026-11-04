@@ -523,6 +523,7 @@ This category contains any 'grab-bags' of different kinds of art assets.
 ### Sprites ###
 
 * [LPC Spritesheet Character Generator][395] - A pixel-art RPG-style character spritesheet generator. Arts are dual licensed : [GNU GPLv3][23] and [CC-BY-SA3][127].
+* [SpriteCanvas Free Sprite Sheets][459] - Animated sprite sheets of a swordsman, a knight, four monsters and six effects. Available in PNG with JSON atlases for Phaser, PixiJS and Godot 4. [CC0][289].
 * [SpriteLib][8] - A big collection of sprites. Available in PNG. [CPL 1.0][9].
 
 ## Graphics Tools ##
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://spritecanvas.com/free-sprite-sheets/
