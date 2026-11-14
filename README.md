@@ -176,6 +176,8 @@ These are full-blown game engines.
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
 * [DarkPlaces][314] - Implemented in C. [GNU GPLv2][14] or later.
+* [Deki][459] - Implemented in C++. Designed for 2D games on microcontrollers
+  such as the ESP32, also runs on desktop and in the browser. [Apache2.0][20].
 * [delta3d][373] - Implemented in C++. Also useful for
   simulations. [GNU LGPLv2][102] or later.
 * [Doomsday][134] - Implemented in C++. [GNU GPLv2][14] or later.
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/dekiengine/deki-engine
