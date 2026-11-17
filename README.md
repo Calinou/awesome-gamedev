@@ -481,6 +481,8 @@ This is a section for everything else that doesn't fit in some other graphics ca
 * [Blend Swap][355] - A community of Blender artists and their work. Various
   licenses, all CC.
 * [CanTree][10] - Free online tree generator. Generates PNG files. [Expat][11].
+* [CC0 Materials][459] - Seamless PBR textures up to 4K with OpenGL and DirectX
+  normal maps. [CC0][289].
 * [Kator Legaz 3D Models][297] - 3D Models by of various
   subjects. [CC-BY-3.0][5].
 * [mocapdata.com][298] - A library of motion capture data. Various licenses,
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://cc0materials.com/
