@@ -280,6 +280,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 * [Box3D][457] - Box3D is a 3D physics engine for games. [MIT][403].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
 * [Jolt][447] - Implemented in C++. A multi core friendly rigid body physics and collision detection library. Suitable for games and VR applications. Used by Horizon Forbidden West. [Expat][11]
+* [libfpv][459] - Implemented in C++. FPV drone in any game. Provides a virtual Betaflight-powered quad that can be injected into any 3D game. [GNU GPLv3][23].
 * [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/hammerill/libfpv
