@@ -486,6 +486,7 @@ This is a section for everything else that doesn't fit in some other graphics ca
 * [mocapdata.com][298] - A library of motion capture data. Various licenses,
   including free ones.
 * [Poly Pizza][434] - Thousands of free low poly 3D models licensed under [CC0][289] and [CC-BY-3.0][5]
+* [SceneCrate Free 3D Game Assets][459] - Nine walkable 3D browser-game scenes (buildings, terrain, and props) in binary glTF 2.0 format. [CC0][289].
 * [Yobi3D][13] - A search engine for 3D models that aims to display license
   information when possible. Various licenses, including free ones.
 
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://scenecrate.com/free-3d-game-assets
