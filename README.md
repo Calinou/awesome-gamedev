@@ -812,6 +812,9 @@ an engine would.
 * [ZenGL][393] - A cross-platform game development library designed to provide
   necessary functionality for rendering 2D-graphics, handling input, sound output,
   etc. Implemented in Pascal. [zlib][394].
+* [Vulpen][459] - A Vulkan engine for real-time visuals and GPU compute, whose
+  programs are graphs of C++ and GLSL nodes, changed while they run.
+  Implemented in C++. [MPL 2.0][460].
 
 ## Utilities ##
 
@@ -1287,3 +1290,5 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/CorrelateVisuals/Vulpen-GPU
+[460]: https://www.mozilla.org/en-US/MPL/2.0/
