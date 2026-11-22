@@ -250,6 +250,8 @@ for Action-RPGs. [GNU GPLv3][23] or later.
 * [Torque3D][61] - Implemented in C++. Has [its own scripting language][62]. [Expat][11].
 * [Turbulenz][277] - Implemented in ECMAScript. [Expat][11].
 * [Urho3D][122] - Implemented in C++. Scripted using AngelScript or Lua. [Expat][11].
+* [VNext][459] - Implemented in C++. Designed for visual novels, with a built-in
+  editor that needs no code. [zlib][45].
 * [voxeliq][246] - Implemented in C#. Designed for voxel world games. [MS-PL][247].
 
 ### HTML5 ###
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/zsande/VNext
