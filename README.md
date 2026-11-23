@@ -798,6 +798,7 @@ an engine would.
 * [Recast Navigation][448] - State-of-the-art navmesh generation and navigation for games. [zlib][45]
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating
   windows, accepting user input, and so forth. Implemented in C. [zlib][45].
+* [SDLPainter][459] - A C++17 2D drawing library for SDL3 with OpenGL and Vulkan backends. [MIT][403].
 * [SFML][109] - Simple and Fast Multimedia Library; a multi-platform,
   multi-language, multimedia interface to various computer hardware. Implemented
   in C++. Has a [range of bindings][110]. [3-clause BSD][29].
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/yazilimperver/sdl-painter
