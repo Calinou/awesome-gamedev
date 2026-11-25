@@ -129,6 +129,8 @@ This contains collections of miscellaneous assets of different kinds.
 
 * [Audioaugust][341] - A collection of sound effects, originally used for a
   game. [CC-BY-4.0][136].
+* [Circuit UI SFX free sample][459] - A small collection of procedural
+  retro game sound effects. [CC0][289].
 * [Freesound.org][30] - A collection of CC-licensed sound effects. Various
   licenses, all CC.
 * [jsfxr][290] - A tool like sfxr-sdl but in ECMAScript. [Unlicense][305].
@@ -1287,3 +1289,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/SecondWindMC/CircuitUI-SFX
