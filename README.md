@@ -37,6 +37,7 @@ us today!
   * [Java](#java)
   * [Other/Multiple](#othermultiple)
   * [Python](#python)
+  * [Rust](#rust)
   * [Scala](#scala)
 * [Graphics](#graphics)
   * [Assorted](#assorted)
@@ -469,6 +470,10 @@ may be removed upon clarification.
   game. [GNU GPLv3][23] or later (code), various free culture licenses (assets).
 * [Unknown Horizons][245] - A real-time strategy simulation
   game. [GNU GPLv2][14] or later (code), [CC-BY-SA-3.0][127] (assets).
+
+### Rust ###
+
+* [The Human Box][459] - A browser civilization sim in Rust and WebAssembly where tribes invent their own languages. [Expat][11] (code), [CC0][289] and [Expat][11] (assets).
 
 ## Graphics ##
 
@@ -1287,3 +1292,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/1homsi/thehumanbox
