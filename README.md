@@ -258,6 +258,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11].
 * [Babylon.js][260] - [Apache2.0][20].
+* [branching-story-kit][459] - Zero-dependency branching narrative engine for interactive fiction and visual novels. [MIT][403].
 * [Cocos2d-html5][264] - [Expat][11].
 * [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
 * [Crafty.js][68] - [Expat][11].
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/ouba-studio/branching-story-kit
