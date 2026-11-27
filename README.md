@@ -572,7 +572,8 @@ This category contains any 'grab-bags' of different kinds of art assets.
   using a number of powerful modelling tools. [GNU GPLv3][23] or later.
 
 ### Procedural Generators ###
-
+* [3AGameFactory][459] - A toolkit for generating game assets with coding agents,
+  including 3D models and character animations. [Apache2.0][20].
 * [SpaceshipGenerator][376] - A Blender script allowing generation of spaceships
   from a random seed and some parameters. [Expat][11].
 
@@ -1287,3 +1288,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://github.com/OpenDCAI/GameFactory-3A
